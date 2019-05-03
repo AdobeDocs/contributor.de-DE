@@ -1,12 +1,10 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
+lastModified: '2018-06-28'
 title: Links in der Dokumentation verwenden
 seo-title: Links in der Adobe Git-/Markdown-Dokumentation verwenden
-description: Dieser Artikel enthält Anleitungen zum Erstellen von Links zu Inhalten
-  und Bildern.
-seo-description: In diesem Artikel finden Sie Anleitungen zum Erstellen von Links
-  zu Inhalten und Bildern für die Adobe-Dokumentation.
-translation-type: tm+mt
+description: Dieser Artikel enthält Anleitungen zum Erstellen von Links zu Inhalten und Bildern.
+seo-description: Dieser Artikel enthält Anleitungen zum Erstellen von Links zu Inhalten und Bildern für die Adobe-Dokumentation.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -14,10 +12,10 @@ source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 # Links in der Dokumentation verwenden
 
-In diesem Artikel wird die Verwendung von Hyperlinks in Dokumentationsseiten beschrieben. Links können mit einigen unterschiedlichen Konventionen einfach in Markdown eingefügt werden. Links verweisen auf Inhalte auf derselben Seite, auf andere benachbarte Seiten oder auf externe Sites und URLs.
+Dieser Artikel beschreibt die Verwendung von Hyperlinks in Dokumentationsseiten. Links können mit einigen unterschiedlichen Konventionen einfach in Markdown eingefügt werden. Links verweisen auf Inhalte auf derselben Seite, auf andere benachbarte Seiten oder auf externe Sites und URLs.
 
 > [!IMPORTANT]
-> Alle Links sollten idealerweise sichere Links (`https` vs.) `http`, wenn das Ziel unterstützt wird (die überwiegende Mehrheit).
+> Alle Links sollten idealerweise sicher sein (`https` vs. `http`), wenn das Ziel dies unterstützt (was überwiegend der Fall sein sollte).
 
 ## Link zu URLs
 
