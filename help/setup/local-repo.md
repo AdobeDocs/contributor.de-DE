@@ -1,11 +1,9 @@
 ---
 title: Git-Repository lokal einrichten
 seo-title: Git-Repository lokal für Adobe-Dokumentation einrichten
-description: Dieser Artikel enthält Anleitungen zum Erstellen Ihres lokalen Git-Repositorys
-  und zum Beitrag zur Adobe-Dokumentation, einschließlich des Abspaltungs- und Klonvorgangs.
-seo-description: Dieser Artikel enthält Anleitungen zum Erstellen Ihres lokalen Git-Repositorys
-  und zum Beitrag zur Adobe-Dokumentation, einschließlich des Abspaltungs- und Klonvorgangs.
-translation-type: tm+mt
+description: Dieser Artikel enthält Anleitungen zum Erstellen Ihres lokalen Git-Repositorys und zum Beitrag zur Adobe-Dokumentation, einschließlich des Abspaltungs- und Klonvorgangs.
+seo-description: Dieser Artikel enthält Anleitungen zum Erstellen Ihres lokalen Git-Repositorys und zum Beitrag zur Adobe-Dokumentation, einschließlich des Abspaltungs- und Klonvorgangs.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -29,7 +27,7 @@ Um zur Adobe-Dokumentation beizutragen, können Sie das entsprechende Repository
 
 ## Repository bestimmen
 
-Sie spalten das entsprechende Repository in Ihr eigenes GitHub-Konto ab, um dafür Lese-/Schreibberechtigungen zu erhalten und Ihre vorgeschlagenen Änderungen speichern zu können. [!UICONTROL Adobe Experience Cloud] dokumentation befindet sich in verschiedenen Repositorys unter [github.com](https://www.github.com/adobedocs).
+Sie spalten das entsprechende Repository in Ihr eigenes GitHub-Konto ab, um dafür Lese-/Schreibberechtigungen zu erhalten und Ihre vorgeschlagenen Änderungen speichern zu können. [!UICONTROL Adobe Experience Cloud] Dokumentation befindet sich in verschiedenen Repositorys unter [github.com](https://www.github.com/adobedocs).
 
 1. Wenn Sie sich nicht sicher sind, welches Repository zu verwenden ist, rufen Sie den Artikel mit Ihrem Webbrowser auf. Wählen Sie rechts oben im Artikel den Link **Bearbeiten** (Stiftsymbol). (Wenn Sie keinen Link zum Bearbeiten sehen, ist dieser Inhalt in GitHub noch nicht verfügbar.)
 
@@ -74,4 +72,4 @@ Bei diesen Schritten wird vorausgesetzt, dass Sie GitHub Desktop verwenden. Wenn
 
 1. Verwenden Sie GitHub Desktop, damit lokale Dateien stets mit dem abgespalteten Repository synchronisiert sind.
 
-Weitere Informationen finden Sie in der [GitHub Desktop-Dokumentation](https://help.github.com/desktop/).
+Weitere Informationen finden Sie unter [GitHub Desktop Documentation](https://help.github.com/desktop/).
