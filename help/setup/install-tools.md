@@ -1,14 +1,10 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
+lastModified: '2018-06-28'
 title: Bearbeitungswerkzeuge installieren
 seo-title: Git- und GitHub-Bearbeitungswerkzeuge für die Adobe-Dokumentation installieren
-description: Mithilfe dieses Artikels können Sie die Clientwerkzeuge herunterladen
-  und installieren, die Sie für Git/GitHub und zum Bearbeiten von Markdown-Dateien
-  benötigen.
-seo-description: Mithilfe dieses Artikels können Sie die Clientwerkzeuge herunterladen
-  und installieren, die Sie für Git/GitHub und zum Bearbeiten von Markdown-Dateien
-  für die Adobe-Dokumentation benötigen.
-translation-type: tm+mt
+description: Mithilfe dieses Artikels können Sie die Clientwerkzeuge herunterladen und installieren, die Sie für Git/GitHub und zum Bearbeiten von Markdown-Dateien benötigen.
+seo-description: Mithilfe dieses Artikels können Sie die Clientwerkzeuge herunterladen und installieren, die Sie für Git/GitHub und zum Bearbeiten von Markdown-Dateien für die Adobe-Dokumentation benötigen.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -24,14 +20,14 @@ source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ## Git-Clientwerkzeuge installieren
 
-Für ein grafisches Benutzeroberflächenwerkzeug, das Ihre lokalen Dateien mit Ihren Serverdateien synchronisieren kann, laden Sie [GitHub Desktop](https://desktop.github.com/) herunter. Weitere gängige Optionen sind unter anderem die [verfügbare GUI-Client-Seite von Software Freedom Conservancy](https://git-scm.com/downloads/guis) oder [Microsoft Visual Studio Code](https://www.visualstudio.com/products/code-vs.aspx).
+Laden Sie [GitHub Desktop]( herunter https://desktop.github.com/) – ein grafisches Benutzeroberflächenwerkzeug, das Ihre lokalen Dateien mit Ihren Serverdateien synchronisieren kann. Weitere beliebte Optionen sind z. B. die [verfügbaren GUI-Clients von Software Freedom Conservancy unter ](https://git-scm.com/downloads/guis) oder [Microsoft Visual Studio Code](https://www.visualstudio.com/products/code-vs.aspx).
 
 Wenn Sie eine Befehlszeilenschnittstelle (CLI) einer grafischen Benutzeroberfläche (GUI) bevorzugen, installieren Sie die aktuelle Version der [Git-Clientwerkzeuge von Software Freedom Conservancy](https://git-scm.com/downloads). Die Installation umfasst das Git-Versionssystem und Git Bash, die Befehlszeilen-App, die Sie für die Interaktion mit Ihrem lokalen Git-Repository verwenden können.
 
 Git-Lernressourcen sind hier verfügbar:
 
 * [Git-Grundlagen](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
-* [Umgang mit Git und GitHub erlernen](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
+* [Git und GitHub lernen](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 * [Git-Terminologie](https://help.github.com/articles/github-glossary)
 
 ## Markdown-Bearbeiter verstehen
