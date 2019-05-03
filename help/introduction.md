@@ -1,33 +1,31 @@
 ---
 title: Mitarbeiter-Handbuch für Adobe-Dokumentation
-seo-title: Entwicklerhandbuch für technische Dokumentation zu Adobe Experience Cloud
-description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen
-  zur Adobe-Dokumentationsseite hinzufügen können.
-seo-description: Im Handbuch wird beschrieben, wie Sie zur technischen [!UICONTROL
-  Adobe Experience Cloud]-Dokumentation beitragen können.
-translation-type: tm+mt
+seo-title: Mitarbeiter-Leitfaden für die technische Adobe Experience Cloud-Dokumentation
+description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Adobe-Dokumentationsseite hinzufügen können.
+seo-description: Im Handbuch wird beschrieben, wie Sie zur technischen [!UICONTROL Adobe Experience Cloud]-Dokumentation beitragen können.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
 
 
-# Mitarbeiter-Leitfaden für die Adobe-Dokumentation
+# Überblick über den Mitarbeiter-Leitfaden für die Adobe-Dokumentation
 
-## Was ist die Dokumentation für die Zusammenarbeit?
+## Was ist die Dokumentation zur Zusammenarbeit?
 
-Im Laufe des Jahres 2019 wird der gesamte technische Dokumentations- und Aktivierungsinhalt für Adobe Experience Cloud auf eine neue Plattform basierend auf Open Source-Prinzipien umgestellt, die Github-, Markierungen- und Adobe Experience Cloud-Lösungen nutzen, einschließlich Adobe Experience Manager, Analytics, Launch und Target.
+Im Laufe des Jahres 2019 wird die gesamte technische Dokumentation und der Aktivierungsinhalt für Adobe Experience Cloud auf eine neue Plattform basierend auf Open-Source-Prinzipien umgestellt, die Github-, Markdown- und Adobe Experience Cloud-Lösungen nutzen, einschließlich Adobe Experience Manager, Analytics, Launch und Target.
 
-Dieses Open Source-Modell verbessert die Qualität der Inhalte und die Kommunikation zwischen Kunden, Dokumentationsteams und Produktteams. Auf jeder Seite können Sie jetzt Nutzbarkeit von Inhalten, Protokollprobleme und sogar Inhaltsvorschläge als Git-Pull-Anfragen (prs) bewerten. Die Adobe-Dokumentationsteams überwachen die Beiträge und Probleme täglich und nehmen nach Bedarf Aktualisierungen vor.
+Dieses Open-Source-Modell verbessert die Qualität der Inhalte und die Kommunikation zwischen Kunden, Dokumentationsteams und Produktteams. Auf jeder Seite können Sie jetzt Nutzbarkeit von Inhalten, Protokollprobleme und sogar Inhaltsvorschläge als Git-Pull-Anfragen (PRs) bewerten. Die Adobe-Dokumentationsteams überwachen die Beiträge und Probleme täglich und nehmen nach Bedarf Aktualisierungen und Anpassungen vor.
 
 ## Arbeiten mit Dokumentation zur Zusammenarbeit
 
-Als Benutzer dieses Materials haben Partner, Partner, Kunden oder potenzielle Kunden die Wahl, auf verschiedene einfache Weise zu dieser Dokumentation beizutragen.
+Als Anwender dieses Materials haben Sie - unabhängig davon, ob Sie Angestellter, Partner, Kunde oder potenzieller Kunde sind - die Wahl, auf verschiedene einfache Weise zu dieser Dokumentation beizutragen.
 
-* Helligkeit der Seite bewerten
-* ein Problem mit einer bestimmten Seite melden
-* sogar eine schnelle Bearbeitung bis zum Authoring kompletter Artikel einreichen, einschließlich Assets und Codebeispiele
+* Die Nützlichkeit der Seite bewerten
+* Ein Problem auf einer bestimmten Seite protokollieren
+* Sie können sogar kurze Bearbeitungen durchführen, um komplette Artikel zu verfassen, einschließlich Assets und Codebeispielen
 
-Dieses Handbuch beschreibt alles, was Sie zur Interaktion benötigen, und tragen zu diesem Materialsatz bei.
+In diesem Handbuch wird alles beschrieben, was Sie für einen Beitrag zu diesem Materialsatz wissen müssen.
 
 <!--
 > [!IMPORTANT]
@@ -40,10 +38,10 @@ Dieses Handbuch beschreibt alles, was Sie zur Interaktion benötigen, und tragen
 
 Das schnelle Bearbeiten ist eine gute Möglichkeit, kleine Fehler in Dokumenten zu beheben oder fehlenden Inhalt hinzuzufügen. Wenn ein Artikel wie unten gezeigt eine Schaltfläche zum Bearbeiten anzeigt, können Sie selbst eine schnelle Korrektur vornehmen. Wenn Sie das Dokument bearbeiten, übermitteln Sie eine Pull-Anfrage (PA) an uns, um die Korrektur/den Vorschlag an uns zu senden, und wir können den Vorschlag prüfen, genehmigen und veröffentlichen.
 
-1. Signieren Sie die [Lizenzvereinbarung für Mitarbeiter (CLA)](http://opensource.adobe.com/cla.html) , wenn sie akzeptabel ist.
+1. Unterschreiben Sie die [Lizenzvereinbarung für Mitarbeiter (CLA)](http://opensource.adobe.com/cla.html), falls akzeptabel.
 
-   Sie müssen nur einmal eine Adobe CLA übermitteln.
-1. Klicken Sie in der rechten Spalte auf **, um zur Markdown-Quelldatei auf GitHub zu wechseln.`Edit this page`**
+   Sie müssen nur einmal eine Adobe-Lizenzvereinbarung für Mitarbeiter übermitteln.
+1. Klicken Sie in der rechten Spalte auf **`Edit this page`**, um zur Markdown-Quelldatei auf GitHub zu wechseln.
 1. Klicken Sie auf das Stiftsymbol, um den Artikel zu bearbeiten.
 
    > [!NOTE]
@@ -56,7 +54,7 @@ Das schnelle Bearbeiten ist eine gute Möglichkeit, kleine Fehler in Dokumenten 
 
    ![Änderung vorschlagen](assets/submit-pull-request.png)
 
-   >[!NOTE] Wenn Sie eine Validierungsfehlermeldung zum Signieren einer CLA-Lizenzvereinbarung erhalten, klicken Sie **auf "Details** " , um die Lizenzvereinbarung zu öffnen. Signieren Sie die Vereinbarung, falls akzeptabel. Schließen Sie dann die Pull-Anforderung und öffnen Sie sie und fahren Sie fort.
+   >[!NOTE] Wenn Sie eine Validierungsfehlermeldung zum Unterschreiben einer Lizenzvereinbarung für Mitarbeiter (CLA) erhalten, klicken Sie auf **Details**, um die Lizenzvereinbarung zu öffnen. Unterschreiben Sie die Vereinbarung, falls akzeptabel. Schließen und öffnen Sie dann die Pull-Anfrage und fahren Sie fort.
 
 Das ist alles. Vielen Dank! Mitglieder des Dokumentationsteams überprüfen Ihre Pull-Anfrage und führen sie zusammen.
 
@@ -77,7 +75,7 @@ Eine weitere einfache Möglichkeit, uns über ein Problem mit einem Inhaltseleme
 
    ![](assets/git_issue_example.png)
 
-Beim Senden eines Problems wird das Inhaltsteam direkt auf diese Seite hingewiesen, die handeln kann. Wenn wir den Inhalt aktualisiert haben, teilen wir Ihnen dies in der GitHub-Problemoberfläche mit und Sie werden bei Aktualisierung oder Schließung des Problems per E-Mail informiert.
+Durch das Melden eines Problems wird das Inhaltsteam direkt auf diese Seite hingewiesen und kann entsprechend handeln. Wenn wir den Inhalt aktualisiert haben, teilen wir Ihnen dies in der GitHub-Problemoberfläche mit und Sie werden bei Aktualisierung oder Schließung des Problems per E-Mail informiert.
 
 ## GitHub-Berechtigungen verstehen
 
