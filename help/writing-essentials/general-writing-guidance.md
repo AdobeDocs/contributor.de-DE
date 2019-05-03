@@ -1,15 +1,15 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
+lastModified: '2018-06-28'
 title: Anleitungen zum Schreiben für Adobe-Dokumentation
 seo-title: Anleitungen zum Schreiben für Adobe-Dokumentation
 description: Dieser Artikel enthält wichtige Anleitungen zum Beitrag zur Adobe-Dokumentation.
 seo-description: Dieser Artikel enthält wichtige Anleitungen zum Beitrag zur Adobe-Dokumentation.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
 
-# Schreiben von Richtlinien für die Adobe-Dokumentation
+# Schreibanleitung für die Adobe-Dokumentation
 
 Diese Richtlinien gelten für die Erstellung neuer Dokumentation oder die Aktualisierung vorhandener Dokumentation.
 
