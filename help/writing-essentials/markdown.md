@@ -1,22 +1,19 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
+lastModified: '2018-06-28'
 title: Markdown zum Schreiben von Dokumentation verwenden
 seo-title: Markdown zum Schreiben von Adobe-Dokumentation verwenden
-description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen
-  für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
-seo-description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen
-  für die Markdown-Sprache, die zum Schreiben von Artikeln für Adobe-Dokumentation
-  verwendet wird.
-translation-type: tm+mt
+description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
+seo-description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln für Adobe-Dokumentation verwendet wird.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
 
 # Markdown zum Schreiben von technischer Dokumentation verwenden
 
-Die technischen Adobe-Dokumentationsartikel werden in einer einfachen Markup-Sprache namens [Markdown](https://daringfireball.net/projects/markdown/) geschrieben, die einfach zu lesen und zu lernen ist.
+Die Artikel zu technischen Dokumentationen von Adobe werden in einer einfachen Markup-Sprache namens [Markdown](https://daringfireball.net/projects/markdown/) geschrieben, die leicht zu lesen und zu lernen ist.
 
-Wenn wir Adobe Docs-Inhalt in GitHub speichern, kann eine Version von Markdown mit dem Namen [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) verwendet werden, die zusätzliche Funktionen für allgemeine Formatierungsanforderungen bietet. Außerdem erweiterte Adobe Markdown auf verschiedene Arten, um bestimmte Hilfefunktionen wie Anmerkungen, Tipps und eingebettete Videos zu unterstützen.
+Wenn wir Adobe Docs-Inhalte in GitHub speichern, kann eine Version von Markdown namens [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) verwendet werden, die zusätzliche Funktionen für allgemeine Formatierungsanforderungen bietet. Außerdem erweiterte Adobe Markdown auf verschiedene Arten, um bestimmte Hilfefunktionen wie Anmerkungen, Tipps und eingebettete Videos zu unterstützen.
 
 ## Markdown-Grundlagen
 
@@ -151,8 +148,8 @@ Einfache Tabellen funktionieren in Markdown angemessen. Tabellen, die mehrere Ab
 Weitere Informationen zum Erstellen von Tabellen finden Sie unter:
 
 - GitHub – [Informationen mit Tabellen organisieren](https://help.github.com/articles/organizing-information-with-tables/)
-- Webapp [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
-- [HTML-Tabellen in Markdown konvertieren](https://jmalarcon.github.io/markdowntables/)
+- Die [Markdown Tabellen-Generator](https://www.tablesgenerator.com/markdown_tables) Web-Anwendung
+- [Konvertieren von HTML-Tabellen in Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Links
 
@@ -168,7 +165,7 @@ Angezeigt:
 
 [Adobe](https://www.adobe.com) oder <https://www.adobe.com>
 
-Verwenden Sie relative Links für Verknüpfungen zu Artikeln (Querverweise) im Repository. Sie können alle relativen Link-Operanden verwenden, z. B. ../ (aktuelles Verzeichnis), ../ (ein Verzeichnis zurück) und ../../ (zwei Verzeichnisse zurück).
+Verwenden Sie relative Links für Verknüpfungen zu Artikeln (Querverweise) im Repository. Sie können alle relativen Link-Operanden verwenden, z. B.../ (aktuelles Verzeichnis), ../ (ein Verzeichnis zurück) und ../../ (zwei Verzeichnisse zurück).
 
 ```markdown
 See [Overview example article](../../overview.md)
@@ -338,7 +335,7 @@ Für Elemente in der Benutzeroberfläche und Menüs einer Lösung verwenden wir 
 
 **Beispiel:**
 
-Sie können [!DNL Adobe Target] Ihre Tests direkt auf einer [!DNL Target]-aktivierten Seite erstellen.
+In [!DNL Adobe Target] können Sie Ihre Tests direkt auf einer [!DNL Target]-aktivierten Seite erstellen.
 
 **Quelle:**
 
@@ -346,9 +343,9 @@ Sie können [!DNL Adobe Target] Ihre Tests direkt auf einer [!DNL Target]-aktivi
 In [!DNL Adobe Target] you can create your tests directly on a [!DNL Target]-enabled page.
 ```
 
-**Beispiel **
+**Beispiel**
 
-Verwenden Sie die [!UICONTROL Visual Experience Composer] Funktion zum [!DNL Target] direkten Erstellen Ihres Tests auf einer Seite.
+Verwenden Sie den [!UICONTROL Visual Experience Composer] in [!DNL Target], um Ihren Test direkt auf einer Seite zu erstellen.
 
 **Quelle:**
 
@@ -379,7 +376,7 @@ Wenn Sie Text in einen Markdown-Bearbeiter kopieren, kann der Text „smarte“ 
 Im Folgenden finden Sie die Kodierungen für die „smarten“ Versionen dieser Interpunktionszeichen:
 
 - Anführungszeichen links (öffnend): `&#8220;`
-- Anführungszeichen rechts (geschlossen): `&#8221;`
+- Anführungszeichen rechts (schließend): `&#8221;`
 - Rechts (schließend) einfaches Anführungszeichen oder Apostroph: `&#8217;`
 - Links (öffnend) einfaches Anführungszeichen (selten verwendet): `&#8216;`
 
@@ -397,5 +394,5 @@ Et-Zeichen (&) sind in Titeln nicht zulässig. Verwenden Sie stattdessen „und�
 
 ### Markdown-Ressourcen
 
-- [Markdown-Einführung](https://daringfireball.net/projects/markdown/syntax)
-- [GitHub-Markdown-Grundlagen](https://help.github.com/articles/markdown-basics/)
+- [Einführung in Markdown](https://daringfireball.net/projects/markdown/syntax)
+- [GitHub Markdown-Grundlagen](https://help.github.com/articles/markdown-basics/)
