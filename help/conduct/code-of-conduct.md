@@ -1,6 +1,6 @@
 ---
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
-translation-type: tm+mt
+translation-type: ht
 
 ---
 # Adobe-Verhaltenskodex
@@ -46,4 +46,4 @@ Gegen Projektverantwortliche, die den Verhaltenskodex nicht nach Treu und Glaube
 
 ## Attribution
 
-Dieser Kodex wurde aus dem [Contributor Covenant](https://contributor-covenant.org), Version 1.4, abgeleitet, der hier verfügbar ist: [https://contributor-covenant.org/version/1/4.](https://contributor-covenant.org/version/1/4/)
+Dieser Verhaltenskodex wurde aus dem [Contributor Covenant](https://contributor-covenant.org), Version 1.4 abgeleitet, erhältlich unter [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
