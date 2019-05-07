@@ -5,7 +5,7 @@ seo-title: GitHub-Beitragsarbeitsablauf für umfangreiche Änderungen der Adobe-
 description: In diesem Artikel erfahren Sie, wie Sie mit dem umfangreichen Mitarbeiterarbeitsablauf Beiträge zur Adobe-Dokumentation erstellen.
 seo-description: In diesem Artikel erfahren Sie, wie Sie mit dem umfangreichen Mitarbeiterarbeitsablauf Beiträge zur Adobe-Dokumentation erstellen.
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: cb9e20da64bb04a2b1765338b237825cae7aabeb
 
 ---
 

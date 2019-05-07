@@ -4,7 +4,7 @@ seo-title: Git-Repository lokal für Adobe-Dokumentation einrichten
 description: Dieser Artikel enthält Anleitungen zum Erstellen Ihres lokalen Git-Repositorys und zum Beitrag zur Adobe-Dokumentation, einschließlich des Abspaltungs- und Klonvorgangs.
 seo-description: Dieser Artikel enthält Anleitungen zum Erstellen Ihres lokalen Git-Repositorys und zum Beitrag zur Adobe-Dokumentation, einschließlich des Abspaltungs- und Klonvorgangs.
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: 223b40e1903c5de90dee90a138967efb02237a42
 
 ---
 

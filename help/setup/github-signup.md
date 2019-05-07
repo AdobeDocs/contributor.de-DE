@@ -6,7 +6,7 @@ description: Führen Sie die Schritte zum Einrichten von Konten für GitHub durc
 seo-description: Führen Sie die Schritte zum Einrichten von Konten für GitHub durch, um Inhalt zur Adobe-Dokumentation beizutragen.
 index: true
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: beff041de31171a7ddd8a3b829adea7cc142e046
 
 ---
 

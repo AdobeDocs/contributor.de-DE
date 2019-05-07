@@ -5,7 +5,7 @@ seo-title: Git- und GitHub-Bearbeitungswerkzeuge für die Adobe-Dokumentation in
 description: Mithilfe dieses Artikels können Sie die Clientwerkzeuge herunterladen und installieren, die Sie für Git/GitHub und zum Bearbeiten von Markdown-Dateien benötigen.
 seo-description: Mithilfe dieses Artikels können Sie die Clientwerkzeuge herunterladen und installieren, die Sie für Git/GitHub und zum Bearbeiten von Markdown-Dateien für die Adobe-Dokumentation benötigen.
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: c52ce435e8bbd6a4666cf9b5f46ccfc8b12c170f
 
 ---
 
