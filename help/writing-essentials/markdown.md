@@ -4,16 +4,17 @@ title: Markdown zum Schreiben von Dokumentation verwenden
 seo-title: Markdown zum Schreiben von Adobe-Dokumentation verwenden
 description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 seo-description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln für Adobe-Dokumentation verwendet wird.
-translation-type: ht
-source-git-commit: cda3618353a35ebb7dd73a64777ca1c788f5b72b
+translation-type: tm+mt
+source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
 
+
 # Markdown zum Schreiben von technischer Dokumentation verwenden
 
-Die Artikel zu technischen Dokumentationen von Adobe werden in einer einfachen Markup-Sprache namens [Markdown](https://daringfireball.net/projects/markdown/) geschrieben, die leicht zu lesen und zu lernen ist.
+Die technischen Adobe-Dokumentationsartikel werden in einer einfachen Markup-Sprache namens [Markdown](https://daringfireball.net/projects/markdown/) geschrieben, die einfach zu lesen und zu lernen ist.
 
-Wenn wir Adobe Docs-Inhalte in GitHub speichern, kann eine Version von Markdown namens [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) verwendet werden, die zusätzliche Funktionen für allgemeine Formatierungsanforderungen bietet. Außerdem erweiterte Adobe Markdown auf verschiedene Arten, um bestimmte Hilfefunktionen wie Anmerkungen, Tipps und eingebettete Videos zu unterstützen.
+Wenn wir Adobe Docs-Inhalt in GitHub speichern, kann eine Version von Markdown mit dem Namen [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) verwendet werden, die zusätzliche Funktionen für allgemeine Formatierungsanforderungen bietet. Außerdem erweiterte Adobe Markdown auf verschiedene Arten, um bestimmte Hilfefunktionen wie Anmerkungen, Tipps und eingebettete Videos zu unterstützen.
 
 ## Markdown-Grundlagen
 
@@ -117,7 +118,7 @@ Angezeigt:
 
    | Hallo | Welt |
    |---|---|
-   | Wie | geht's? |
+   | Wie | geht&#39;s? |
 1. Dies ist der vierte Schritt.
 
    >[!NOTE]
@@ -148,8 +149,8 @@ Einfache Tabellen funktionieren in Markdown angemessen. Tabellen, die mehrere Ab
 Weitere Informationen zum Erstellen von Tabellen finden Sie unter:
 
 - GitHub – [Informationen mit Tabellen organisieren](https://help.github.com/articles/organizing-information-with-tables/)
-- Die [Markdown Tabellen-Generator](https://www.tablesgenerator.com/markdown_tables) Web-Anwendung
-- [Konvertieren von HTML-Tabellen in Markdown](https://jmalarcon.github.io/markdowntables/)
+- Webapp [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+- [HTML-Tabellen in Markdown konvertieren](https://jmalarcon.github.io/markdowntables/)
 
 ### Links
 
@@ -215,11 +216,11 @@ function test() {
  console.log("notice the blank line before this function?");
 ```
 
-Sie können Eigenschaften für Codeblöcke angeben, um die Zeilennummern (standardmäßig aktiviert) zu deaktivieren oder einen Zeilenumbruch hinzuzufügen (standardmäßig deaktiviert). Verwenden Sie {line-numbers="no"} und {line-wrap="yes"}. Diese Eigenschaften sind benutzerdefinierte Markdown-Erweiterungen.
+Sie können Eigenschaften für Codeblöcke angeben, um die Zeilennummern (standardmäßig aktiviert) zu deaktivieren oder einen Zeilenumbruch hinzuzufügen (standardmäßig deaktiviert). Verwenden Sie {line-numbers=&quot;no&quot;} und {line-wrap=&quot;yes&quot;}. Diese Eigenschaften sind benutzerdefinierte Markdown-Erweiterungen.
 
-\`\`\`javascript {line-numbers="no"}
+\`\`\`javascript {line-numbers=&quot;no&quot;}
 function test() {
-console.log("Ist Ihnen die leere Zeile vor dieser Funktion aufgefallen?");
+console.log(&quot;Ist Ihnen die leere Zeile vor dieser Funktion aufgefallen?&quot;);
 \`\`\`
 
 ### Definitionslisten
@@ -258,7 +259,7 @@ Adobe-Artikel verwenden Standard-Markdown für die meisten Artikelformatierungen
 - Nicht lokalisieren
 - Komponenteneigenschaften, z. B. Zuweisen einer anderen Kopfzeilen-ID zu einer Kopfzeile
 
-Verwenden Sie das Markdown-Blockanführungszeichen (>) am Anfang jeder Zeile, um eine erweiterte Komponente wie einen Hinweis anzubinden. Wenn Sie Unterkomponenten in Komponenten verwenden müssen, fügen Sie für diesen Unterkomponentenabschnitt eine zusätzliche Ebene von Blockanführungszeichen (>  >) hinzu. Beispielsweise sollte ein HINWEIS in einem NICHTLOKALISIEREN-Abschnitt mit >    > beginnen.
+Verwenden Sie das Markdown-Blockanführungszeichen (&gt;) am Anfang jeder Zeile, um eine erweiterte Komponente wie einen Hinweis anzubinden. Wenn Sie Unterkomponenten in Komponenten verwenden müssen, fügen Sie für diesen Unterkomponentenabschnitt eine zusätzliche Ebene von Blockanführungszeichen (&gt;  &gt;) hinzu. Beispielsweise sollte ein HINWEIS in einem NICHTLOKALISIEREN-Abschnitt mit &gt;    &gt; beginnen.
 
 Einige gängige Markdown-Elemente wie Kopfzeilen und Codeblöcke umfassen erweiterte Eigenschaften. Wenn Sie die Standardeigenschaften ändern müssen, fügen Sie die Parameter in geschweiften Klammern /{ /} nach der Komponente hinzu. Erweiterte Eigenschaften werden im Kontext beschrieben.
 
@@ -388,11 +389,11 @@ Kodieren Sie beispielsweise `<script name>` als `&lt;script name&gt;`
 
 ### Et-Zeichen in Titeln
 
-Et-Zeichen (&) sind in Titeln nicht zulässig. Verwenden Sie stattdessen „und“ oder die `&amp;`-Kodierung.
+Et-Zeichen (&amp;) sind in Titeln nicht zulässig. Verwenden Sie stattdessen „und“ oder die `&amp;`-Kodierung.
 
 ## Siehe auch
 
 ### Markdown-Ressourcen
 
-- [Einführung in Markdown](https://daringfireball.net/projects/markdown/syntax)
-- [GitHub Markdown-Grundlagen](https://help.github.com/articles/markdown-basics/)
+- [Markdown-Einführung](https://daringfireball.net/projects/markdown/syntax)
+- [GitHub-Markdown-Grundlagen](https://help.github.com/articles/markdown-basics/)
