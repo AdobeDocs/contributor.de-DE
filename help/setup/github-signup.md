@@ -5,7 +5,7 @@ seo-title: Schritte zur GitHub-Kontoeinrichtung für die Adobe Experience Cloud-
 description: Führen Sie die Schritte zum Einrichten von Konten für GitHub durch, um Inhalt zur Adobe-Dokumentation beizutragen.
 seo-description: Führen Sie die Schritte zum Einrichten von Konten für GitHub durch, um Inhalt zur Adobe-Dokumentation beizutragen.
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
@@ -27,7 +27,7 @@ Identifizieren Sie alle Zugehörigkeiten in Ihrem GitHub-Profil. Mit der Identif
 
 Für alle Drittanbieterbeiträge zu diesem Projekt muss eine signierte Lizenzvereinbarung für Mitarbeiter vorliegen. So kann Adobe Mitarbeiter im Rahmen des Projekts neu verteilen.
 
-1. Signieren Sie die [Lizenzvereinbarung für Mitarbeiter (CLA)](http://opensource.adobe.com/cla.html) , wenn sie akzeptabel ist.
+1. Unterschreiben Sie die [Lizenzvereinbarung für Mitarbeiter (CLA)](http://opensource.adobe.com/cla.html), falls akzeptabel.
 
 ## Adobe-Mitarbeiter
 
