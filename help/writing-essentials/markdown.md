@@ -4,7 +4,7 @@ title: Markdown zum Schreiben von Dokumentation verwenden
 seo-title: Markdown zum Schreiben von Adobe-Dokumentation verwenden
 description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 seo-description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln für Adobe-Dokumentation verwendet wird.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
@@ -12,9 +12,9 @@ source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 # Markdown zum Schreiben von technischer Dokumentation verwenden
 
-Die technischen Adobe-Dokumentationsartikel werden in einer einfachen Markup-Sprache namens [Markdown](https://daringfireball.net/projects/markdown/) geschrieben, die einfach zu lesen und zu lernen ist.
+Die Artikel zu technischen Dokumentationen von Adobe werden in einer einfachen Markup-Sprache namens [Markdown](https://daringfireball.net/projects/markdown/) geschrieben, die leicht zu lesen und zu lernen ist.
 
-Wenn wir Adobe Docs-Inhalt in GitHub speichern, kann eine Version von Markdown mit dem Namen [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) verwendet werden, die zusätzliche Funktionen für allgemeine Formatierungsanforderungen bietet. Außerdem erweiterte Adobe Markdown auf verschiedene Arten, um bestimmte Hilfefunktionen wie Anmerkungen, Tipps und eingebettete Videos zu unterstützen.
+Wenn wir Adobe Docs-Inhalte in GitHub speichern, kann eine Version von Markdown namens [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) verwendet werden, die zusätzliche Funktionen für allgemeine Formatierungsanforderungen bietet. Außerdem erweiterte Adobe Markdown auf verschiedene Arten, um bestimmte Hilfefunktionen wie Anmerkungen, Tipps und eingebettete Videos zu unterstützen.
 
 ## Markdown-Grundlagen
 
@@ -149,8 +149,8 @@ Einfache Tabellen funktionieren in Markdown angemessen. Tabellen, die mehrere Ab
 Weitere Informationen zum Erstellen von Tabellen finden Sie unter:
 
 - GitHub – [Informationen mit Tabellen organisieren](https://help.github.com/articles/organizing-information-with-tables/)
-- Webapp [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
-- [HTML-Tabellen in Markdown konvertieren](https://jmalarcon.github.io/markdowntables/)
+- Die [Markdown Tabellen-Generator](https://www.tablesgenerator.com/markdown_tables) Web-Anwendung
+- [Konvertieren von HTML-Tabellen in Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Links
 
@@ -332,7 +332,7 @@ Wörter, Ausdrücke und andere Elemente müssen in unseren Übersetzungssystemen
 
 Wörter oder Ausdrücke, die nicht lokalisiert werden sollen, können Sie in die `[!DNL]`-Erweiterung einschließen.
 
-Für Elemente in der Benutzeroberfläche und Menüs einer Lösung verwenden wir die `[!UICONTROL]`-Erweiterung.
+Für Elemente in der Benutzeroberfläche und Menüs einer Lösung verwenden wir die ``-Erweiterung.
 
 **Beispiel:**
 
@@ -395,5 +395,5 @@ Et-Zeichen (&amp;) sind in Titeln nicht zulässig. Verwenden Sie stattdessen „
 
 ### Markdown-Ressourcen
 
-- [Markdown-Einführung](https://daringfireball.net/projects/markdown/syntax)
-- [GitHub-Markdown-Grundlagen](https://help.github.com/articles/markdown-basics/)
+- [Einführung in Markdown](https://daringfireball.net/projects/markdown/syntax)
+- [GitHub Markdown-Grundlagen](https://help.github.com/articles/markdown-basics/)
