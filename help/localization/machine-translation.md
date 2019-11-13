@@ -1,6 +1,6 @@
 ---
-title: Language Support for Adobe Experience Cloud Product Documentation
-seo-title: Language Support for Adobe Experience Cloud Product Documentation
+title: Sprachunterstützung für Adobe Experience Cloud-Produktdokumentation
+seo-title: Sprachunterstützung für Adobe Experience Cloud-Produktdokumentation
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Adobe-Dokumentationsseite hinzufügen können.
 seo-description: Im Handbuch wird beschrieben, wie Sie zur technischen [!UICONTROL Adobe Experience Cloud]-Dokumentation beitragen können.
 translation-type: tm+mt
@@ -23,7 +23,7 @@ Sie können die Produktdokumentation zu Adobe Experience Cloud in den meisten Sp
 
 1. Klicken Sie auf das Sprachauswahl-Symbol (World-Symbol) und wählen Sie dann eine Sprache aus.
 
-   ![Language selector](assets/language-dropdown.png)
+   ![Sprachauswahl](assets/language-dropdown.png)
 
    Die Seite wird in der von Ihnen gewählten Sprache angezeigt.
 
@@ -41,29 +41,26 @@ Sie können die Produktdokumentation zu Adobe Experience Cloud in den meisten Sp
 
 Adobe nutzt die automatischen Übersetzungsfunktionen, um Inhalte zur Produktunterstützung in verschiedenen Sprachen so schnell wie möglich zu veröffentlichen. Da Supportinhalte für die Nutzung von Produkten von entscheidender Bedeutung sind, legen wir der Übersetzung von Inhalten durch qualifizierte Fachkräfte Priorität ein. Wir können uns aber auch für automatische Übersetzungen entscheiden, bei denen Geschwindigkeit und Dringlichkeit am wichtigsten sind.
 
-Die automatische Übersetzung ist im Internet allgegenwärtig und wird allgemein als leistungsfähiges Werkzeug zur Informationserfassung akzeptiert. It has been widely adopted for knowledge base content, where there may be little to no human intervention. Although there have been major technological breakthroughs in recent years, automatically-generated translations may contain occasional inaccuracies and errors in language and meaning.
+Die automatische Übersetzung ist im Internet allgegenwärtig und wird allgemein als leistungsfähiges Werkzeug zur Informationserfassung akzeptiert. Es wurde weithin für Inhalte der Wissensgrundlage angenommen, wo es wenig bis gar keine menschlichen Eingriffe geben könnte. Obwohl es in den letzten Jahren bedeutende technologische Durchbrüche gegeben hat, können automatisch erstellte Übersetzungen gelegentliche Ungenauigkeiten und Fehler in Sprache und Bedeutung enthalten.
 
-### Automatic Translation via the Browser
+### Automatische Übersetzung über den Browser
 
-If you have set your browser preferences to automatically translate any page into your language, be aware that the resulting translations will differ from those obtained through the Adobe page. That is because the service offered by the browser may be stock translations, while the Adobe translations will have been customized to adhere to Adobe style guidelines and terminology. To obtain optimal automatic translation results, we recommend that you either disable the browser option for this specific site in your browser preferences, or click Never translate when it displays.****
+Wenn Sie Ihre Browsereinstellungen so eingestellt haben, dass eine Seite automatisch in Ihre Sprache übersetzt wird, beachten Sie, dass die resultierenden Übersetzungen sich von den Übersetzungen auf der Adobe-Seite unterscheiden. Der Grund dafür ist, dass der vom Browser angebotene Dienst möglicherweise Übersetzungen aus Beständen sind, während die Adobe-Übersetzungen an die Adobe-Stilrichtlinien und -Terminologie angepasst wurden. Um optimale Ergebnisse bei der automatischen Übersetzung zu erzielen, sollten Sie entweder die Browseroption für diese bestimmte Site in Ihren Browsereinstellungen deaktivieren oder auf **Nie übersetzen** klicken, wenn sie angezeigt wird.
 
 ### Bekannte Probleme
 
-You might occasionally experience issues with the automatic translation output, such as incomplete translations, corrupted characters or page layout issues. These are caused by any of the various authoring, publishing, or translation technology tools Adobe uses. Wir werden alles tun, um die bekannten Probleme unten aufzulisten.
+Eventuell treten bei Ihnen Probleme mit der automatischen Übersetzungsausgabe auf, z. B. unvollständige Übersetzungen, beschädigte Zeichen oder Probleme mit dem Seitenlayout. Diese werden von den verschiedenen Werkzeugen zur Inhaltserstellung, -veröffentlichung oder -übersetzung verursacht, die Adobe verwendet. Wir werden alles tun, um die bekannten Probleme unten aufzulisten.
 
 | **PROBLEME-ID** | **BESCHREIBUNG** | **STATUS** |
 |--------------|-------------------------------------------------------------------------------------|------------|
 | G11N3558 | Einige Audience Manager-Seiten sind halb Englisch und halb übersetzt (Französisch, Spanisch). | OPEN |
 
-### Feedback
+### Feedback 
 
-Bei jeder automatischen Übersetzung von Inhalten, entweder standardmäßig oder durch Benutzeraktion, gibt es die Möglichkeit, Adobe Feedback zu den Übersetzungen zu geben. In der hellblauen horizontalen Leiste oben auf der Seite können Sie "Ja"oder "Nein"auf die Frage "War diese Übersetzung nützlich?"antworten. Adobe collects this valuable
-metric and analyzes the compiled data in order to make decisions about content translation. Wir schätzen Ihr Feedback und empfehlen Ihnen, darauf zu reagieren.
+Bei jeder automatischen Übersetzung von Inhalten, entweder standardmäßig oder durch Benutzeraktion, gibt es die Möglichkeit, Adobe Feedback zu den Übersetzungen zu geben. In der hellblauen horizontalen Leiste oben auf der Seite können Sie "Ja"oder "Nein"auf die Frage "War diese Übersetzung nützlich?"antworten. Adobe erfasst diese wertvolle Metrik und analysiert die kompilierten Daten, um Entscheidungen über die Inhaltsübersetzung zu treffen. Wir schätzen Ihr Feedback und empfehlen Ihnen, darauf zu reagieren.
 
-![Feedback](assets/machine-translation-feedback.png)
+![Feedback ](assets/machine-translation-feedback.png)
 
-In the future, we plan to allow you to provide more extensive feedback, in the form of logging an issue, making suggested improvements, and even requesting
-additional languages. Some of these features are already available on the English pages. In the long run, we believe this will help Adobe improve the user
-experience on these pages.
+Für die Zukunft planen wir, dass Sie ausführlichere Feedback geben können, indem Sie ein Problem protokollieren, Verbesserungsvorschläge machen und sogar zusätzliche Sprachen anfordern. Einige dieser Funktionen sind bereits auf den englischen Seiten verfügbar. Langfristig glauben wir, dass dies Adobe dabei helfen wird, die Benutzererfahrung auf diesen Seiten zu verbessern.
 
-![Improve this page](assets/feedback.png)
+![Diese Seite verbessern](assets/feedback.png)
