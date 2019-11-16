@@ -1,27 +1,27 @@
 ---
-title: Sprachunterstützung für Adobe Experience Cloud-Produktdokumentation
-seo-title: Sprachunterstützung für Adobe Experience Cloud-Produktdokumentation
+title: Sprachunterstützung für die Produktdokumentation von Adobe Experience Cloud
+seo-title: Sprachunterstützung für die Produktdokumentation von Adobe Experience Cloud
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Adobe-Dokumentationsseite hinzufügen können.
 seo-description: Im Handbuch wird beschrieben, wie Sie zur technischen [!UICONTROL Adobe Experience Cloud]-Dokumentation beitragen können.
 translation-type: tm+mt
-source-git-commit: 6c4ff238f6fa4287b9032a123959db3666cb463c
+source-git-commit: 9db7dd1fb9b22bc35f887d0441a1837813efc9cc
 
 ---
 
 
-# Sprachunterstützung für Adobe Experience Cloud-Produktdokumentation
+# Sprachunterstützung für die Produktdokumentation von Adobe Experience Cloud
 
-Adobe erkennt an, dass Sie auf Produktdokumentation, Hilfe und Supportinhalte angewiesen sind, damit diese problemlos in von Adobe-Produkten unterstützten Sprachen verfügbar sind. Um dieses Ziel zu erreichen, bietet Adobe ein einzigartiges Übersetzungserlebnis, mit dem Sie die Sprache Ihrer Wahl auswählen und Feedback zur Qualität der übersetzten Inhalte geben können.
+Für Adobe ist klar, dass Sie sich darauf verlassen, die Produktdokumentation, Hilfe und Support-Inhalte in den von Adobe-Produkten unterstützten Sprachen zu erhalten. Um dieses Ziel zu erreichen, bietet Adobe ein einzigartiges Übersetzungserlebnis, mit dem Sie die gewünschte Sprache auswählen und Feedback über die Qualität der übersetzten Inhalte geben können.
 
 ## Sprache auswählen
 
-Sie können die Produktdokumentation zu Adobe Experience Cloud in den meisten Sprachen anzeigen.
+Die Produktdokumentation von Adobe Experience Cloud ist in den meisten Sprachen verfügbar.
 
 1. Navigieren Sie zur Experience Cloud- [Produktdokumentation](https://helpx.adobe.com/support/experience-cloud.html).
 
 1. Suchen Sie nach einer Hilfeseite (z. B. [Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html)).
 
-1. Klicken Sie auf das Sprachauswahl-Symbol (World-Symbol) und wählen Sie dann eine Sprache aus.
+1. Klicken Sie auf die Sprachauswahl (Weltsymbol) und wählen Sie dann eine Sprache aus.
 
    ![Sprachauswahl](assets/language-dropdown.png)
 
@@ -29,38 +29,47 @@ Sie können die Produktdokumentation zu Adobe Experience Cloud in den meisten Sp
 
    ![Übersetzte Seite](assets/french.png)
 
-   Wenn Ihre Sprachversion noch nicht verfügbar ist, kann Adobe Ihre Inhalte automatisch übersetzen. Der automatische Übersetzungsdienst von Adobe zeigt eine Meldung oben auf der Seite in einem blauen Feld an:
+   Wenn Ihre Sprachversion noch nicht verfügbar ist, kann Adobe Ihre Inhalte automatisch übersetzen. Der automatische Übersetzungsdienst von Adobe zeigt oben auf der Seite eine Nachricht in einem blauen Feld an:
 
    ![Übersetzungsnachricht](assets/machine-translation-message.png)
 
-   Der Inhalt kann automatisch in Ihrer Sprache wiedergegeben werden, oder Sie können auf einen Link klicken, um die Übersetzung auszulösen. (Dieses Szenario kann auftreten, wenn Sie auf den Hyperlink geklickt haben, um von der übersetzten Seite zur englischen Quelle zurückzukehren. Sie haben die Möglichkeit, die übersetzte Seite bei Bedarf anzuzeigen.) Sie können jederzeit zur englischen Quelle zurückkehren.
+   Der Inhalt kann automatisch in Ihrer Sprache angezeigt werden oder Sie können auf einen Link klicken, um die Übersetzung anzuzeigen. (Dazu kann es kommen, wenn Sie auf den Hyperlink geklickt haben, um von der übersetzten Seite zum englischen Ausgangstext zurückzukehren. Damit können Sie die übersetzte Seite bei Bedarf anzeigen.) Sie können jederzeit zum englischen Ausgangstext zurückkehren.
 
-   Gelegentlich wurde der englische Quellinhalt möglicherweise vor Abschluss der Übersetzungen aktualisiert und veröffentlicht. Wenn Sie im Dropdown-Menü auf Ihre Sprache klicken, wird eine Benachrichtigung angezeigt — in der hellblauen horizontalen Leiste oben auf der Seite — , die darauf hinweist, dass die Seite automatisch aus der vorherigen Version übersetzt wurde, wobei aktualisierte Inhalte bald verfügbar sein werden. Sie erhalten die Möglichkeit, den neuesten englischen Quellinhalt in einem neuen Browserfenster anzuzeigen, falls gewünscht.
+   Gelegentlich kann es sein, dass der englische Ausgangstext kurz zuvor schon aktualisiert und veröffentlicht wurde, bevor die Übersetzungen abgeschlossen wurden. Wenn Sie im Dropdown-Menü auf Ihre Sprache klicken, erhalten Sie in der hellblauen horizontalen Leiste oben auf der Seite die Benachrichtigung, dass die Seite automatisch aus der vorherigen Version übersetzt wurde und demnächst aktualisierte Inhalte verfügbar sind. Wenn Sie möchten, können Sie den aktuellen englischen Ausgangstext in einem neuen Browser-Fenster anzeigen.
 
-## Warum automatische Übersetzung
+## Warum die automatische Übersetzung nutzen?
 
-Adobe nutzt die automatischen Übersetzungsfunktionen, um Inhalte zur Produktunterstützung in verschiedenen Sprachen so schnell wie möglich zu veröffentlichen. Da Supportinhalte für die Nutzung von Produkten von entscheidender Bedeutung sind, legen wir der Übersetzung von Inhalten durch qualifizierte Fachkräfte Priorität ein. Wir können uns aber auch für automatische Übersetzungen entscheiden, bei denen Geschwindigkeit und Dringlichkeit am wichtigsten sind.
+Adobe nutzt die Vorteile der automatischen Übersetzung, um Inhalte für den Produktsupport in verschiedenen Sprachen zu veröffentlichen, und zwar so zeitnah zur Inhaltserstellung wie möglich. Da Support-Inhalte für die Produktnutzung entscheidend sind, lassen wir unsere Inhalte von qualifizierten Fachleuten übersetzen. Bei wichtigen Inhalten, die schnell veröffentlicht werden müssen, entscheiden wir uns aber auch für die automatische Übersetzung.
 
-Die automatische Übersetzung ist im Internet allgegenwärtig und wird allgemein als leistungsfähiges Werkzeug zur Informationserfassung akzeptiert. Es wurde weithin für Inhalte der Wissensgrundlage angenommen, wo es wenig bis gar keine menschlichen Eingriffe geben könnte. Obwohl es in den letzten Jahren bedeutende technologische Durchbrüche gegeben hat, können automatisch erstellte Übersetzungen gelegentliche Ungenauigkeiten und Fehler in Sprache und Bedeutung enthalten.
+Die automatische Übersetzung ist im Internet allgegenwärtig und ist allgemein als leistungsfähiges Mittel zur Informationsgewinnung anerkannt. Sie wird bereits weitgehend für Inhalte in Wissensdatenbanken genutzt, wo es bereits wenig bis gar keine menschlichen Eingriffe mehr gibt. Obwohl es in den letzten Jahren zu großen technologische Durchbrüchen gekommen ist, können automatisch generierte Übersetzungen gelegentlich Ungenauigkeiten und Fehler bei der Sprache und Bedeutung enthalten.
 
 ### Automatische Übersetzung über den Browser
 
-Wenn Sie Ihre Browsereinstellungen so eingestellt haben, dass eine Seite automatisch in Ihre Sprache übersetzt wird, beachten Sie, dass die resultierenden Übersetzungen sich von den Übersetzungen auf der Adobe-Seite unterscheiden. Der Grund dafür ist, dass der vom Browser angebotene Dienst möglicherweise Übersetzungen aus Beständen sind, während die Adobe-Übersetzungen an die Adobe-Stilrichtlinien und -Terminologie angepasst wurden. Um optimale Ergebnisse bei der automatischen Übersetzung zu erzielen, sollten Sie entweder die Browseroption für diese bestimmte Site in Ihren Browsereinstellungen deaktivieren oder auf **Nie übersetzen** klicken, wenn sie angezeigt wird.
+Wenn Seiten in Ihrem Browser automatisch in Ihre Sprache übersetzt werden, sollten Sie beachten, dass die generierten Übersetzungen von denen auf der Adobe-Seite abweichen. Der Grund dafür ist, dass der vom Browser angebotene Dienst möglicherweise allgemeine Übersetzungen nutzt, während die Adobe-Übersetzungen so angepasst wurden, dass sie den Stilrichtlinien und der Terminologie von Adobe entsprechen. Um optimale Ergebnisse bei der automatischen Übersetzung zu erzielen, empfehlen wir Ihnen, entweder die Browseroption für diese bestimmte Website in Ihren Browsereinstellungen zu deaktivieren oder auf **Niemals übersetzen** zu klicken, wenn Sie gefragt werden.
 
 ### Bekannte Probleme
 
-Eventuell treten bei Ihnen Probleme mit der automatischen Übersetzungsausgabe auf, z. B. unvollständige Übersetzungen, beschädigte Zeichen oder Probleme mit dem Seitenlayout. Diese werden von den verschiedenen Werkzeugen zur Inhaltserstellung, -veröffentlichung oder -übersetzung verursacht, die Adobe verwendet. Wir werden alles tun, um die bekannten Probleme unten aufzulisten.
+Gelegentlich kann es bei automatisch generierten Übersetzungen zu Problemen kommen, etwa zu unvollständigen Übersetzungen, falschen Zeichen oder Problemen mit dem Seitenlayout. Diese werden durch die verschiedenen Tools für die Erstellung, Veröffentlichung oder Übersetzung verursacht, die Adobe verwendet. Wir versuchen, die bekannten Probleme nachfolgend so umfassend wie möglich aufzulisten.
 
-| **PROBLEME-ID** | **BESCHREIBUNG** | **STATUS** |
+| **PROBLEM-ID** | **BESCHREIBUNG** | **STATUS** |
 |--------------|-------------------------------------------------------------------------------------|------------|
-| G11N3558 | Einige Audience Manager-Seiten sind halb Englisch und halb übersetzt (Französisch, Spanisch). | OPEN |
+| G11N3558 | Einige Seiten des Audience Managers sind zur Hälfte noch auf Englisch und zur Hälfte bereits übersetzt (Französisch, Spanisch). | ÖFFNEN |
 
-### Feedback 
+### Feedback
 
-Bei jeder automatischen Übersetzung von Inhalten, entweder standardmäßig oder durch Benutzeraktion, gibt es die Möglichkeit, Adobe Feedback zu den Übersetzungen zu geben. In der hellblauen horizontalen Leiste oben auf der Seite können Sie "Ja"oder "Nein"auf die Frage "War diese Übersetzung nützlich?"antworten. Adobe erfasst diese wertvolle Metrik und analysiert die kompilierten Daten, um Entscheidungen über die Inhaltsübersetzung zu treffen. Wir schätzen Ihr Feedback und empfehlen Ihnen, darauf zu reagieren.
+Immer wenn Inhalte automatisch übersetzt werden, entweder standardmäßig oder durch den Benutzer, kann Feedback zur Übersetzung an Adobe übermittelt werden. In der
+hellblauen, horizontalen Leiste am oberen Seitenrand können Sie die Frage „War diese Übersetzung hilfreich?“ mit „Ja“ oder „Nein“ beantworten. Adobe sammelt diese wichtigen
+Metriken und analysiert die gesammelten Daten, um Entscheidungen über die Übersetzung von Inhalten zu treffen. Wir würden uns über Ihr Feedback freuen.
 
-![Feedback ](assets/machine-translation-feedback.png)
+![Feedback](assets/machine-translation-feedback.png)
 
-Für die Zukunft planen wir, dass Sie ausführlichere Feedback geben können, indem Sie ein Problem protokollieren, Verbesserungsvorschläge machen und sogar zusätzliche Sprachen anfordern. Einige dieser Funktionen sind bereits auf den englischen Seiten verfügbar. Langfristig glauben wir, dass dies Adobe dabei helfen wird, die Benutzererfahrung auf diesen Seiten zu verbessern.
+Bald haben Sie die Möglichkeit, umfangreicheres Feedback mit Problemprotokollierungen, Verbesserungsvorschlägen und sogar Anfragen für zusätzliche Sprachen zu geben. Einige dieser Funktionen sind bereits auf den englischen Seiten verfügbar. Langfristig glauben wir, dass dies die Benutzerfreundlichkeit auf den
+Adobe-Seiten verbessern wird.
 
 ![Diese Seite verbessern](assets/feedback.png)
+
+### Übersetzungsausschluss
+
+Adobe verwendet ein Programm für maschinelle Übersetzung, um Text in verschiedene Sprachen zu übersetzen. Bitte beachten Sie, dass computerisierte Übersetzungen wörtliche Übersetzungen sind und Fehler enthalten können. Adobe übernimmt keine Gewähr für die Genauigkeit, Zuverlässigkeit oder Aktualität der bereitgestellten Übersetzungen. Adobe haftet nicht für Schäden, die aufgrund der Genauigkeit oder Zuverlässigkeit der übersetzten Informationen entstehen. Wenn es Unterschiede zwischen Englisch und einer anderen Sprache gibt, wird die englische Version kontrolliert.
+
+Wenn Sie einen Übersetzungsfehler oder eine Ungenauigkeit melden möchten, bitten wir Sie, uns zu kontaktieren.
