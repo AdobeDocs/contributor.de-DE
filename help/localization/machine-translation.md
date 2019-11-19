@@ -3,7 +3,7 @@ title: Sprachunterstützung für die Produktdokumentation von Adobe Experience C
 seo-title: Sprachunterstützung für die Produktdokumentation von Adobe Experience Cloud
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Adobe-Dokumentationsseite hinzufügen können.
 seo-description: Im Handbuch wird beschrieben, wie Sie zur technischen [!UICONTROL Adobe Experience Cloud]-Dokumentation beitragen können.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 9db7dd1fb9b22bc35f887d0441a1837813efc9cc
 
 ---
@@ -17,9 +17,9 @@ Für Adobe ist klar, dass Sie sich darauf verlassen, die Produktdokumentation, H
 
 Die Produktdokumentation von Adobe Experience Cloud ist in den meisten Sprachen verfügbar.
 
-1. Navigieren Sie zur Experience Cloud- [Produktdokumentation](https://helpx.adobe.com/support/experience-cloud.html).
+1. Navigieren Sie zur Experience Cloud-[Produktdokumentation](https://helpx.adobe.com/de/support/experience-cloud.html).
 
-1. Suchen Sie nach einer Hilfeseite (z. B. [Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html)).
+1. Suchen Sie nach einer Hilfeseite (z. B. [Analytics](https://docs.adobe.com/content/help/de-DE/analytics/landing/home.html)).
 
 1. Klicken Sie auf die Sprachauswahl (Weltsymbol) und wählen Sie dann eine Sprache aus.
 
@@ -68,8 +68,8 @@ Adobe-Seiten verbessern wird.
 
 ![Diese Seite verbessern](assets/feedback.png)
 
-### Übersetzungsausschluss
+### Haftungsausschluss für Übersetzungen
 
-Adobe verwendet ein Programm für maschinelle Übersetzung, um Text in verschiedene Sprachen zu übersetzen. Bitte beachten Sie, dass computerisierte Übersetzungen wörtliche Übersetzungen sind und Fehler enthalten können. Adobe übernimmt keine Gewähr für die Genauigkeit, Zuverlässigkeit oder Aktualität der bereitgestellten Übersetzungen. Adobe haftet nicht für Schäden, die aufgrund der Genauigkeit oder Zuverlässigkeit der übersetzten Informationen entstehen. Wenn es Unterschiede zwischen Englisch und einer anderen Sprache gibt, wird die englische Version kontrolliert.
+Adobe verwendet ein Programm für maschinelle Übersetzung, um Text in verschiedene Sprachen zu übersetzen. Bitte beachten Sie, dass automatische Übersetzungen wörtliche Übersetzungen sind und Fehler enthalten können. Adobe übernimmt keine Gewähr für die Genauigkeit, Zuverlässigkeit oder Aktualität der bereitgestellten Übersetzungen. Adobe haftet nicht für Verluste oder Schäden, die aufgrund des Vertrauens auf die Genauigkeit oder Zuverlässigkeit der übersetzten Informationen entstehen. Wenn es Unterschiede zwischen der englischen Version und einer anderen Sprache gibt, hat die englische Version Vorrang.
 
 Wenn Sie einen Übersetzungsfehler oder eine Ungenauigkeit melden möchten, bitten wir Sie, uns zu kontaktieren.
