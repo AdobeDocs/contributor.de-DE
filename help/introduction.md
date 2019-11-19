@@ -3,7 +3,7 @@ title: Mitarbeiter-Handbuch für Adobe-Dokumentation
 seo-title: Mitarbeiter-Leitfaden für die technische Adobe Experience Cloud-Dokumentation
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Adobe-Dokumentationsseite hinzufügen können.
 seo-description: Im Handbuch wird beschrieben, wie Sie zur technischen [!UICONTROL Adobe Experience Cloud]-Dokumentation beitragen können.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3a769e92e724694b17c5412303d533c7402f5cd0
 
 ---
@@ -13,7 +13,7 @@ source-git-commit: 3a769e92e724694b17c5412303d533c7402f5cd0
 
 ## Was ist die Dokumentation zur Zusammenarbeit?
 
-Im Laufe des Jahres 2019 wird die gesamte technische Dokumentation und der Aktivierungsinhalt für Adobe Experience Cloud auf eine neue Plattform basierend auf Open-Source-Prinzipien umgestellt, die Github-, Markdown- und Adobe Experience Cloud-Lösungen nutzen, einschließlich Adobe Experience Manager, Analytics, Launch und Target.
+Im Laufe des Jahres 2019 wird die gesamte technische Dokumentation und der Aktivierungsinhalt für Adobe Experience Cloud auf eine neue Plattform basierend auf Open-Source-Prinzipien umgestellt, die GitHub-, Markdown- und Adobe Experience Cloud-Lösungen nutzen, einschließlich Adobe Experience Manager, Analytics, Launch und Target.
 
 Dieses Open-Source-Modell verbessert die Qualität der Inhalte und die Kommunikation zwischen Kunden, Dokumentationsteams und Produktteams. Auf jeder Seite können Sie jetzt Nutzbarkeit von Inhalten, Protokollprobleme und sogar Inhaltsvorschläge als Git-Pull-Anfragen (PRs) bewerten. Die Adobe-Dokumentationsteams überwachen die Beiträge und Probleme täglich und nehmen nach Bedarf Aktualisierungen und Anpassungen vor.
 
@@ -38,7 +38,7 @@ In diesem Handbuch wird alles beschrieben, was Sie für einen Beitrag zu diesem 
 
 Das schnelle Bearbeiten ist eine gute Möglichkeit, kleine Fehler in Dokumenten zu beheben oder fehlenden Inhalt hinzuzufügen. Wenn ein Artikel wie unten gezeigt eine Schaltfläche zum Bearbeiten anzeigt, können Sie selbst eine schnelle Korrektur vornehmen. Wenn Sie das Dokument bearbeiten, übermitteln Sie eine Pull-Anfrage (PA) an uns, um die Korrektur/den Vorschlag an uns zu senden, und wir können den Vorschlag prüfen, genehmigen und veröffentlichen.
 
-1. Sign the [Contributor License Agreement (CLA)](http://opensource.adobe.com/cla.html) if acceptible.
+1. Unterschreiben Sie die [Lizenzvereinbarung für Mitarbeiter (CLA)](http://opensource.adobe.com/cla.html), falls akzeptabel.
 
    Sie müssen nur einmal eine Adobe-Lizenzvereinbarung für Mitarbeiter übermitteln.
 1. Klicken Sie in der rechten Spalte auf **`Edit this page`**, um zur Markdown-Quelldatei auf GitHub zu wechseln.
@@ -49,8 +49,8 @@ Das schnelle Bearbeiten ist eine gute Möglichkeit, kleine Fehler in Dokumenten 
 
    ![Position des Stiftsymbols](assets/edit-icon.png)
 
-1. Nehmen Sie Ihre Änderungen im Webeditor vor. Sie können auf die Registerkarte **Vorschau der Änderungen** klicken, um die Formatierung Ihrer Änderung zu überprüfen.
-1. Nachdem Sie die Änderung(en) vorgenommen haben, führen Sie einen Bildlauf zum unteren Rand der Seite durch. Geben Sie einen Titel und eine Beschreibung für Ihre PA ein und klicken Sie auf **Dateiänderung vorschlagen**, wie in der folgenden Abbildung dargestellt:
+1. Nehmen Sie Ihre Änderungen im Webeditor vor. Sie können auf die Registerkarte **Preview changes** klicken, um die Formatierung Ihrer Änderung zu überprüfen.
+1. Nachdem Sie die Änderung(en) vorgenommen haben, führen Sie einen Bildlauf zum unteren Rand der Seite durch. Geben Sie einen Titel und eine Beschreibung für Ihre PA ein und klicken Sie auf **Propose file change**, wie in der folgenden Abbildung dargestellt:
 
    ![Änderung vorschlagen](assets/submit-pull-request.png)
 
@@ -71,7 +71,7 @@ Eine weitere einfache Möglichkeit, uns über ein Problem mit einem Inhaltseleme
 
    Durch Klicken auf diesen Link können Sie mit der GitHub-Problemoberfläche ein kurzes Ticket bei uns protokollieren.
 
-1. Die URL der Seite mit dem Problem wird automatisch im Beschreibungsfeld eingetragen. Füllen Sie den Titel aus, schreiben Sie eine kurze Erläuterung des Problems und klicken Sie dann auf *Neues Problem senden*.
+1. Die URL der Seite mit dem Problem wird automatisch im Beschreibungsfeld eingetragen. Füllen Sie den Titel aus, schreiben Sie eine kurze Erläuterung des Problems und klicken Sie dann auf *Submit new issue*.
 
    ![](assets/git_issue_example.png)
 
