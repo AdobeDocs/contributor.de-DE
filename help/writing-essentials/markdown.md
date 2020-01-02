@@ -1,20 +1,20 @@
 ---
-lastModified: '2018-06-28'
+lastModified: 2018-06-28T00:00:00Z
 title: Markdown zum Schreiben von Dokumentation verwenden
 seo-title: Markdown zum Schreiben von Adobe-Dokumentation verwenden
 description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 seo-description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln für Adobe-Dokumentation verwendet wird.
-translation-type: ht
-source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
+translation-type: tm+mt
+source-git-commit: 883f9d7a9a232fdb69db09d5e9409575c7f3bdd0
 
 ---
 
 
 # Markdown zum Schreiben von technischer Dokumentation verwenden
 
-Die Artikel zu technischen Dokumentationen von Adobe werden in einer einfachen Markup-Sprache namens [Markdown](https://daringfireball.net/projects/markdown/) geschrieben, die leicht zu lesen und zu lernen ist.
+Die technischen Adobe-Dokumentationsartikel werden in einer einfachen Markup-Sprache namens [Markdown](https://daringfireball.net/projects/markdown/) geschrieben, die einfach zu lesen und zu lernen ist.
 
-Wenn wir Adobe Docs-Inhalte in GitHub speichern, kann eine Version von Markdown namens [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) verwendet werden, die zusätzliche Funktionen für allgemeine Formatierungsanforderungen bietet. Außerdem erweiterte Adobe Markdown auf verschiedene Arten, um bestimmte Hilfefunktionen wie Anmerkungen, Tipps und eingebettete Videos zu unterstützen.
+Wenn wir Adobe Docs-Inhalt in GitHub speichern, kann eine Version von Markdown mit dem Namen [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) verwendet werden, die zusätzliche Funktionen für allgemeine Formatierungsanforderungen bietet. Außerdem erweiterte Adobe Markdown auf verschiedene Arten, um bestimmte Hilfefunktionen wie Anmerkungen, Tipps und eingebettete Videos zu unterstützen.
 
 ## Markdown-Grundlagen
 
@@ -58,7 +58,7 @@ This is not \*italicized\* type.
 
 ### Nummerierte Listen und Aufzählungslisten
 
-Um nummerierte Listen zu erstellen, beginnen Sie eine Zeile mit „1.“ oder „1)“. Verwenden Sie jedoch nicht beide Formate in derselben Liste, sonst wird eine neue Liste gestartet. Sie müssen die Zahlen nicht speziell angeben. GitHub erledigt das für Sie.
+To create numbered lists, begin a line with `1.` or `1)`, but don&#39;t use both formats within the same list. Sie müssen die Zahlen nicht speziell angeben. GitHub erledigt das für Sie.
 
 ```markdown
 1. This is step 1.
@@ -73,20 +73,20 @@ Angezeigt:
 1. Dies ist ein weiterer Schritt, der dritte.
 
 <!-- markdownlint-disable MD037 -->
-Um Listen mit Aufzählungszeichen zu erstellen, beginnen Sie eine Zeile mit „\*“, „-“ oder „+“, aber mischen Sie die Formate nicht in derselben Liste. (Wenn Sie die Formate wie „\*“ und „\+“ kombinieren, starten Sie im Grunde eine neue Liste.)
+Um Listen mit Aufzählungszeichen zu erstellen, beginnen Sie eine Zeile mit „\*“, „-“ oder „+“, aber mischen Sie die Formate nicht in derselben Liste. (Mischen Sie Aufzählungszeichenformate wie \* und \+ nicht innerhalb desselben Dokuments.)
 <!-- markdownlint-disable MD037 -->
 
 ```markdown
-- First item in an unordered list.
-- Another item.
-- Here we go again.
+* First item in an unordered list.
+* Another item.
+* Here we go again.
 ```
 
 Angezeigt:
 
-- Erstes Element in einer ungeordneten Liste.
-- Ein weiteres Element.
-- Und noch ein weiteres.
+* Erstes Element in einer ungeordneten Liste.
+* Ein weiteres Element.
+* Und noch ein weiteres.
 
 Sie können auch Listen in Listen einbetten und Inhalte zwischen Listenelementen hinzufügen.
 
@@ -97,9 +97,9 @@ Sie können auch Listen in Listen einbetten und Inhalte zwischen Listenelementen
    ![screen](assets/no-localize/adobe_standard_logo.png)
 1. Make sure that your table looks like this: 
 
-    | Hello | World |
-    |---|---|
-    | How | are you? |  
+   | Hello | World |
+   |---|---|
+   | How | are you? |  
 1. This is the fourth step.
 
    >[!NOTE]
@@ -132,25 +132,25 @@ Tabellen sind nicht Teil der Markdown-Kernspezifikation, doch Adobe unterstützt
 
 ```markdown
 | Header | Another header | Yet another header |
-|------------|:---------------:|-----------------------:|
-| row 1 | centered column 2 | right-aligned column 3 |
+|--- |--- |--- |
+| row 1 | column 2 | column 3 |
 | row 2 | row 2 column 2 | row 2 column 3 |
 ```
 
 Angezeigt:
 
 | Kopfzeile | Noch eine Kopfzeile | Und eine weitere Kopfzeile |
-|------------|:---------------:|-----------------------:|
-| Zeile 1 | zentrierte Spalte 2 | rechtsbündige Spalte 3 |
+|--- |--- |--- |
+| Zeile 1 | Spalte 2 | Spalte 3 |
 | Zeile 2 | Zeile 2 Spalte 2 | Zeile 2 Spalte 3 |
 
 Einfache Tabellen funktionieren in Markdown angemessen. Tabellen, die mehrere Absätze oder Listen in einer Zelle enthalten, sind jedoch schwer zu bearbeiten. Für solche Inhalte empfehlen wir ein anderes Format, z. B. Überschriften und Text.
 
 Weitere Informationen zum Erstellen von Tabellen finden Sie unter:
 
-- GitHub – [Informationen mit Tabellen organisieren](https://help.github.com/articles/organizing-information-with-tables/)
-- Die [Markdown Tabellen-Generator](https://www.tablesgenerator.com/markdown_tables) Web-Anwendung
-- [Konvertieren von HTML-Tabellen in Markdown](https://jmalarcon.github.io/markdowntables/)
+* GitHub – [Informationen mit Tabellen organisieren](https://help.github.com/articles/organizing-information-with-tables/)
+* Webapp [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+* [HTML-Tabellen in Markdown konvertieren](https://jmalarcon.github.io/markdowntables/)
 
 ### Links
 
@@ -159,12 +159,12 @@ Die Markdown-Syntax für einen Inline-Link besteht aus dem `[link text]`-Teil, d
 `[link text](file-name.md)`
 
 ```markdown
-[Adobe](https://www.adobe.com) or <https://www.adobe.com>
+[Adobe](https://www.adobe.com)
 ```
 
 Angezeigt:
 
-[Adobe](https://www.adobe.com) oder <https://www.adobe.com>
+[Adobe](https://www.adobe.com)
 
 Verwenden Sie relative Links für Verknüpfungen zu Artikeln (Querverweise) im Repository. Sie können alle relativen Link-Operanden verwenden, z. B.../ (aktuelles Verzeichnis), ../ (ein Verzeichnis zurück) und ../../ (zwei Verzeichnisse zurück).
 
@@ -254,12 +254,12 @@ Kommentare (Anmerkungen) werden nicht in den öffentlichen Hilfeartikeln angezei
 
 Adobe-Artikel verwenden Standard-Markdown für die meisten Artikelformatierungen wie Absätze, Links, Listen und Überschriften. Für eine reichhaltigere Formatierung können Artikel erweiterte Markdown-Funktionen verwenden, z. B.:
 
-- Hinweisblöcke
-- Eingebettete Videos
-- Nicht lokalisieren
-- Komponenteneigenschaften, z. B. Zuweisen einer anderen Kopfzeilen-ID zu einer Kopfzeile
+* Hinweisblöcke
+* Eingebettete Videos
+* Nicht lokalisieren
+* Komponenteneigenschaften, z. B. Zuweisen einer anderen Kopfzeilen-ID zu einer Kopfzeile
 
-Verwenden Sie das Markdown-Blockanführungszeichen (&gt;) am Anfang jeder Zeile, um eine erweiterte Komponente wie einen Hinweis anzubinden. Wenn Sie Unterkomponenten in Komponenten verwenden müssen, fügen Sie für diesen Unterkomponentenabschnitt eine zusätzliche Ebene von Blockanführungszeichen (&gt;  &gt;) hinzu. Beispielsweise sollte ein HINWEIS in einem NICHTLOKALISIEREN-Abschnitt mit &gt;    &gt; beginnen.
+Verwenden Sie das Markdown-Blockanführungszeichen (>) am Anfang jeder Zeile, um eine erweiterte Komponente wie einen Hinweis anzubinden. Wenn Sie Unterkomponenten in Komponenten verwenden müssen, fügen Sie für diesen Unterkomponentenabschnitt eine zusätzliche Ebene von Blockanführungszeichen (>  >) hinzu. Beispielsweise sollte ein HINWEIS in einem NICHTLOKALISIEREN-Abschnitt mit >    > beginnen.
 
 Einige gängige Markdown-Elemente wie Kopfzeilen und Codeblöcke umfassen erweiterte Eigenschaften. Wenn Sie die Standardeigenschaften ändern müssen, fügen Sie die Parameter in geschweiften Klammern /{ /} nach der Komponente hinzu. Erweiterte Eigenschaften werden im Kontext beschrieben.
 
@@ -267,10 +267,10 @@ Einige gängige Markdown-Elemente wie Kopfzeilen und Codeblöcke umfassen erweit
 
 Sie können aus vier Arten von Hinweisblöcken wählen, um die Aufmerksamkeit auf bestimmte Inhalte zu lenken:
 
-- `[!NOTE]`
-- `[!CAUTION]`
-- `[!TIP]`
-- `[!IMPORTANT]`
+* `[!NOTE]`
+* `[!CAUTION]`
+* `[!TIP]`
+* `[!IMPORTANT]`
 
 Im Allgemeinen sollten Hinweise sparsam verwendet werden, da sie stören können. Obwohl sie auch Codeblöcke, Bilder, Listen und Links unterstützen, sollten Sie Ihre Hinweise einfach und geradlinig halten.
 
@@ -311,19 +311,18 @@ Angezeigt:
 
 Die Komponente „Mehr wie dieses“ in AEM wird am Ende eines Artikels angezeigt. Es werden zugehörige Links angezeigt. Wenn der Artikel gerendert wird, kann er wie Ebene-2-Kopfzeilen (##) formatiert werden, ohne dem Mini-Inhaltsverzeichnis hinzugefügt zu werden.
 
-<!--
 ```markdown
->[!MORE]
+>[!MORELIKETHIS]
 >* [Article 1](https://helpx.adobe.com/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/support/audience-manager.html){target="new-window"}
+>* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
 ```
 
-Displayed:
+Angezeigt:
 
->[!MORE]
->* [Article 1](https://helpx.adobe.com/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/support/audience-manager.html){target="new-window"}
--->
+>[!MORELIKETHIS]
+>* [Artikel 1](https://helpx.adobe.com/support/analytics.html)
+>* [Artikel 2](https://helpx.adobe.com/support/audience-manager.html)
+
 
 ### DNL – Do Not Localize (nicht lokalisieren) – und UICONTROL
 
@@ -361,13 +360,13 @@ Use the [!UICONTROL Visual Experience Composer] in [!DNL Target] to create your 
 Alternativtext, der Unterstriche enthält, wird nicht richtig gerendert. Statt dies zu verwenden:
 
 ```markdown
-![Settings_Step_2] (/assets/settings_step_2.png)
+![Settings_Step_2](/assets/settings_step_2.png)
 ```
 
 empfehlen wir die Verwendung von Bindestrichen (-) anstelle von Unterstrichen (_) in Dateinamen.
 
 ```markdown
-![Settings-Step-2] (/assets/settings-step-2.png)
+![Settings-Step-2](/assets/settings-step-2.png)
 ```
 
 ### Apostrophe und Anführungszeichen
@@ -376,10 +375,10 @@ Wenn Sie Text in einen Markdown-Bearbeiter kopieren, kann der Text „smarte“ 
 
 Im Folgenden finden Sie die Kodierungen für die „smarten“ Versionen dieser Interpunktionszeichen:
 
-- Anführungszeichen links (öffnend): `&#8220;`
-- Anführungszeichen rechts (schließend): `&#8221;`
-- Rechts (schließend) einfaches Anführungszeichen oder Apostroph: `&#8217;`
-- Links (öffnend) einfaches Anführungszeichen (selten verwendet): `&#8216;`
+* Anführungszeichen links (öffnend): `&#8220;`
+* Anführungszeichen rechts (schließend): `&#8221;`
+* Rechts (schließend) einfaches Anführungszeichen oder Apostroph: `&#8217;`
+* Links (öffnend) einfaches Anführungszeichen (selten verwendet): `&#8216;`
 
 ### Spitze Klammern
 
@@ -395,5 +394,5 @@ Et-Zeichen (&amp;) sind in Titeln nicht zulässig. Verwenden Sie stattdessen „
 
 ### Markdown-Ressourcen
 
-- [Einführung in Markdown](https://daringfireball.net/projects/markdown/syntax)
-- [GitHub Markdown-Grundlagen](https://help.github.com/articles/markdown-basics/)
+* [Markdown-Einführung](https://daringfireball.net/projects/markdown/syntax)
+* [GitHub-Markdown-Grundlagen](https://help.github.com/articles/markdown-basics/)
