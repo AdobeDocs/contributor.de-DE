@@ -3,8 +3,8 @@ title: Mitarbeiter-Handbuch für Adobe-Dokumentation
 seo-title: Mitarbeiter-Leitfaden für die technische Adobe Experience Cloud-Dokumentation
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Adobe-Dokumentationsseite hinzufügen können.
 seo-description: Im Handbuch wird beschrieben, wie Sie zur technischen [!UICONTROL Adobe Experience Cloud]-Dokumentation beitragen können.
-translation-type: ht
-source-git-commit: 3a769e92e724694b17c5412303d533c7402f5cd0
+translation-type: tm+mt
+source-git-commit: afcd9363375adbc21a0e9a027d3f5ce59e08cd70
 
 ---
 
@@ -38,7 +38,7 @@ In diesem Handbuch wird alles beschrieben, was Sie für einen Beitrag zu diesem 
 
 Das schnelle Bearbeiten ist eine gute Möglichkeit, kleine Fehler in Dokumenten zu beheben oder fehlenden Inhalt hinzuzufügen. Wenn ein Artikel wie unten gezeigt eine Schaltfläche zum Bearbeiten anzeigt, können Sie selbst eine schnelle Korrektur vornehmen. Wenn Sie das Dokument bearbeiten, übermitteln Sie eine Pull-Anfrage (PA) an uns, um die Korrektur/den Vorschlag an uns zu senden, und wir können den Vorschlag prüfen, genehmigen und veröffentlichen.
 
-1. Unterschreiben Sie die [Lizenzvereinbarung für Mitarbeiter (CLA)](http://opensource.adobe.com/cla.html), falls akzeptabel.
+1. Sign the [Contributor License Agreement (CLA)](http://opensource.adobe.com/cla.html) if acceptable.
 
    Sie müssen nur einmal eine Adobe-Lizenzvereinbarung für Mitarbeiter übermitteln.
 1. Klicken Sie in der rechten Spalte auf **`Edit this page`**, um zur Markdown-Quelldatei auf GitHub zu wechseln.
@@ -54,7 +54,7 @@ Das schnelle Bearbeiten ist eine gute Möglichkeit, kleine Fehler in Dokumenten 
 
    ![Änderung vorschlagen](assets/submit-pull-request.png)
 
-   >[!NOTE] Wenn Sie eine Validierungsfehlermeldung zum Unterschreiben einer Lizenzvereinbarung für Mitarbeiter (CLA) erhalten, klicken Sie auf **Details**, um die Lizenzvereinbarung zu öffnen. Unterschreiben Sie die Vereinbarung, falls akzeptabel. Schließen und öffnen Sie dann die Pull-Anfrage und fahren Sie fort.
+   >[!NOTE] Wenn Sie eine Validierungsfehlermeldung zum Unterschreiben einer Lizenzvereinbarung für Mitarbeiter (CLA) erhalten, klicken Sie auf **Details**, um die Lizenzvereinbarung zu öffnen. Unterschreiben Sie die Vereinbarung, falls zulässig. Schließen und öffnen Sie dann die Pull-Anfrage und fahren Sie fort.
 
 Das ist alles. Vielen Dank! Mitglieder des Dokumentationsteams überprüfen Ihre Pull-Anfrage und führen sie zusammen.
 
