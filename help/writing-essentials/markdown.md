@@ -4,7 +4,7 @@ title: Markdown zum Schreiben von Dokumentation verwenden
 seo-title: Markdown zum Schreiben von Adobe-Dokumentation verwenden
 description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 seo-description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln für Adobe-Dokumentation verwendet wird.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 883f9d7a9a232fdb69db09d5e9409575c7f3bdd0
 
 ---
@@ -58,7 +58,7 @@ This is not \*italicized\* type.
 
 ### Nummerierte Listen und Aufzählungslisten
 
-To create numbered lists, begin a line with `1.` or `1)`, but don&#39;t use both formats within the same list. Sie müssen die Zahlen nicht speziell angeben. GitHub erledigt das für Sie.
+Um nummerierte Listen zu erstellen, beginnen Sie eine Zeile mit `1.` oder `1)`, aber mischen Sie die Formate nicht in derselben Liste. Sie müssen die Zahlen nicht speziell angeben. GitHub erledigt das für Sie.
 
 ```markdown
 1. This is step 1.
@@ -73,7 +73,7 @@ Angezeigt:
 1. Dies ist ein weiterer Schritt, der dritte.
 
 <!-- markdownlint-disable MD037 -->
-Um Listen mit Aufzählungszeichen zu erstellen, beginnen Sie eine Zeile mit „\*“, „-“ oder „+“, aber mischen Sie die Formate nicht in derselben Liste. (Mischen Sie Aufzählungszeichenformate wie \* und \+ nicht innerhalb desselben Dokuments.)
+Um Listen mit Aufzählungszeichen zu erstellen, beginnen Sie eine Zeile mit „\*“, „-“ oder „+“, aber mischen Sie die Formate nicht in derselben Liste. (Mischen Sie Aufzählungsformate wie \* und \+ nicht innerhalb desselben Dokuments.)
 <!-- markdownlint-disable MD037 -->
 
 ```markdown
@@ -166,7 +166,7 @@ Angezeigt:
 
 [Adobe](https://www.adobe.com)
 
-Verwenden Sie relative Links für Verknüpfungen zu Artikeln (Querverweise) im Repository. Sie können alle relativen Link-Operanden verwenden, z. B.../ (aktuelles Verzeichnis), ../ (ein Verzeichnis zurück) und ../../ (zwei Verzeichnisse zurück).
+Verwenden Sie relative Links für Verknüpfungen zu Artikeln (Querverweise) im Repository. Sie können alle relativen Link-Operanden verwenden, z. B. ./ (aktuelles Verzeichnis), ../ (ein Verzeichnis zurück) und ../../ (zwei Verzeichnisse zurück).
 
 ```markdown
 See [Overview example article](../../overview.md)
@@ -320,8 +320,8 @@ Die Komponente „Mehr wie dieses“ in AEM wird am Ende eines Artikels angezeig
 Angezeigt:
 
 >[!MORELIKETHIS]
->* [Artikel 1](https://helpx.adobe.com/support/analytics.html)
->* [Artikel 2](https://helpx.adobe.com/support/audience-manager.html)
+>* [Artikel 1](https://helpx.adobe.com/de/support/analytics.html)
+>* [Artikel 2](https://helpx.adobe.com/de/support/audience-manager.html)
 
 
 ### DNL – Do Not Localize (nicht lokalisieren) – und UICONTROL
@@ -331,7 +331,7 @@ Wörter, Ausdrücke und andere Elemente müssen in unseren Übersetzungssystemen
 
 Wörter oder Ausdrücke, die nicht lokalisiert werden sollen, können Sie in die `[!DNL]`-Erweiterung einschließen.
 
-Für Elemente in der Benutzeroberfläche und Menüs einer Lösung verwenden wir die ``-Erweiterung.
+Für Elemente in der Benutzeroberfläche und Menüs einer Lösung verwenden wir die ``-Erweiterung.
 
 **Beispiel:**
 
@@ -363,7 +363,7 @@ Alternativtext, der Unterstriche enthält, wird nicht richtig gerendert. Statt d
 ![Settings_Step_2](/assets/settings_step_2.png)
 ```
 
-empfehlen wir die Verwendung von Bindestrichen (-) anstelle von Unterstrichen (_) in Dateinamen.
+Empfehlen wir die Verwendung von Bindestrichen (-) anstelle von Unterstrichen (_) in Dateinamen.
 
 ```markdown
 ![Settings-Step-2](/assets/settings-step-2.png)
