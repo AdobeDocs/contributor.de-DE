@@ -29,11 +29,11 @@ Die Produktdokumentation von Adobe Experience Cloud ist in den meisten Sprachen 
 
    ![Übersetzte Seite](assets/french.png)
 
-   Wenn Ihre Sprachversion noch nicht verfügbar ist, kann Adobe Ihre Inhalte automatisch übersetzen. Der automatische Übersetzungsdienst von Adobe zeigt oben auf der Seite eine Nachricht in einem blauen Feld an:
+   Wenn Ihre Sprachversion noch nicht verfügbar ist, kann Adobe die Inhalte automatisch übersetzen. Der automatische Übersetzungsdienst von Adobe zeigt oben auf der Seite eine Nachricht in einem blauen Feld an:
 
    ![Übersetzungsnachricht](assets/machine-translation-message.png)
 
-   Der Inhalt kann automatisch in Ihrer Sprache angezeigt werden oder Sie können auf einen Link klicken, um die Übersetzung anzuzeigen. (Dazu kann es kommen, wenn Sie auf den Hyperlink geklickt haben, um von der übersetzten Seite zum englischen Ausgangstext zurückzukehren. Damit können Sie die übersetzte Seite bei Bedarf anzeigen.) Sie können jederzeit zum englischen Ausgangstext zurückkehren.
+   Der Inhalt wird möglicherweise automatisch in Ihre Sprache übersetzt angezeigt. Alternativ können Sie auf einen Link klicken, um den Inhalt automatisch übersetzen zu lassen. (Dieser anklickbare Link wird dann angezeigt, wenn Sie über einen Link von der übersetzten Seite zum englischen Ausgangstext zurückgekehrt sind. Danach können Sie die bei Bedarf wieder durch Anklicken eines Links die übersetzte Seite anzeigen.) Sie können jederzeit zum englischen Ausgangstext zurückkehren.
 
    Gelegentlich kann es sein, dass der englische Ausgangstext kurz zuvor schon aktualisiert und veröffentlicht wurde, bevor die Übersetzungen abgeschlossen wurden. Wenn Sie im Dropdown-Menü auf Ihre Sprache klicken, erhalten Sie in der hellblauen horizontalen Leiste oben auf der Seite die Benachrichtigung, dass die Seite automatisch aus der vorherigen Version übersetzt wurde und demnächst aktualisierte Inhalte verfügbar sind. Wenn Sie möchten, können Sie den aktuellen englischen Ausgangstext in einem neuen Browser-Fenster anzeigen.
 
