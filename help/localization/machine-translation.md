@@ -5,6 +5,9 @@ description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergän
 seo-description: Im Handbuch wird beschrieben, wie Sie zur technischen [!UICONTROL Adobe Experience Cloud]-Dokumentation beitragen können.
 translation-type: ht
 source-git-commit: 9db7dd1fb9b22bc35f887d0441a1837813efc9cc
+workflow-type: ht
+source-wordcount: '857'
+ht-degree: 100%
 
 ---
 
@@ -53,7 +56,7 @@ Gelegentlich kann es bei automatisch generierten Übersetzungen zu Problemen kom
 
 | **PROBLEM-ID** | **BESCHREIBUNG** | **STATUS** |
 |--------------|-------------------------------------------------------------------------------------|------------|
-| G11N3558 | Einige Seiten des Audience Managers sind zur Hälfte noch auf Englisch und zur Hälfte bereits übersetzt (Französisch, Spanisch). | ÖFFNEN |
+| G11N3558 | Einige Seiten des Audience Managers sind zur Hälfte noch auf Englisch und zur Hälfte bereits übersetzt (Französisch, Spanisch). | OFFNEN |
 
 ### Feedback
 
