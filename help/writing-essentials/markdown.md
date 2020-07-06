@@ -4,8 +4,11 @@ title: Markdown zum Schreiben von Dokumentation verwenden
 seo-title: Markdown zum Schreiben von Adobe-Dokumentation verwenden
 description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 seo-description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln für Adobe-Dokumentation verwendet wird.
-translation-type: ht
-source-git-commit: 883f9d7a9a232fdb69db09d5e9409575c7f3bdd0
+translation-type: tm+mt
+source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+workflow-type: tm+mt
+source-wordcount: '1377'
+ht-degree: 100%
 
 ---
 
@@ -105,6 +108,7 @@ Sie können auch Listen in Listen einbetten und Inhalte zwischen Listenelementen
    >[!NOTE]
    >
    >This is note text.
+
 1. Do another step.
 ```
 
@@ -124,6 +128,7 @@ Angezeigt:
    >[!NOTE]
    >
    >Dies ist Anmerkungstext.
+
 1. Führen Sie einen anderen Schritt aus.
 
 ### Tabellen
@@ -277,22 +282,26 @@ Im Allgemeinen sollten Hinweise sparsam verwendet werden, da sie stören können
 
 ```markdown
 >[!NOTE]
+>
 >This is a standard NOTE block.
 ```
 
 Angezeigt:
 
 >[!NOTE]
+>
 >Dies ist ein standardmäßiger HINWEIS-Block.
 
 ```markdown
 >[!TIP]
+>
 >This is a standard tip.
 ```
 
 Angezeigt:
 
 >[!TIP]
+>
 >Dies ist ein Standardtipp.
 
 ### Videos
