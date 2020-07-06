@@ -3,8 +3,11 @@ title: Git-Repository lokal einrichten
 seo-title: Git-Repository lokal für Adobe-Dokumentation einrichten
 description: Dieser Artikel enthält Anleitungen zum Erstellen Ihres lokalen Git-Repositorys und zum Beitrag zur Adobe-Dokumentation, einschließlich des Abspaltungs- und Klonvorgangs.
 seo-description: Dieser Artikel enthält Anleitungen zum Erstellen Ihres lokalen Git-Repositorys und zum Beitrag zur Adobe-Dokumentation, einschließlich des Abspaltungs- und Klonvorgangs.
-translation-type: ht
-source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
+translation-type: tm+mt
+source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+workflow-type: tm+mt
+source-wordcount: '682'
+ht-degree: 97%
 
 ---
 
@@ -58,8 +61,9 @@ Da alle Hauptdokumentations-Repositorys schreibgeschützten Zugriff bieten, also
 
    Einige Repositorys können groß sein. Wählen Sie einen Speicherort mit verfügbarem Speicherplatz.
 
-   > [!NOTE]
-   > Vermeiden Sie die Auswahl eines lokalen Ordnerpfads, der innerhalb eines anderen Git-Repository-Ordnerspeicherorts verschachtelt ist. Zwar können Git-geklonte Ordner nebeneinander gespeichert werden, das Verschachteln von Git-Ordnern ineinander hingegen führt zu Fehlern beim Datei-Tracking.
+   >[!NOTE]
+   >
+   >Vermeiden Sie die Auswahl eines lokalen Ordnerpfads, der innerhalb eines anderen Git-Repository-Ordnerspeicherorts verschachtelt ist. Zwar können Git-geklonte Ordner nebeneinander gespeichert werden, das Verschachteln von Git-Ordnern ineinander hingegen führt zu Fehlern beim Datei-Tracking.
 
 ## Lokalen Klon des Repositorys erstellen
 
@@ -73,4 +77,4 @@ Bei diesen Schritten wird vorausgesetzt, dass Sie GitHub Desktop verwenden. Wenn
 
 1. Verwenden Sie GitHub Desktop, damit lokale Dateien stets mit dem abgespalteten Repository synchronisiert sind.
 
-Weitere Informationen finden Sie unter [GitHub Desktop Documentation](https://help.github.com/desktop/).
+Weitere Informationen finden Sie in der [GitHub Desktop-Dokumentation](https://help.github.com/desktop/).
