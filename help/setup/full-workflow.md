@@ -1,11 +1,14 @@
 ---
-lastModified: '2018-06-28'
+lastModified: 2018-06-28T00:00:00Z
 title: GitHub-Beitragsarbeitsablauf für umfangreiche Änderungen
 seo-title: GitHub-Beitragsarbeitsablauf für umfangreiche Änderungen der Adobe-Dokumentation
 description: In diesem Artikel erfahren Sie, wie Sie mit dem umfangreichen Mitarbeiterarbeitsablauf Beiträge zur Adobe-Dokumentation erstellen.
 seo-description: In diesem Artikel erfahren Sie, wie Sie mit dem umfangreichen Mitarbeiterarbeitsablauf Beiträge zur Adobe-Dokumentation erstellen.
-translation-type: ht
-source-git-commit: cb9e20da64bb04a2b1765338b237825cae7aabeb
+translation-type: tm+mt
+source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+workflow-type: tm+mt
+source-wordcount: '1006'
+ht-degree: 99%
 
 ---
 
@@ -50,9 +53,10 @@ Erinnern Sie sich an die [Git- und GitHub-Grundlagen](git-fundamentals.md): Ein 
 Durch Isolieren verwandter Änderungen gegenüber einer spezifischen Verzweigung können Sie diese Änderungen unabhängig voneinander steuern sowie einführen und auf einen bestimmten Zeitpunkt im Veröffentlichungszyklus ausrichten. Je nach Art der Arbeit können Sie in Ihrem Repository tatsächlich ganz einfach mehrere Arbeitsverzweigungen verwenden. Es ist nicht ungewöhnlich, gleichzeitig an mehreren Verzweigungen zu arbeiten, die jeweils ein anderes Projekt repräsentieren.
 
 >[!NOTE]
+>
 >*Es empfiehlt sich nicht*, Ihre Änderungen in der Masterverzweigung vorzunehmen. Nehmen wir an, Sie verwenden die Masterverzweigung, um eine Reihe von Änderungen für eine zeitgesteuerte Funktionsveröffentlichung einzurichten. Sie schließen die Änderungen ab und warten darauf, sie zu veröffentlichen. Dann haben Sie in der Zwischenzeit eine dringende Anfrage, um etwas zu beheben, sodass Sie die Änderung an einer Datei in der Masterverzweigung vornehmen und sie dann veröffentlichen. In diesem Beispiel veröffentlichen Sie versehentlich sowohl die Fehlerbehebung *als auch* die Änderungen, die Sie für die Veröffentlichung an einem bestimmten Datum vorbehalten haben.
 
-Der nächste Schritt besteht darin, eine neue Arbeitsverzweigung in Ihrem lokalen Repository zu erstellen, um Ihre vorgeschlagenen Änderungen zu erfassen. Jeder Git-Client ist anders, wenden Sie sich also an die Hilfe für Ihren bevorzugten Client. Einen Überblick über den Prozess finden Sie im GitHub-Leitfaden unter [GitHub-Fluss](https://guides.github.com/introduction/flow/).
+Der nächste Schritt besteht darin, eine neue Arbeitsverzweigung in Ihrem lokalen Repository zu erstellen, um Ihre vorgeschlagenen Änderungen zu erfassen. Jeder Git-Client ist anders, wenden Sie sich also an die Hilfe für Ihren bevorzugten Client. Einen Überblick über den Prozess finden Sie im GitHub-Leitfaden zum [GitHub-Fluss](https://guides.github.com/introduction/flow/).
 
 ## Verarbeitung von Pull-Anfragen
 
