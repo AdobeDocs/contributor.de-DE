@@ -3,11 +3,11 @@ title: Git-Repository lokal einrichten
 seo-title: Git-Repository lokal für Adobe-Dokumentation einrichten
 description: Dieser Artikel enthält Anleitungen zum Erstellen Ihres lokalen Git-Repositorys und zum Beitrag zur Adobe-Dokumentation, einschließlich des Abspaltungs- und Klonvorgangs.
 seo-description: Dieser Artikel enthält Anleitungen zum Erstellen Ihres lokalen Git-Repositorys und zum Beitrag zur Adobe-Dokumentation, einschließlich des Abspaltungs- und Klonvorgangs.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d69ca7ee25e2a79151779687ef58d67a800f92e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '682'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Um zur Adobe-Dokumentation beizutragen, können Sie das entsprechende Repository
 
 ## Repository bestimmen
 
-Sie spalten das entsprechende Repository in Ihr eigenes GitHub-Konto ab, um dafür Lese-/Schreibberechtigungen zu erhalten und Ihre vorgeschlagenen Änderungen speichern zu können. [!UICONTROL Adobe Experience Cloud] Dokumentation befindet sich in verschiedenen Repositorys unter [github.com](https://www.github.com/adobedocs).
+Sie spalten das entsprechende Repository in Ihr eigenes GitHub-Konto ab, um dafür Lese-/Schreibberechtigungen zu erhalten und Ihre vorgeschlagenen Änderungen speichern zu können. Die Dokumentation von [!UICONTROL Adobe Experience Cloud] befindet sich in verschiedenen Repositorys unter [github.com](https://www.github.com/adobedocs).
 
 1. Wenn Sie sich nicht sicher sind, welches Repository zu verwenden ist, rufen Sie den Artikel mit Ihrem Webbrowser auf. Wählen Sie rechts oben im Artikel den Link **Bearbeiten** (Stiftsymbol). (Wenn Sie keinen Link zum Bearbeiten sehen, ist dieser Inhalt in GitHub noch nicht verfügbar.)
 
@@ -51,7 +51,7 @@ Erstellen Sie mithilfe des entsprechenden Repositorys eine Abspaltung des Reposi
 
 Da alle Hauptdokumentations-Repositorys schreibgeschützten Zugriff bieten, also keine Änderungen an Inhalt direkt in den Repositorys vorgenommen werden können, ist eine persönliche Abspaltung erforderlich. Um Änderungen vorzunehmen, müssen Sie eine Pull-Anfrage (PA) von Ihrer Abspaltung an das Haupt-Repository senden. Zur Vereinfachung dieses Prozesses benötigen Sie zunächst Ihre eigene Kopie des Repositorys, für die Sie Schreibzugriff haben. Eine GitHub-*Abspaltung* erfüllt diesen Zweck.
 
-1. Rufen Sie die GitHub-Seite des Haupt-Repositorys auf und klicken Sie oben rechts auf die Schaltfläche **Abspalten**.
+1. Rufen Sie die GitHub-Seite des Haupt-Repositorys auf und klicken Sie oben rechts auf die Schaltfläche **Fork**.
 
    ![GitHub-Abspaltung](assets/fork-simple.png)
 
@@ -71,7 +71,7 @@ Beim Erstellen eines Klons des abgespalteten Repositorys laden Sie eine Kopie de
 
 Bei diesen Schritten wird vorausgesetzt, dass Sie GitHub Desktop verwenden. Wenn Sie einen anderen Client verwenden, nehmen Sie entsprechende Anpassungen vor.
 
-1. Klicken Sie auf **Klonen oder herunterladen** und wählen Sie dann **Auf Desktop öffnen**, um eine Kopie des Repositorys (Ihre Abspaltung) in das aktuelle Verzeichnis auf Ihrem Computer abzulegen.
+1. Klicken Sie auf **Clone or download** und wählen Sie dann **Open in Desktop**, um eine Kopie des Repositorys (Ihre Abspaltung) in das aktuelle Verzeichnis auf Ihrem Computer abzulegen.
 
   ![Clone-Repo.](assets/clone-pulldown.png)
 
