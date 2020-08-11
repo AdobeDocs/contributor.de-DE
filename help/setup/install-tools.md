@@ -4,11 +4,11 @@ title: Bearbeitungswerkzeuge installieren
 seo-title: Git- und GitHub-Bearbeitungswerkzeuge für die Adobe-Dokumentation installieren
 description: Mithilfe dieses Artikels können Sie die Clientwerkzeuge herunterladen und installieren, die Sie für Git/GitHub und zum Bearbeiten von Markdown-Dateien benötigen.
 seo-description: Mithilfe dieses Artikels können Sie die Clientwerkzeuge herunterladen und installieren, die Sie für Git/GitHub und zum Bearbeiten von Markdown-Dateien für die Adobe-Dokumentation benötigen.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '378'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Wenn Sie eine Befehlszeilenschnittstelle (CLI) einer grafischen Benutzeroberflä
 
 Git-Lernressourcen sind hier verfügbar:
 
-* [Git-Grundlagen](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+* [Git-Grundlagen](https://git-scm.com/book/de/v2/Getting-Started-Git-Basics)
 * [Umgang mit Git und GitHub erlernen](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 * [Git-Terminologie](https://help.github.com/articles/github-glossary)
 
