@@ -4,9 +4,9 @@ title: Markdown zum Schreiben von Dokumentation verwenden
 seo-title: Markdown zum Schreiben von Adobe-Dokumentation verwenden
 description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 seo-description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln für Adobe-Dokumentation verwendet wird.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1377'
 ht-degree: 100%
 
@@ -71,9 +71,9 @@ Um nummerierte Listen zu erstellen, beginnen Sie eine Zeile mit `1.` oder `1)`, 
 
 Angezeigt:
 
-1. Dies ist Schritt 1.
-1. Dies ist der nächste Schritt.
-1. Dies ist ein weiterer Schritt, der dritte.
+1. This is step 1.
+1. This is the next step.
+1. This is yet another step, the third.
 
 <!-- markdownlint-disable MD037 -->
 Um Listen mit Aufzählungszeichen zu erstellen, beginnen Sie eine Zeile mit „\*“, „-“ oder „+“, aber mischen Sie die Formate nicht in derselben Liste. (Mischen Sie Aufzählungsformate wie \* und \+ nicht innerhalb desselben Dokuments.)
@@ -87,9 +87,9 @@ Um Listen mit Aufzählungszeichen zu erstellen, beginnen Sie eine Zeile mit „\
 
 Angezeigt:
 
-* Erstes Element in einer ungeordneten Liste.
-* Ein weiteres Element.
-* Und noch ein weiteres.
+* First item in an unordered list.
+* Another item.
+* Here we go again.
 
 Sie können auch Listen in Listen einbetten und Inhalte zwischen Listenelementen hinzufügen.
 
@@ -114,22 +114,22 @@ Sie können auch Listen in Listen einbetten und Inhalte zwischen Listenelementen
 
 Angezeigt:
 
-1. Richten Sie Ihre Tabelle und Codeblöcke ein.
-1. Führen Sie diesen Schritt aus.
+1. Set up your table and code blocks.
+1. Perform this step.
 
    ![Bildschirm](assets/no-localize/adobe_standard_logo.png)
-1. Stellen Sie sicher, dass die Tabelle wie folgt aussieht:
+1. Make sure that your table looks like this:
 
-   | Hallo | Welt |
+   | Hello | World |
    |---|---|
-   | Wie | geht&#39;s? |
-1. Dies ist der vierte Schritt.
+   | How | are you? |
+1. This is the fourth step.
 
    >[!NOTE]
    >
-   >Dies ist Anmerkungstext.
+   >This is note text.
 
-1. Führen Sie einen anderen Schritt aus.
+1. Do another step.
 
 ### Tabellen
 
@@ -144,10 +144,10 @@ Tabellen sind nicht Teil der Markdown-Kernspezifikation, doch Adobe unterstützt
 
 Angezeigt:
 
-| Kopfzeile | Noch eine Kopfzeile | Und eine weitere Kopfzeile |
+| Header | Another header | Yet another header |
 |--- |--- |--- |
-| Zeile 1 | Spalte 2 | Spalte 3 |
-| Zeile 2 | Zeile 2 Spalte 2 | Zeile 2 Spalte 3 |
+| row 1 | column 2 | column 3 |
+| row 2 | row 2 column 2 | row 2 column 3 |
 
 Einfache Tabellen funktionieren in Markdown angemessen. Tabellen, die mehrere Absätze oder Listen in einer Zelle enthalten, sind jedoch schwer zu bearbeiten. Für solche Inhalte empfehlen wir ein anderes Format, z. B. Überschriften und Text.
 
@@ -171,7 +171,7 @@ Angezeigt:
 
 [Adobe](https://www.adobe.com)
 
-Verwenden Sie relative Links für Verknüpfungen zu Artikeln (Querverweise) im Repository. Sie können alle relativen Link-Operanden verwenden, z. B. ./ (aktuelles Verzeichnis), ../ (ein Verzeichnis zurück) und ../../ (zwei Verzeichnisse zurück).
+Verwenden Sie relative Links für Verknüpfungen zu Artikeln (Querverweise) im Repository. Sie können alle relativen Link-Operanden verwenden, z. B../ (aktuelles Verzeichnis), ../ (ein Verzeichnis zurück) und ../../ (zwei Verzeichnisse zurück).
 
 ```markdown
 See [Overview example article](../../overview.md)
@@ -203,7 +203,7 @@ This is `inline code` within a paragraph of text.
 
 Angezeigt:
 
-Dies ist `inline code` in einem Textabschnitt.
+This is `inline code` within a paragraph of text.
 
 Dies ist ein abgegrenzter Codeblock:
 
@@ -225,7 +225,7 @@ Sie können Eigenschaften für Codeblöcke angeben, um die Zeilennummern (standa
 
 \`\`\`javascript {line-numbers=&quot;no&quot;}
 function test() {
-console.log(&quot;Ist Ihnen die leere Zeile vor dieser Funktion aufgefallen?&quot;);
+console.log(&quot;notice the blank line before this function?&quot;);
 \`\`\`
 
 ### Definitionslisten
@@ -290,7 +290,7 @@ Angezeigt:
 
 >[!NOTE]
 >
->Dies ist ein standardmäßiger HINWEIS-Block.
+>This is a standard NOTE block.
 
 ```markdown
 >[!TIP]
@@ -302,7 +302,7 @@ Angezeigt:
 
 >[!TIP]
 >
->Dies ist ein Standardtipp.
+>This is a standard tip.
 
 ### Videos
 
@@ -329,8 +329,8 @@ Die Komponente „Mehr wie dieses“ in AEM wird am Ende eines Artikels angezeig
 Angezeigt:
 
 >[!MORELIKETHIS]
->* [Artikel 1](https://helpx.adobe.com/de/support/analytics.html)
->* [Artikel 2](https://helpx.adobe.com/de/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/de/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/de/support/audience-manager.html)
 
 
 ### DNL – Do Not Localize (nicht lokalisieren) – und UICONTROL
@@ -344,7 +344,7 @@ Für Elemente in der Benutzeroberfläche und Menüs einer Lösung verwenden wir 
 
 **Beispiel:**
 
-In [!DNL Adobe Target] können Sie Ihre Tests direkt auf einer [!DNL Target]-aktivierten Seite erstellen.
+In [!DNL Adobe Target] you can create your tests directly on a [!DNL Target]-enabled page.
 
 **Quelle:**
 
@@ -354,7 +354,7 @@ In [!DNL Adobe Target] you can create your tests directly on a [!DNL Target]-ena
 
 **Beispiel**
 
-Verwenden Sie den [!UICONTROL Visual Experience Composer] in [!DNL Target], um Ihren Test direkt auf einer Seite zu erstellen.
+Use the [!UICONTROL Visual Experience Composer] in [!DNL Target] to create your test directly on a page.
 
 **Quelle:**
 
