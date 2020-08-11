@@ -4,9 +4,9 @@ title: Links in der Dokumentation verwenden
 seo-title: Links in der Adobe Git-/Markdown-Dokumentation verwenden
 description: Dieser Artikel enthält Anleitungen zum Erstellen von Links zu Inhalten und Bildern.
 seo-description: Dieser Artikel enthält Anleitungen zum Erstellen von Links zu Inhalten und Bildern für die Adobe-Dokumentation.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 73ec3b8b63769a192ee16bec2720930ea6a9aaed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '340'
 ht-degree: 100%
 
