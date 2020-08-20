@@ -4,10 +4,10 @@ title: Markdown zum Schreiben von Dokumentation verwenden
 seo-title: Markdown zum Schreiben von Adobe-Dokumentation verwenden
 description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 seo-description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln für Adobe-Dokumentation verwendet wird.
-translation-type: ht
-source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: ht
-source-wordcount: '1377'
+translation-type: tm+mt
+source-git-commit: 27ba164070996d192c84493d83232484d2badb28
+workflow-type: tm+mt
+source-wordcount: '1329'
 ht-degree: 100%
 
 ---
@@ -220,13 +220,6 @@ Angezeigt:
 function test() {
  console.log("notice the blank line before this function?");
 ```
-
-Sie können Eigenschaften für Codeblöcke angeben, um die Zeilennummern (standardmäßig aktiviert) zu deaktivieren oder einen Zeilenumbruch hinzuzufügen (standardmäßig deaktiviert). Verwenden Sie {line-numbers=&quot;no&quot;} und {line-wrap=&quot;yes&quot;}. Diese Eigenschaften sind benutzerdefinierte Markdown-Erweiterungen.
-
-\`\`\`javascript {line-numbers=&quot;no&quot;}
-function test() {
-console.log(&quot;notice the blank line before this function?&quot;);
-\`\`\`
 
 ### Definitionslisten
 
