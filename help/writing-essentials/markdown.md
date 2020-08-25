@@ -4,9 +4,9 @@ title: Markdown zum Schreiben von Dokumentation verwenden
 seo-title: Markdown zum Schreiben von Adobe-Dokumentation verwenden
 description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 seo-description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln für Adobe-Dokumentation verwendet wird.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 27ba164070996d192c84493d83232484d2badb28
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1329'
 ht-degree: 100%
 
@@ -171,7 +171,7 @@ Angezeigt:
 
 [Adobe](https://www.adobe.com)
 
-Verwenden Sie relative Links für Verknüpfungen zu Artikeln (Querverweise) im Repository. Sie können alle relativen Link-Operanden verwenden, z. B../ (aktuelles Verzeichnis), ../ (ein Verzeichnis zurück) und ../../ (zwei Verzeichnisse zurück).
+Verwenden Sie relative Links für Verknüpfungen zu Artikeln (Querverweise) im Repository. Sie können alle relativen Link-Operanden verwenden, z. B. ./ (aktuelles Verzeichnis), ../ (ein Verzeichnis zurück) und ../../ (zwei Verzeichnisse zurück).
 
 ```markdown
 See [Overview example article](../../overview.md)
@@ -187,7 +187,7 @@ Weitere Informationen zur Verknüpfung finden Sie im Artikel [Links](linking.md)
 
 Angezeigt:
 
-![Adobe-Logo](assets/no-localize/adobe_standard_logo.png "Tooltip")
+![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
 
 ### Codeblöcke
 
@@ -257,7 +257,7 @@ Adobe-Artikel verwenden Standard-Markdown für die meisten Artikelformatierungen
 * Nicht lokalisieren
 * Komponenteneigenschaften, z. B. Zuweisen einer anderen Kopfzeilen-ID zu einer Kopfzeile
 
-Verwenden Sie das Markdown-Blockanführungszeichen (>) am Anfang jeder Zeile, um eine erweiterte Komponente wie einen Hinweis anzubinden. Wenn Sie Unterkomponenten in Komponenten verwenden müssen, fügen Sie für diesen Unterkomponentenabschnitt eine zusätzliche Ebene von Blockanführungszeichen (>  >) hinzu. Beispielsweise sollte ein HINWEIS in einem NICHTLOKALISIEREN-Abschnitt mit >    > beginnen.
+Verwenden Sie das Markdown-Blockanführungszeichen (>) am Anfang jeder Zeile, um eine erweiterte Komponente wie einen Hinweis anzubinden. Wenn Sie Unterkomponenten in Komponenten verwenden müssen, fügen Sie für diesen Unterkomponentenabschnitt eine zusätzliche Ebene von Blockanführungszeichen (>  >) hinzu. Beispielsweise sollte ein HINWEIS in einem DONOTLOCALIZE-Abschnitt mit >    > beginnen.
 
 Einige gängige Markdown-Elemente wie Kopfzeilen und Codeblöcke umfassen erweiterte Eigenschaften. Wenn Sie die Standardeigenschaften ändern müssen, fügen Sie die Parameter in geschweiften Klammern /{ /} nach der Komponente hinzu. Erweiterte Eigenschaften werden im Kontext beschrieben.
 
@@ -322,8 +322,8 @@ Die Komponente „Mehr wie dieses“ in AEM wird am Ende eines Artikels angezeig
 Angezeigt:
 
 >[!MORELIKETHIS]
->* [Article 1](https://helpx.adobe.com/de/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/de/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
 
 
 ### DNL – Do Not Localize (nicht lokalisieren) – und UICONTROL
