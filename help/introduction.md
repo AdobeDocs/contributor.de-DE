@@ -3,9 +3,9 @@ title: Mitarbeiter-Handbuch für Adobe-Dokumentation
 seo-title: Mitarbeiter-Leitfaden für die technische Adobe Experience Cloud-Dokumentation
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Dokumentationsseite von Adobe hinzufügen können.
 seo-description: In diesem Handbuch wird beschrieben, wie Sie zur technischen Dokumentation von [!UICONTROL Adobe Experience Cloud] beitragen können.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c788a71cecf7b69698b649b6053e6740bcc22730
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '836'
 ht-degree: 100%
 
