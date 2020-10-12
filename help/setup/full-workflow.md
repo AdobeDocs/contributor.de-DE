@@ -4,10 +4,10 @@ title: GitHub-Beitragsarbeitsablauf für umfangreiche Änderungen
 seo-title: GitHub-Beitragsarbeitsablauf für umfangreiche Änderungen der Adobe-Dokumentation
 description: In diesem Artikel erfahren Sie, wie Sie mit dem umfangreichen Mitarbeiterarbeitsablauf Beiträge zur Adobe-Dokumentation erstellen.
 seo-description: In diesem Artikel erfahren Sie, wie Sie mit dem umfangreichen Mitarbeiterarbeitsablauf Beiträge zur Adobe-Dokumentation erstellen.
-translation-type: ht
-source-git-commit: c788a71cecf7b69698b649b6053e6740bcc22730
-workflow-type: ht
-source-wordcount: '1006'
+translation-type: tm+mt
+source-git-commit: 6ec1d13f80698cb5963c07656ef8183db735ff75
+workflow-type: tm+mt
+source-wordcount: '976'
 ht-degree: 100%
 
 ---
@@ -75,5 +75,3 @@ Wenn die Pull-Anfrage problemlos und abgezeichnet ist, werden Ihre Änderungen i
 ### Veröffentlichung läuft
 
 Denken Sie daran, dass Ihre Pull-Anfrage von einem PA-Prüfer zusammengeführt werden muss, bevor die Änderungen in die nächste geplante Veröffentlichung aufgenommen werden können. Pull-Anfragen werden normalerweise in der Reihenfolge der Übermittlung geprüft/zusammengeführt. Wenn Ihre Pull-Anfrage für eine bestimmte Veröffentlichung zusammengeführt werden muss, müssen Sie mit Ihrem PA-Prüfer zusammenarbeiten, um sicherzustellen, dass die Zusammenführung vor der Veröffentlichung erfolgt.
-
-Nachdem Ihre Beiträge genehmigt und zusammengeführt wurden, werden sie vom docs.microsoft.com-Veröffentlichungsprozess erfasst. Je nachdem, welches Team das Repository verwaltet, zu dem Sie beitragen, können die Veröffentlichungszeiten variieren.
