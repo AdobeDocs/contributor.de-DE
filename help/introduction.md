@@ -3,11 +3,11 @@ title: Mitarbeiter-Handbuch für Adobe-Dokumentation
 seo-title: Mitarbeiter-Leitfaden für die technische Adobe Experience Cloud-Dokumentation
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Dokumentationsseite von Adobe hinzufügen können.
 seo-description: In diesem Handbuch wird beschrieben, wie Sie zur technischen Dokumentation von [!UICONTROL Adobe Experience Cloud] beitragen können.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8943af2fdf406b2e33db037bb60dfea97df2959a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '837'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -44,9 +44,9 @@ Das schnelle Bearbeiten ist eine gute Möglichkeit, kleine Fehler in Dokumenten 
 1. Unterschreiben Sie die [Lizenzvereinbarung für Mitarbeiter (CLA)](http://opensource.adobe.com/cla.html), falls akzeptabel.
 
    Sie müssen nur einmal eine Adobe-Lizenzvereinbarung für Mitarbeiter übermitteln.
-1. Click the **`Edit this page`** icon in the right column to go to the markdown source file on GitHub.
+1. Klicken Sie in der rechten Spalte auf das Symbol **`Edit this page`**, um zur Markdown-Quelldatei auf GitHub zu wechseln.
 
-   ![Symbol für diese Seite bearbeiten](/help/assets/git_edit.png)
+   ![Bearbeiten Sie das Symbol für diese Seite](/help/assets/git_edit.png)
 
 1. Klicken Sie auf das Stiftsymbol, um den Artikel zu bearbeiten.
 
@@ -71,13 +71,13 @@ Das ist alles. Vielen Dank! Mitglieder des Dokumentationsteams überprüfen Ihre
 
 Eine weitere einfache Möglichkeit, uns über ein Problem mit einem Inhaltselement zu informieren, ist die Funktion „Problem protokollieren“.
 
-1. If you see a problem with a piece of content, click the **`Log an Issue`** icon in the right column.
+1. Wenn ein Problem mit einem Inhaltselement auftritt, klicken Sie auf das **`Log an Issue`**-Symbol in der rechten Spalte.
 
    ![](assets/git_log_issue.png)
 
    >[!NOTE]
    >
-   >Sie müssen sich bei Ihrem GitHub-Konto anmelden oder ein neues Konto erstellen, um ein Problem zu protokollieren.
+   >Sie müssen sich bei Ihrem GitHub-Konto anmelden bzw. ein neues Konto erstellen, um ein Problem zu protokollieren.
 
    Durch Klicken auf diesen Link können Sie mit der GitHub-Problemoberfläche ein kurzes Ticket bei uns protokollieren.
 
