@@ -3,11 +3,11 @@ title: Mitarbeiter-Handbuch für Adobe-Dokumentation
 seo-title: Mitarbeiter-Leitfaden für die technische Adobe Experience Cloud-Dokumentation
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Dokumentationsseite von Adobe hinzufügen können.
 seo-description: In diesem Handbuch wird beschrieben, wie Sie zur technischen Dokumentation von [!UICONTROL Adobe Experience Cloud] beitragen können.
-translation-type: ht
-source-git-commit: 8943af2fdf406b2e33db037bb60dfea97df2959a
-workflow-type: ht
-source-wordcount: '837'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+workflow-type: tm+mt
+source-wordcount: '836'
+ht-degree: 95%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ## Was ist die Dokumentation zur Zusammenarbeit?
 
-Im Laufe des Jahres 2019 wird die gesamte technische Dokumentation und der Aktivierungsinhalt für Adobe Experience Cloud auf eine neue Plattform basierend auf Open-Source-Prinzipien umgestellt, die GitHub-, Markdown- und Adobe Experience Cloud-Lösungen nutzen, einschließlich Adobe Experience Manager, Analytics, Launch und Target.
+Die technische Dokumentation und die damit verbundenen Inhalte für Adobe Experience Cloud und andere Adobe Enterprise-Produkte wurden auf eine neue Plattform umgestellt. Diese neue Plattform basiert auf Open-Source-Prinzipien, die Github-, Markdown- und Adobe Experience Cloud-Lösungen verwenden.
 
 Dieses Open-Source-Modell verbessert die Qualität der Inhalte und die Kommunikation zwischen Kunden, Dokumentationsteams und Produktteams. Auf jeder Seite können Sie jetzt Nutzbarkeit von Inhalten, Protokollprobleme und sogar Inhaltsvorschläge als Git-Pull-Anfragen (PRs) bewerten. Die Adobe-Dokumentationsteams überwachen die Beiträge und Probleme täglich und nehmen nach Bedarf Aktualisierungen und Anpassungen vor.
 
