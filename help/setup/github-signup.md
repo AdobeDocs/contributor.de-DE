@@ -1,14 +1,10 @@
 ---
-lastModified: 2018-10-15T00:00:00Z
 title: Schritte zur GitHub-Kontoeinrichtung
-seo-title: Schritte zur GitHub-Kontoeinrichtung für die Adobe Experience Cloud-Dokumentation
 description: Führen Sie die Schritte zum Einrichten von Konten für GitHub durch, um Inhalt zur Adobe-Dokumentation beizutragen.
-seo-description: Führen Sie die Schritte zum Einrichten von Konten für GitHub durch, um Inhalt zur Adobe-Dokumentation beizutragen.
-index: true
-translation-type: ht
-source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: ht
-source-wordcount: '235'
+translation-type: tm+mt
+source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+workflow-type: tm+mt
+source-wordcount: '207'
 ht-degree: 100%
 
 ---
