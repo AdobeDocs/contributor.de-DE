@@ -1,14 +1,11 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
 title: Markdown zum Schreiben von Dokumentation verwenden
-seo-title: Markdown zum Schreiben von Adobe-Dokumentation verwenden
 description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
-seo-description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln für Adobe-Dokumentation verwendet wird.
-translation-type: ht
-source-git-commit: 4ebbbde3337183a19fd3a59ae091b621a092e6f8
-workflow-type: ht
-source-wordcount: '1322'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+workflow-type: tm+mt
+source-wordcount: '1240'
+ht-degree: 98%
 
 ---
 
@@ -26,11 +23,11 @@ Wenn wir Adobe Docs-Inhalt in GitHub speichern, kann eine Version von Markdown m
 Um eine Überschrift zu erstellen, verwenden Sie ein Hash-Zeichen (#) am Anfang einer Zeile:
 
 ```
-   # This is level 1 (article title)
-   ## This is level 2
-   ### This is level 3
-   #### This is level 4
-   ##### This is level 5
+# This is level 1 (article title)
+## This is level 2
+### This is level 3
+#### This is level 4
+##### This is level 5
 ```
 
 ### Einfacher Text
@@ -40,18 +37,10 @@ Ein Absatz erfordert keine spezielle Syntax in Markdown.
 Um Text **fett** zu formatieren, schließen Sie ihn in doppelte Sternchen ein. Um Text *kursiv* zu formatieren, schließen Sie ihn in einfache Sternchen ein:
 
 ```markdown
-    This text is **bold**.
-    This text is *italic*.
-    This text is both ***bold and italic***.
+   This text is **bold**.
+   This text is *italic*.
+   This text is both ***bold and italic***.
 ```
-
-<!--
-To format superscript (H<sub>2</sub>O) and subscript (e=mc<sup>2</sup>) text:
-
-```markdown
-This is subscript H<sub>2</sub>O and superscript e=mc<sup>2</sup>.
-```
--->
 
 Um Markdown-Formatierungszeichen zu ignorieren, verwenden Sie \ vor dem Zeichen:
 
@@ -75,9 +64,7 @@ Angezeigt:
 1. This is the next step.
 1. This is yet another step, the third.
 
-<!-- markdownlint-disable MD037 -->
 Um Listen mit Aufzählungszeichen zu erstellen, beginnen Sie eine Zeile mit „\*“, „-“ oder „+“, aber mischen Sie die Formate nicht in derselben Liste. (Mischen Sie Aufzählungsformate wie \* und \+ nicht innerhalb desselben Dokuments.)
-<!-- markdownlint-disable MD037 -->
 
 ```markdown
 * First item in an unordered list.
@@ -221,33 +208,6 @@ function test() {
  console.log("notice the blank line before this function?");
 ```
 
-### Definitionslisten
-
-Eine Definitionsliste ist eine Markdown-Erweiterung, die die Komponente „Definitionsliste“ in AEM unterstützt. Eine Definitionsliste besteht aus einem Begriff und seiner Definition.
-
-<!--
-
-```markdown
-Frog
-: An amphibious green creature. Likes flies.
-
-Cat
-: A less amphibious creature than frogs.
-```
-
-Displayed:
-
-Frog
-: An amphibious green creature. Likes flies.
-
-Cat
-: A less amphibious creature than frogs.
---->
-
-#### Anmerkungen und Kommentare
-
-Kommentare (Anmerkungen) werden nicht in den öffentlichen Hilfeartikeln angezeigt. Kommentare werden jedoch in den öffentlichen Markdown-Dateien angezeigt, die Benutzer sehen und bearbeiten können.
-
 ## Benutzerspezifische Markdown-Erweiterungen
 
 Adobe-Artikel verwenden Standard-Markdown für die meisten Artikelformatierungen wie Absätze, Links, Listen und Überschriften. Für eine reichhaltigere Formatierung können Artikel erweiterte Markdown-Funktionen verwenden, z. B.:
@@ -263,12 +223,16 @@ Einige gängige Markdown-Elemente wie Kopfzeilen und Codeblöcke umfassen erweit
 
 ### Hinweisblöcke
 
-Sie können aus vier Arten von Hinweisblöcken wählen, um die Aufmerksamkeit auf bestimmte Inhalte zu lenken:
+Sie können aus den folgenden Arten von Notizblöcken auswählen, um die Aufmerksamkeit auf bestimmte Inhalte zu lenken:
 
 * `[!NOTE]`
-* `[!CAUTION]`
 * `[!TIP]`
 * `[!IMPORTANT]`
+* `[!CAUTION]`
+* `[!WARNING]`
+* `[!ADMINISTRATION]`
+* `[!AVAILABILITY]`
+* `[!PREREQUISITES]`
 
 Im Allgemeinen sollten Hinweise sparsam verwendet werden, da sie stören können. Obwohl sie auch Codeblöcke, Bilder, Listen und Links unterstützen, sollten Sie Ihre Hinweise einfach und geradlinig halten.
 
@@ -307,7 +271,7 @@ Eingebettete Videos werden nicht nativ in Markdown gerendert, Sie können aber d
 
 Angezeigt:
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
 
 ### Mehr wie dieses
 
@@ -386,7 +350,7 @@ Im Folgenden finden Sie die Kodierungen für die „smarten“ Versionen dieser 
 
 Wenn Sie spitze Klammern im Text (nicht im Code) in Ihrer Datei verwenden, zum Beispiel, um einen Platzhalter anzugeben, müssen Sie die spitzen Klammern manuell kodieren. Andernfalls wird in Markdown davon ausgegangen, dass sie ein HTML-Tag sein sollen.
 
-Kodieren Sie beispielsweise `<script name>` als `&lt;script name&gt;`
+Kodieren Sie beispielsweise `<script name>` als  `&lt;script name&gt;`
 
 ### Et-Zeichen in Titeln
 
