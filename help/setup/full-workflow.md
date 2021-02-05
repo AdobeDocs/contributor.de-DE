@@ -1,9 +1,9 @@
 ---
 title: GitHub-Beitragsarbeitsablauf für umfangreiche Änderungen
 description: In diesem Artikel erfahren Sie, wie Sie mit dem umfangreichen Mitarbeiterarbeitsablauf Beiträge zur Adobe-Dokumentation erstellen.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '950'
 ht-degree: 100%
 
