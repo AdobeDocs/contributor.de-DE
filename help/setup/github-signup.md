@@ -1,9 +1,9 @@
 ---
 title: Schritte zur GitHub-Kontoeinrichtung
 description: Führen Sie die Schritte zum Einrichten von Konten für GitHub durch, um Inhalt zur Adobe-Dokumentation beizutragen.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '207'
 ht-degree: 100%
 
