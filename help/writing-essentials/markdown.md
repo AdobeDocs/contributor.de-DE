@@ -1,11 +1,11 @@
 ---
 title: Markdown zum Schreiben von Dokumentation verwenden
 description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1240'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -223,7 +223,7 @@ Einige gängige Markdown-Elemente wie Kopfzeilen und Codeblöcke umfassen erweit
 
 ### Hinweisblöcke
 
-Sie können aus den folgenden Arten von Notizblöcken auswählen, um die Aufmerksamkeit auf bestimmte Inhalte zu lenken:
+Sie können aus vier Arten von Hinweisblöcken wählen, um die Aufmerksamkeit auf bestimmte Inhalte zu lenken:
 
 * `[!NOTE]`
 * `[!TIP]`
@@ -271,7 +271,7 @@ Eingebettete Videos werden nicht nativ in Markdown gerendert, Sie können aber d
 
 Angezeigt:
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12&captions=ger)
 
 ### Mehr wie dieses
 
@@ -350,7 +350,7 @@ Im Folgenden finden Sie die Kodierungen für die „smarten“ Versionen dieser 
 
 Wenn Sie spitze Klammern im Text (nicht im Code) in Ihrer Datei verwenden, zum Beispiel, um einen Platzhalter anzugeben, müssen Sie die spitzen Klammern manuell kodieren. Andernfalls wird in Markdown davon ausgegangen, dass sie ein HTML-Tag sein sollen.
 
-Kodieren Sie beispielsweise `<script name>` als  `&lt;script name&gt;`
+Kodieren Sie beispielsweise `<script name>` als `&lt;script name&gt;`
 
 ### Et-Zeichen in Titeln
 
