@@ -1,9 +1,9 @@
 ---
 title: Git-Repository lokal einrichten
 description: Dieser Artikel enthält Anleitungen zum Erstellen Ihres lokalen Git-Repositorys und zum Beitrag zur Adobe-Dokumentation, einschließlich des Abspaltungs- und Klonvorgangs.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '653'
 ht-degree: 100%
 
