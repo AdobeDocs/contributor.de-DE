@@ -5,7 +5,7 @@ translation-type: tm+mt
 source-git-commit: fe6adf7414680d4835a6402be2e8d1a5547cc7d8
 workflow-type: tm+mt
 source-wordcount: '828'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ Die Produktdokumentation von Adobe Experience Cloud ist in den meisten Sprachen 
 
    ![Übersetzte Seite](assets/french.png)
 
-   Wenn Ihre Sprachversion noch nicht verfügbar ist, kann Adobe die Inhalte automatisch übersetzen. Der automatische Übersetzungsdienst der Adobe zeigt eine Meldung oben im rechten Navigationsbereich an:
+   Wenn Ihre Sprachversion noch nicht verfügbar ist, kann Adobe die Inhalte automatisch übersetzen. Der automatische Übersetzungsdienst von Adobe zeigt eine Meldung oben im rechten Navigationsbereich an:
 
    ![Übersetzungsnachricht](assets/machine-translation-message.png)
 
