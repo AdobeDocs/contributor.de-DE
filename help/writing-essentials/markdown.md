@@ -1,11 +1,11 @@
 ---
 title: Markdown zum Schreiben von Dokumentation verwenden
 description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
-translation-type: ht
-source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: ht
-source-wordcount: '1240'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: b8090869aa7b5a2ab62f7af09e1b5e289d8a392b
+workflow-type: tm+mt
+source-wordcount: '1491'
+ht-degree: 76%
 
 ---
 
@@ -176,6 +176,8 @@ Angezeigt:
 
 ![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
 
+**HINWEIS:** Erstellen Sie für Bilder, die nicht lokalisiert werden sollen, einen separaten  `do-not-localize` Ordner im Ordner &quot;assets&quot;. Normalerweise würden dort Bilder ohne Text oder Bilder platziert, die nur Beispielinhalte enthalten. Dadurch werden alle &quot;Rauschen&quot;aus dem Ordner &quot;assets&quot;entfernt und die Anzahl der Fragen verringert.
+
 ### Codeblöcke
 
 Markdown unterstützt die Platzierung von Codeblöcken sowohl in einem Satz als auch als separater „abgegrenzter“ Block zwischen Sätzen. Weitere Informationen finden Sie unter [Native Markdown-Unterstützung für Codeblöcke.](https://daringfireball.net/projects/markdown/syntax#precode)
@@ -271,7 +273,7 @@ Eingebettete Videos werden nicht nativ in Markdown gerendert, Sie können aber d
 
 Angezeigt:
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
 
 ### Mehr wie dieses
 
@@ -290,33 +292,44 @@ Angezeigt:
 >* [Article 2](https://helpx.adobe.com/de/support/audience-manager.html)
 
 
-### DNL – Do Not Localize (nicht lokalisieren) – und UICONTROL
+### UICONTROL und DNL
 
-In einigen Fällen müssen wir bestimmte Inhaltsabschnitte in einem Artikel so kennzeichnen, dass sie auf Englisch bleiben.
-Wörter, Ausdrücke und andere Elemente müssen in unseren Übersetzungssystemen entsprechend deklariert werden, so kann ein gesteuertes Lexikon verwaltet werden.
+Alle unsere Markdown-Hilfeinhalte werden zunächst mithilfe der maschinellen Übersetzung lokalisiert. Wenn die Hilfe noch nie lokalisiert wurde, behalten wir die maschinelle Übersetzung bei. Wenn der Hilfeinhalt jedoch in der Vergangenheit lokalisiert wurde, fungiert der maschinell übersetzte Inhalt als Platzhalter, während der Inhalt im Prozess der menschlichen Übersetzung ist.
 
-Wörter oder Ausdrücke, die nicht lokalisiert werden sollen, können Sie in die `[!DNL]`-Erweiterung einschließen.
+**``**
 
-Für Elemente in der Benutzeroberfläche und Menüs einer Lösung verwenden wir die ``-Erweiterung.
+Während der maschinellen Übersetzung werden Elemente, die mit `` getaggt sind, mit einer lokale Anpassung-Datenbank für die entsprechende Übersetzung verglichen. Falls die Benutzeroberfläche nicht lokalisiert ist, ermöglicht dieses Tag dem System, die Benutzeroberflächenreferenz für die jeweilige Sprache (d. h. Analytics-Referenzen in italienischer Sprache).
 
 **Beispiel:**
 
-In [!DNL Adobe Target] you can create your tests directly on a [!DNL Target]-enabled page.
+1. Gehen Sie zum Bildschirm **[!UICONTROL Run Process]**.
+1. Wählen Sie **[!UICONTROL File > Print > Print All]**, um alle Dateien auf Ihrem Server zu drucken.
+1. Das Dialogfeld [!UICONTROL Processing Rules] wird angezeigt.
 
 **Quelle:**
 
 ```markdown
-In [!DNL Adobe Target] you can create your tests directly on a [!DNL Target]-enabled page.
+1. Go to the **[!UICONTROL Run Process]** screen.
+1. Choose **[!UICONTROL File > Print > Print All]** to print all the files on your server.
+1. The [!UICONTROL Processing Rules] dialog box appears.
 ```
 
-**Beispiel**
+**HINWEIS:** Von den drei Tagging-Optionen ist dies die wichtigste, um eine hohe Qualität zu erzielen und ist obligatorisch.
 
-Use the [!UICONTROL Visual Experience Composer] in [!DNL Target] to create your test directly on a page.
+**`[!DNL]`**
+
+In der Regel verwenden wir die Liste &quot;Nicht übersetzen&quot;, um den Maschinen zu sagen, was sie auf Englisch behalten sollen. Am häufigsten würden die langen Lösungsnamen wie &quot;Adobe Analytics&quot;, &quot;Adobe Campaign&quot;und &quot;Adobe Target&quot;verwendet. Es kann jedoch vorkommen, dass wir die Engine zwingen müssen, Englisch zu verwenden, weil der betreffende Begriff auf eine bestimmte oder allgemeine Weise verwendet werden kann. Am offensichtlichsten wäre es, wenn die Lösungen wie &quot;Analytics&quot;, &quot;Kampagne&quot;, &quot;Zielgruppe&quot;usw. kurz benannt würden. Es wäre für eine Maschine schwierig zu verstehen, dass es sich um Lösungsnamen und nicht um allgemeine Begriffe handelt. Das Tag kann auch für Namen/Funktionen von Drittanbietern verwendet werden, die immer auf Englisch bleiben, oder für kürzere Textabschnitte wie einen Satz, der auf Englisch bleiben muss.
+
+**Beispiel:**
+
+* Mit [!DNL Target] können Sie A/B-Tests erstellen, um die optimale
+* Adobe Analytics ist eine leistungsstarke Lösung zur Erfassung von Analysen auf Ihrer Site. [!DNL Analytics] kann Ihnen auch bei Berichte helfen, diese Daten einfach zu verarbeiten.
 
 **Quelle:**
 
 ```markdown
-Use the [!UICONTROL Visual Experience Composer] in [!DNL Target] to create your test directly on a page.
+* With [!DNL Target], you can create A/B tests to find the optimal 
+* Adobe Analytics is a powerful solution to collect analytics on your site. [!DNL Analytics] can also help you with reporting to easily digest that data.
 ```
 
 ## Gotchas und Fehlerbehebung
@@ -350,7 +363,7 @@ Im Folgenden finden Sie die Kodierungen für die „smarten“ Versionen dieser 
 
 Wenn Sie spitze Klammern im Text (nicht im Code) in Ihrer Datei verwenden, zum Beispiel, um einen Platzhalter anzugeben, müssen Sie die spitzen Klammern manuell kodieren. Andernfalls wird in Markdown davon ausgegangen, dass sie ein HTML-Tag sein sollen.
 
-Kodieren Sie beispielsweise `<script name>` als `&lt;script name&gt;`
+Kodieren Sie beispielsweise `<script name>` als  `&lt;script name&gt;`
 
 ### Et-Zeichen in Titeln
 
