@@ -1,11 +1,11 @@
 ---
 title: Markdown zum Schreiben von Dokumentation verwenden
 description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b8090869aa7b5a2ab62f7af09e1b5e289d8a392b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1491'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -176,7 +176,7 @@ Angezeigt:
 
 ![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
 
-**HINWEIS:** Erstellen Sie für Bilder, die nicht lokalisiert werden sollen, einen separaten  `do-not-localize` Ordner im Ordner &quot;assets&quot;. Normalerweise würden dort Bilder ohne Text oder Bilder platziert, die nur Beispielinhalte enthalten. Dadurch werden alle &quot;Rauschen&quot;aus dem Ordner &quot;assets&quot;entfernt und die Anzahl der Fragen verringert.
+**Hinweis:** Erstellen Sie für Bilder, die nicht lokalisiert werden sollen, einen separaten `do-not-localize` Ordner im Ordner „Assets“. Normalerweise werden dort Bilder ohne Text oder Bilder mit reinen Beispielinhalten abgelegt. Dadurch wird jegliches „Rauschen“ aus dem Ordner „Assets“ entfernt und die Anzahl der Fragen reduziert.
 
 ### Codeblöcke
 
@@ -294,15 +294,15 @@ Angezeigt:
 
 ### UICONTROL und DNL
 
-Alle unsere Markdown-Hilfeinhalte werden zunächst mithilfe der maschinellen Übersetzung lokalisiert. Wenn die Hilfe noch nie lokalisiert wurde, behalten wir die maschinelle Übersetzung bei. Wenn der Hilfeinhalt jedoch in der Vergangenheit lokalisiert wurde, fungiert der maschinell übersetzte Inhalt als Platzhalter, während der Inhalt im Prozess der menschlichen Übersetzung ist.
+Alle unsere Markdown-Hilfeinhalte werden zunächst durch maschinelle Übersetzung lokalisiert. Wenn die Hilfe noch nie lokalisiert wurde, behalten wir die maschinelle Übersetzung bei. Wenn der Hilfeinhalt jedoch in der Vergangenheit lokalisiert wurde, fungiert der maschinell übersetzte Inhalt als Platzhalter, während der Inhalt manuell übersetzt wird.
 
 **``**
 
-Während der maschinellen Übersetzung werden Elemente, die mit `` getaggt sind, mit einer lokale Anpassung-Datenbank für die entsprechende Übersetzung verglichen. Falls die Benutzeroberfläche nicht lokalisiert ist, ermöglicht dieses Tag dem System, die Benutzeroberflächenreferenz für die jeweilige Sprache (d. h. Analytics-Referenzen in italienischer Sprache).
+Während der maschinellen Übersetzung werden Elemente, die mit ``-Tags versehen sind, für die entsprechende Übersetzung mit einer lokalen Anpassungsdatenbank abgeglichen. Für den Fall, dass die Benutzeroberfläche nicht lokalisiert ist, ermöglicht dieses Tag dem System, die Benutzeroberflächenreferenz in Englisch für die jeweilige Sprache zu belassen (z. B. Analytics-Referenzen in Italienisch).
 
 **Beispiel:**
 
-1. Gehen Sie zum Bildschirm **[!UICONTROL Run Process]**.
+1. Navigieren Sie zum Bildschirm **[!UICONTROL Run Process]**.
 1. Wählen Sie **[!UICONTROL File > Print > Print All]**, um alle Dateien auf Ihrem Server zu drucken.
 1. Das Dialogfeld [!UICONTROL Processing Rules] wird angezeigt.
 
@@ -314,16 +314,16 @@ Während der maschinellen Übersetzung werden Elemente, die mit `` getaggt sind,
 1. The [!UICONTROL Processing Rules] dialog box appears.
 ```
 
-**HINWEIS:** Von den drei Tagging-Optionen ist dies die wichtigste, um eine hohe Qualität zu erzielen und ist obligatorisch.
+**Hinweis:** Von den drei Tagging-Optionen ist dies die wichtigste, um eine hohe Qualität zu erzielen, und sie ist obligatorisch.
 
 **`[!DNL]`**
 
-In der Regel verwenden wir die Liste &quot;Nicht übersetzen&quot;, um den Maschinen zu sagen, was sie auf Englisch behalten sollen. Am häufigsten würden die langen Lösungsnamen wie &quot;Adobe Analytics&quot;, &quot;Adobe Campaign&quot;und &quot;Adobe Target&quot;verwendet. Es kann jedoch vorkommen, dass wir die Engine zwingen müssen, Englisch zu verwenden, weil der betreffende Begriff auf eine bestimmte oder allgemeine Weise verwendet werden kann. Am offensichtlichsten wäre es, wenn die Lösungen wie &quot;Analytics&quot;, &quot;Kampagne&quot;, &quot;Zielgruppe&quot;usw. kurz benannt würden. Es wäre für eine Maschine schwierig zu verstehen, dass es sich um Lösungsnamen und nicht um allgemeine Begriffe handelt. Das Tag kann auch für Namen/Funktionen von Drittanbietern verwendet werden, die immer auf Englisch bleiben, oder für kürzere Textabschnitte wie einen Satz, der auf Englisch bleiben muss.
+In der Regel wird eine „Nicht übersetzen“-Liste verwendet, um den maschinellen Übersetzungsprogrammen mitzuteilen, was auf Englisch bleiben soll. Zu den häufigsten Begriffen gehören lange Lösungsnamen wie „Adobe Analytics“, „Adobe Campaign“ und „Adobe Target“. Es kann jedoch vorkommen, dass zwingend Englisch genutzt werden muss, weil der betreffende Begriff auf eine bestimmte oder allgemeine Weise verwendet werden kann. Am naheliegendsten sind Kurzbezeichnungen für die Lösungen wie „Analytics“, „Campaign“, „Target“ usw. Es wäre für eine Maschine schwierig zu verstehen, dass es sich um Lösungsnamen und nicht um allgemeine Begriffe handelt. Das Tag kann auch für Namen/Funktionen von Drittanbietern verwendet werden, die immer in Englisch bleiben, oder für kürzere Textabschnitte wie eine Wortgruppe oder einen Satz, die in Englisch bleiben müssen.
 
 **Beispiel:**
 
 * Mit [!DNL Target] können Sie A/B-Tests erstellen, um die optimale
-* Adobe Analytics ist eine leistungsstarke Lösung zur Erfassung von Analysen auf Ihrer Site. [!DNL Analytics] kann Ihnen auch bei Berichte helfen, diese Daten einfach zu verarbeiten.
+* Adobe Analytics ist eine leistungsstarke Lösung zur Erfassung von Analysen auf Ihrer Website. [!DNL Analytics] kann Ihnen auch bei Berichten helfen, um diese Daten leicht zu verarbeiten.
 
 **Quelle:**
 
@@ -363,7 +363,7 @@ Im Folgenden finden Sie die Kodierungen für die „smarten“ Versionen dieser 
 
 Wenn Sie spitze Klammern im Text (nicht im Code) in Ihrer Datei verwenden, zum Beispiel, um einen Platzhalter anzugeben, müssen Sie die spitzen Klammern manuell kodieren. Andernfalls wird in Markdown davon ausgegangen, dass sie ein HTML-Tag sein sollen.
 
-Kodieren Sie beispielsweise `<script name>` als  `&lt;script name&gt;`
+Kodieren Sie beispielsweise `<script name>` als `&lt;script name&gt;`
 
 ### Et-Zeichen in Titeln
 
