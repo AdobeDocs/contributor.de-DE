@@ -1,14 +1,14 @@
 ---
 title: Markdown zum Schreiben von Dokumentation verwenden
 description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
+exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 translation-type: ht
-source-git-commit: b8090869aa7b5a2ab62f7af09e1b5e289d8a392b
+source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
 workflow-type: ht
 source-wordcount: '1491'
 ht-degree: 100%
 
 ---
-
 
 # Markdown zum Schreiben von technischer Dokumentation verwenden
 
@@ -140,7 +140,7 @@ Einfache Tabellen funktionieren in Markdown angemessen. Tabellen, die mehrere Ab
 
 Weitere Informationen zum Erstellen von Tabellen finden Sie unter:
 
-* GitHub – [Informationen mit Tabellen organisieren](https://help.github.com/articles/organizing-information-with-tables/)
+* GitHub – [Informationen mit Tabellen organisieren](https://docs.github.com/de/github/writing-on-github/organizing-information-with-tables)
 * Webapp [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 * [HTML-Tabellen in Markdown konvertieren](https://jmalarcon.github.io/markdowntables/)
 
@@ -174,7 +174,7 @@ Weitere Informationen zur Verknüpfung finden Sie im Artikel [Links](linking.md)
 
 Angezeigt:
 
-![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
+![Adobe Logo ](assets/no-localize/adobe_standard_logo.png " Hover text ")
 
 **Hinweis:** Erstellen Sie für Bilder, die nicht lokalisiert werden sollen, einen separaten `do-not-localize` Ordner im Ordner „Assets“. Normalerweise werden dort Bilder ohne Text oder Bilder mit reinen Beispielinhalten abgelegt. Dadurch wird jegliches „Rauschen“ aus dem Ordner „Assets“ entfernt und die Anzahl der Fragen reduziert.
 
@@ -374,4 +374,4 @@ Et-Zeichen (&amp;) sind in Titeln nicht zulässig. Verwenden Sie stattdessen „
 ### Markdown-Ressourcen
 
 * [Markdown-Einführung](https://daringfireball.net/projects/markdown/syntax)
-* [GitHub-Markdown-Grundlagen](https://help.github.com/articles/markdown-basics/)
+* [GitHub-Markdown-Grundlagen](https://docs.github.com/de/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
