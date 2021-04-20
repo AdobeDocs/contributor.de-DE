@@ -1,14 +1,14 @@
 ---
 title: Bearbeitungswerkzeuge installieren
 description: Mithilfe dieses Artikels können Sie die Clientwerkzeuge herunterladen und installieren, die Sie für Git/GitHub und zum Bearbeiten von Markdown-Dateien benötigen.
+exl-id: 930185cf-fff5-485a-9824-70c32c55800d
 translation-type: ht
-source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
 workflow-type: ht
 source-wordcount: '345'
 ht-degree: 100%
 
 ---
-
 
 # Bearbeitungswerkzeuge installieren
 
@@ -29,8 +29,8 @@ Wenn Sie eine Befehlszeilenschnittstelle (CLI) einer grafischen Benutzeroberflä
 Git-Lernressourcen sind hier verfügbar:
 
 * [Git-Grundlagen](https://git-scm.com/book/de/v2/Getting-Started-Git-Basics)
-* [Umgang mit Git und GitHub erlernen](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
-* [Git-Terminologie](https://help.github.com/articles/github-glossary)
+* [Umgang mit Git und GitHub erlernen](https://docs.github.com/de/github/getting-started-with-github/git-and-github-learning-resources)
+* [Git-Terminologie](https://docs.github.com/de/github/getting-started-with-github/github-glossary)
 
 ## Markdown-Bearbeiter verstehen
 
