@@ -1,8 +1,13 @@
 ---
-source-git-commit: 40fdaf609e770f3084cbdc40ff685c27d476510c
+exl-id: 01dc5fd4-4676-41b1-be7b-aa4a9ea2fe14
 translation-type: ht
+source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
+workflow-type: ht
+source-wordcount: '281'
+ht-degree: 100%
 
 ---
+
 # Beitragen
 
 Danke für Ihren Beitrag.
@@ -19,11 +24,12 @@ Beginnen Sie mit dem Melden eines Problems. Die bereits zu diesem Projekt beitra
 
 ## Lizenzvereinbarung für Mitarbeiter
 
-Für alle Drittanbieterbeiträge zu diesem Projekt muss eine signierte Lizenzvereinbarung für Mitarbeiter vorliegen. So kann Adobe Mitarbeiter im Rahmen des Projekts neu verteilen. [Unterschreiben Sie unsere Lizenzvereinbarung für Mitarbeiter](http://opensource.adobe.com/cla.html). Sie müssen nur einmal eine Adobe-Lizenzvereinbarung für Mitarbeiter einreichen. Wenn Sie also bereits eine gesendet haben, können Sie loslegen.
+Für alle Drittanbieterbeiträge zu diesem Projekt muss eine signierte Lizenzvereinbarung für Mitarbeiter vorliegen. So kann Adobe Mitarbeiter im Rahmen des Projekts neu verteilen. [Signieren Sie unsere Lizenzvereinbarung für Mitarbeiter](http://opensource.adobe.com/cla.html). Sie müssen nur einmal eine Adobe-Lizenzvereinbarung für Mitarbeiter einreichen. Wenn Sie also bereits eine gesendet haben, können Sie loslegen.
 
 ## Codeüberprüfungen
 
-Alle Übermittlungen sollten in Form von Pull-Anfragen eingehen und müssen von den Projektverantwortlichen geprüft werden. In der [GitHub-Dokumentation zu Pull-Anfragen](https://help.github.com/articles/about-pull-requests/) finden Sie weitere Informationen zum Senden von Pull-Anfragen.
+Alle Übermittlungen sollten in Form von Pull-Anfragen eingehen und müssen von den Projektverantwortlichen geprüft werden. In der [GitHub-Dokumentation zu Pull-Anfragen](https://help.github.com/de/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+finden Sie weitere Informationen zum Senden von Pull-Anfragen.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
