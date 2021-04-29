@@ -1,11 +1,11 @@
 ---
 title: Beitragen
-description: Informationen zum Beitrag zur Dokumentation von AdobeDocs.
-translation-type: tm+mt
+description: Informationen darüber, wie Sie zur Dokumentation von AdobeDocs beitragen können.
+translation-type: ht
 source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '303'
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ Für dieses Projekt gilt der Adobe-[Verhaltenskodex](code-of-conduct.md). Durch 
 
 ## Dokumentation zum Mitarbeiter-Handbuch
 
-Weiterführende Informationen finden Sie im [Mitarbeiter-Handbuch](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Weiterführende Informationen finden Sie im [Mitarbeiter-Handbuch](https://docs.adobe.com/content/help/de-DE/contributor/contributor-guide/introduction.html).
 
 ## Sie haben eine Frage?
 
