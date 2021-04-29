@@ -1,11 +1,11 @@
 ---
 title: Adobe-Verhaltenskodex
 description: 'Adobe-Verhaltenskodex '
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '439'
+ht-degree: 100%
 
 ---
 
