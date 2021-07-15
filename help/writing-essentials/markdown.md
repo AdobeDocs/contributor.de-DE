@@ -3,9 +3,9 @@ title: Markdown zum Schreiben von Dokumentation verwenden
 description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 4104aa1481263dabe20f2e3a117944f55a6fd800
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1504'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -181,7 +181,7 @@ Angezeigt:
 
 Markdown unterstützt die Platzierung von Codeblöcken sowohl in einem Satz als auch als separater „abgegrenzter“ Block zwischen Sätzen. Weitere Informationen finden Sie unter [Native Markdown-Unterstützung für Codeblöcke.](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Rückticks ( &amp;grave) verwenden; ), um Inline-Code-Stile in einem Absatz zu erstellen. Um einen bestimmten mehrzeiligen Codeblock zu erstellen, fügen Sie vor und nach dem Codeblock (in Markdown als &quot;abgegrenzter Codeblock&quot;und in AEM als &quot;Codeblock&quot;bezeichnet) drei Backticks (&amp;grave;&amp;&amp;;grave;) hinzu. Fügen Sie bei abgegrenzten Codeblöcken die Codesprache nach dem ersten Satz Backticks ein, sodass Markdown die Codesyntax korrekt hervorhebt. Beispiel: &amp;grave;&amp;grave;&amp;grave;javascript
+Verwenden Sie Backticks ( &amp;grave; ), um Inline-Code-Stile in einem Absatz zu erstellen. Um einen bestimmten mehrzeiligen Code-Block zu erstellen, fügen Sie vor und nach dem Code-Block (in Markdown als „abgegrenzter Code-Block“ und in Adobe Experience Manager einfach als „Code-Block“ bezeichnet) drei Backticks (&amp;grave;&amp;grave;&amp;grave;) vor und nach dem Code-Block ein. Fügen Sie bei abgegrenzten Codeblöcken die Codesprache nach dem ersten Satz Backticks ein, sodass Markdown die Codesyntax korrekt hervorhebt. Beispiel: &amp;grave;&amp;grave;&amp;grave;javascript
 
 Beispiele:
 
@@ -353,7 +353,7 @@ Im Folgenden finden Sie die Kodierungen für die „smarten“ Versionen dieser 
 
 Wenn Sie spitze Klammern im Text (nicht im Code) in Ihrer Datei verwenden, zum Beispiel, um einen Platzhalter anzugeben, müssen Sie die spitzen Klammern manuell kodieren. Andernfalls wird in Markdown davon ausgegangen, dass sie ein HTML-Tag sein sollen.
 
-Kodieren Sie beispielsweise `<script name>` als  `&lt;script name&gt;`
+Kodieren Sie beispielsweise `<script name>` als `&lt;script name&gt;`
 
 ### Et-Zeichen in Titeln
 
