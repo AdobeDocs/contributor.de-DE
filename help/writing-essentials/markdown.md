@@ -3,9 +3,9 @@ title: Markdown zum Schreiben von Dokumentation verwenden
 description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 9e70d10dc1ba27b593de7febf32a3ba3910bfe21
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1489'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -181,7 +181,7 @@ Angezeigt:
 
 Markdown unterstützt die Platzierung von Codeblöcken sowohl in einem Satz als auch als separater „abgegrenzter“ Block zwischen Sätzen. Weitere Informationen finden Sie unter [Native Markdown-Unterstützung für Codeblöcke.](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Rückticks verwenden (`` ` ``), um Inline-Code-Stile in einem Absatz zu erstellen. Um einen bestimmten mehrzeiligen Codeblock zu erstellen, fügen Sie drei Backticks hinzu (` ``` `) vor und nach dem Codeblock (in Markdown als &quot;abgegrenzter Codeblock&quot;und in AEM nur als &quot;Codeblock&quot;-Komponente bezeichnet). Fügen Sie bei abgegrenzten Codeblöcken die Codesprache nach dem ersten Satz Backticks ein, sodass Markdown die Codesyntax korrekt hervorhebt. Beispiel: ` ```javascript`
+Verwenden Sie Backticks (`` ` ``), um Inline-Code-Stile innerhalb eines Absatzes zu erstellen. Um einen bestimmten mehrzeiligen Code-Block zu erstellen, fügen Sie drei Backticks (` ``` `) vor und nach dem Code-Block ein (in Markdown „umgrenzter Code-Block“ genannt und in AEM einfach eine „Code-Block“-Komponente). Fügen Sie bei abgegrenzten Code-Blöcken die Code-Sprache nach dem ersten Satz Backticks ein, sodass Markdown die Code-Syntax korrekt hervorhebt. Beispiel: ` ```javascript`
 
 Beispiele:
 
