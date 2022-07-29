@@ -1,17 +1,16 @@
 ---
-git-repo: https://git.corp.adobe.com/AdobeDocs/contributor.de-DE
+git-repo: https://github.com/AdobeDocs/contributor.de-DE
 cloud: Adobe
 index: true
-translation-type: ht
 source-git-commit: 1acc8373c778c65b378a7e74d5c41418ce069ffe
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
 
-# Mitarbeiter-Handbuch für Adobe-Dokumentation {#contributor-guide}
+# Mitarbeiter-Handbuch für Adobe-Dokumentation{#contributor-guide}
 
 + [Einführung](introduction.md)
 + GitHub einrichten {#setup}
