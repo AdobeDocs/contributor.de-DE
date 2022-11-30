@@ -1,11 +1,11 @@
 ---
 title: Markdown zum Schreiben von Dokumentation verwenden
-description: In diesem Artikel finden Sie die Grundlagen und Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
+description: Erfahren Sie mehr über die Grundlagen des Markdown-Authoring. Suchen Sie Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 9e70d10dc1ba27b593de7febf32a3ba3910bfe21
-workflow-type: ht
-source-wordcount: '1489'
-ht-degree: 100%
+source-git-commit: e9cd46132a673d5acd1e3db2f05a9c3c8e5bc30b
+workflow-type: tm+mt
+source-wordcount: '1500'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,8 @@ Die technischen Adobe-Dokumentationsartikel werden in einer einfachen Markup-Spr
 Wenn wir Adobe Docs-Inhalt in GitHub speichern, kann eine Version von Markdown mit dem Namen [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) verwendet werden, die zusätzliche Funktionen für allgemeine Formatierungsanforderungen bietet. Außerdem erweiterte Adobe Markdown auf verschiedene Arten, um bestimmte Hilfefunktionen wie Anmerkungen, Tipps und eingebettete Videos zu unterstützen.
 
 ## Markdown-Grundlagen
+
+In den folgenden Abschnitten werden die Grundlagen des Authoring in Markdown beschrieben.
 
 ### Überschriften
 
@@ -139,7 +141,7 @@ Einfache Tabellen funktionieren in Markdown angemessen. Tabellen, die mehrere Ab
 
 Weitere Informationen zum Erstellen von Tabellen finden Sie unter:
 
-* GitHub – [Informationen mit Tabellen organisieren](https://docs.github.com/de/github/writing-on-github/organizing-information-with-tables)
+* GitHub – [Informationen mit Tabellen organisieren](https://help.github.com/articles/organizing-information-with-tables/)
 * Webapp [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 * [HTML-Tabellen in Markdown konvertieren](https://jmalarcon.github.io/markdowntables/)
 
@@ -364,4 +366,4 @@ Et-Zeichen (&amp;) sind in Titeln nicht zulässig. Verwenden Sie stattdessen „
 ### Markdown-Ressourcen
 
 * [Markdown-Einführung](https://daringfireball.net/projects/markdown/syntax)
-* [GitHub-Markdown-Grundlagen](https://docs.github.com/de/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+* [GitHub-Markdown-Grundlagen](https://help.github.com/articles/markdown-basics/)
