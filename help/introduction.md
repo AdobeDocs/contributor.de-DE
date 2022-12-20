@@ -1,32 +1,33 @@
 ---
 title: Mitarbeiter-Handbuch für Adobe-Dokumentation
-seo-title: Mitarbeiter-Leitfaden für die technische Adobe Experience Cloud-Dokumentation
+seo-title: Contributor guide overview for Adobe Experience Cloud technical documentation
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Dokumentationsseite von Adobe hinzufügen können.
-seo-description: In diesem Handbuch wird beschrieben, wie Sie zur technischen Dokumentation von [!UICONTROL Adobe Experience Cloud] beitragen können.
+seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
-source-wordcount: '836'
-ht-degree: 100%
+source-git-commit: 5a9bbe0663a1efa8a683e892a42faed18f072e8a
+workflow-type: tm+mt
+source-wordcount: '819'
+ht-degree: 87%
 
 ---
 
-# Überblick über den Mitarbeiter-Leitfaden für die Adobe-Dokumentation
+# Mitarbeiter-Handbuch für die Dokumentation zur Adobe
 
-## Was ist die Dokumentation zur Zusammenarbeit?
+In diesem Handbuch wird beschrieben, wie Sie zur Adobe der Enterprise-Hilfe bei der Experience League beitragen können.
 
-Die technische Dokumentation und die damit verbundenen Inhalte für Adobe Experience Cloud und andere Adobe Enterprise-Produkte wurden auf eine neue Plattform umgestellt. Diese neue Plattform basiert auf Open-Source-Prinzipien, die Github, Markdown und Adobe Experience Cloud-Lösungen verwenden.
+## Was ist eine partizipative Dokumentation?
 
-Dieses Open-Source-Modell verbessert die Qualität der Inhalte und die Kommunikation zwischen Kunden, Dokumentationsteams und Produktteams. Auf jeder Seite können Sie jetzt Nutzbarkeit von Inhalten, Protokollprobleme und sogar Inhaltsvorschläge als Git-Pull-Anfragen (PRs) bewerten. Die Adobe-Dokumentationsteams überwachen die Beiträge und Probleme täglich und nehmen nach Bedarf Aktualisierungen und Anpassungen vor.
+Die technische Dokumentation und der Aktivierungsinhalt für Adobe Experience Cloud und andere Adobe Enterprise-Produkte basieren auf Open-Source-Prinzipien, die GitHub-, Markdown- und Adobe Experience Cloud-Lösungen verwenden.
 
-## Arbeiten mit Dokumentation zur Zusammenarbeit
+Dieses Open-Source-Modell verbessert die Qualität und Kommunikation von Inhalten zwischen Kunden, Dokumentationsteams und Produktteams. Auf jeder Seite können Sie jetzt Nutzbarkeit von Inhalten, Protokollprobleme und sogar Inhaltsvorschläge als Git-Pull-Anfragen (PRs) bewerten. Die Adobe-Dokumentationsteams überwachen die Beiträge und Probleme täglich und nehmen nach Bedarf Aktualisierungen und Anpassungen vor.
+
+## Arbeiten mit kollaborativer Dokumentation
 
 Als Anwender dieses Materials haben Sie - unabhängig davon, ob Sie Angestellter, Partner, Kunde oder potenzieller Kunde sind - die Wahl, auf verschiedene einfache Weise zu dieser Dokumentation beizutragen.
 
-* Die Nützlichkeit der Seite bewerten
-* Ein Problem auf einer bestimmten Seite protokollieren
-* Sie können sogar kurze Bearbeitungen durchführen, um komplette Artikel zu verfassen, einschließlich Assets und Codebeispielen
+* Bewerten der Nützlichkeit der Seite
+* Problem mit einer bestimmten Seite protokollieren
+* Senden Sie eine schnelle Bearbeitung durch das Authoring ganzer Artikel, einschließlich Assets und Codebeispielen
 
 In diesem Handbuch wird alles beschrieben, was Sie für einen Beitrag zu diesem Materialsatz wissen müssen.
 
