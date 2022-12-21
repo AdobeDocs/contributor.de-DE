@@ -1,12 +1,11 @@
 ---
 title: GitHub-Beitragsarbeitsablauf für umfangreiche Änderungen
-description: In diesem Artikel erfahren Sie, wie Sie mit dem umfangreichen Mitarbeiterarbeitsablauf Beiträge zur Adobe-Dokumentation erstellen.
+description: Erfahren Sie, wie Sie Beiträge zur Adobe-Dokumentation zur Experience League leisten können.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
-source-wordcount: '950'
-ht-degree: 100%
+source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
+workflow-type: tm+mt
+source-wordcount: '944'
+ht-degree: 82%
 
 ---
 
@@ -45,19 +44,19 @@ In diesem Arbeitsablauf treten Änderungen in einem sich wiederholenden Zyklus a
 
 ### GitHub-Fluss verwenden
 
-Erinnern Sie sich an die [Git- und GitHub-Grundlagen](git-fundamentals.md): Ein Git-Repository enthält eine Masterverzweigung sowie alle weiteren laufenden Verzweigungen, die noch nicht in den Master integriert wurden. Wenn Sie eine Reihe logisch verwandter Änderungen einführen, empfiehlt es sich, eine *Arbeitsverzweigung* zu erstellen, um Ihre Änderungen über den Arbeitsablauf zu verwalten. Wir nennen diese hier Arbeitsverzweigung, da es sich um einen Arbeitsbereich zum Iterieren/Verfeinern von Änderungen handelt, bis sie wieder in die Masterverzweigung integriert werden können.
+Erinnern von [Git- und GitHub-Grundlagen](git-fundamentals.md) dass ein Git-Repository eine Hauptverzweigung sowie alle weiteren laufenden Verzweigungen enthält, die nicht in die Hauptverzweigung integriert wurden. Wenn Sie eine Reihe logisch verwandter Änderungen einführen, empfiehlt es sich, eine *Arbeitsverzweigung* , um Ihre Änderungen über den Workflow zu verwalten. Wir bezeichnen es hier als Arbeitsverzweigung, da es sich um einen Arbeitsbereich handelt, um Änderungen zu iterieren/zu verfeinern, bis sie wieder in die Hauptverzweigung integriert werden können.
 
 Durch Isolieren verwandter Änderungen gegenüber einer spezifischen Verzweigung können Sie diese Änderungen unabhängig voneinander steuern sowie einführen und auf einen bestimmten Zeitpunkt im Veröffentlichungszyklus ausrichten. Je nach Art der Arbeit können Sie in Ihrem Repository tatsächlich ganz einfach mehrere Arbeitsverzweigungen verwenden. Es ist nicht ungewöhnlich, gleichzeitig an mehreren Verzweigungen zu arbeiten, die jeweils ein anderes Projekt repräsentieren.
 
 >[!NOTE]
 >
->*Es empfiehlt sich nicht*, Ihre Änderungen in der Masterverzweigung vorzunehmen. Nehmen wir an, Sie verwenden die Masterverzweigung, um eine Reihe von Änderungen für eine zeitgesteuerte Funktionsveröffentlichung einzurichten. Sie schließen die Änderungen ab und warten darauf, sie zu veröffentlichen. Dann haben Sie in der Zwischenzeit eine dringende Anfrage, um etwas zu beheben, sodass Sie die Änderung an einer Datei in der Masterverzweigung vornehmen und sie dann veröffentlichen. In diesem Beispiel veröffentlichen Sie versehentlich sowohl die Fehlerbehebung *als auch* die Änderungen, die Sie für die Veröffentlichung an einem bestimmten Datum vorbehalten haben.
+>Änderungen in der Hauptverzweigung vornehmen *ist keine gute Praxis*. Stellen Sie sich vor, Sie verwenden die Hauptverzweigung, um eine Reihe von Änderungen für eine zeitgesteuerte Funktionsveröffentlichung einzuführen. Sie schließen die Änderungen ab und warten darauf, sie zu veröffentlichen. Dann haben Sie in der Zwischenzeit eine dringende Anfrage, etwas zu reparieren, sodass Sie die Änderung an einer Datei in der Hauptverzweigung vornehmen und dann die Änderung veröffentlichen. In diesem Beispiel veröffentlichen Sie versehentlich sowohl die Fehlerbehebung *als auch* die Änderungen, die Sie für die Veröffentlichung an einem bestimmten Datum vorbehalten haben.
 
 Der nächste Schritt besteht darin, eine neue Arbeitsverzweigung in Ihrem lokalen Repository zu erstellen, um Ihre vorgeschlagenen Änderungen zu erfassen. Jeder Git-Client ist anders, wenden Sie sich also an die Hilfe für Ihren bevorzugten Client. Einen Überblick über den Prozess finden Sie im GitHub-Leitfaden zum [GitHub-Fluss](https://guides.github.com/introduction/flow/).
 
 ## Verarbeitung von Pull-Anfragen
 
-Sie senden vorgeschlagene Änderungen, indem Sie sie in einer neuen Pull-Anfrage (PA) bündeln, die der PA-Warteschlange des Ziel-Repositorys hinzugefügt wird. Durch eine Pull-Anfrage wird das GitHub-Zusammenarbeitsmodell aktiviert, indem die Änderungen von Ihrer Arbeitsverzweigung abgerufen und in einer anderen Verzweigung zusammengeführt werden. In den meisten Fällen ist diese andere Verzweigung die Standard-/Masterverzweigung im Haupt-Repository.
+Sie senden vorgeschlagene Änderungen, indem Sie sie in einer neuen Pull-Anfrage (PA) bündeln, die der PA-Warteschlange des Ziel-Repositorys hinzugefügt wird. Durch eine Pull-Anfrage wird das GitHub-Zusammenarbeitsmodell aktiviert, indem die Änderungen von Ihrer Arbeitsverzweigung abgerufen und in einer anderen Verzweigung zusammengeführt werden. In den meisten Fällen ist diese andere Verzweigung die Standard-/Hauptverzweigung im Haupt-Repository.
 
 ### Validierung
 

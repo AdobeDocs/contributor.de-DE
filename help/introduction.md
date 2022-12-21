@@ -4,14 +4,14 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Dokumentationsseite von Adobe hinzufügen können.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 5a9bbe0663a1efa8a683e892a42faed18f072e8a
+source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 87%
+source-wordcount: '800'
+ht-degree: 70%
 
 ---
 
-# Mitarbeiter-Handbuch für die Dokumentation zur Adobe
+# Mitarbeiter-Handbuch für Adobe-Dokumentation
 
 In diesem Handbuch wird beschrieben, wie Sie zur Adobe der Enterprise-Hilfe bei der Experience League beitragen können.
 
@@ -45,7 +45,7 @@ Das schnelle Bearbeiten ist eine gute Möglichkeit, kleine Fehler in Dokumenten 
 1. Unterschreiben Sie die [Lizenzvereinbarung für Mitarbeiter (CLA)](http://opensource.adobe.com/cla.html), falls akzeptabel.
 
    Sie müssen nur einmal eine Adobe-Lizenzvereinbarung für Mitarbeiter übermitteln.
-1. Klicken Sie in der rechten Spalte auf das Symbol **`Edit this page`**, um zur Markdown-Quelldatei auf GitHub zu wechseln.
+1. Klicken **[!UICONTROL Edit this page]** in der rechten Spalte, um zur Markdown-Quelldatei auf GitHub zu wechseln.
 
    ![Bearbeiten Sie das Symbol für diese Seite](/help/assets/git_edit.png)
 
@@ -57,42 +57,48 @@ Das schnelle Bearbeiten ist eine gute Möglichkeit, kleine Fehler in Dokumenten 
 
    ![Position des Stiftsymbols](assets/edit-icon.png)
 
-1. Nehmen Sie Ihre Änderungen im Webeditor vor. Sie können auf die Registerkarte **Preview changes** klicken, um die Formatierung Ihrer Änderung zu überprüfen.
-1. Nachdem Sie die Änderung(en) vorgenommen haben, führen Sie einen Bildlauf zum unteren Rand der Seite durch. Geben Sie einen Titel und eine Beschreibung für Ihre PA ein und klicken Sie auf **Propose file change**, wie in der folgenden Abbildung dargestellt:
+1. Nehmen Sie Ihre Änderungen im Webeditor vor.
+
+   Sie können auf die Registerkarte **[!UICONTROL Preview changes]** klicken, um die Formatierung Ihrer Änderung zu überprüfen.
+1. Nachdem Sie Ihre Änderungen vorgenommen haben, scrollen Sie zum unteren Rand der Seite.
+
+   Geben Sie einen Titel und eine Beschreibung für Ihre PA ein und klicken Sie auf **[!UICONTROL Propose file change]** wie in der folgenden Abbildung dargestellt:
 
    ![Änderung vorschlagen](assets/submit-pull-request.png)
 
    >[!NOTE]
    >
-   >Wenn Sie eine Validierungsfehlermeldung zum Unterschreiben einer Lizenzvereinbarung für Mitarbeiter (CLA) erhalten, klicken Sie auf **Details**, um die Lizenzvereinbarung zu öffnen. Unterschreiben Sie die Vereinbarung, falls akzeptabel. Schließen und öffnen Sie dann die Pull-Anfrage und fahren Sie fort.
+   >Wenn Sie eine Validierungsfehlermeldung zum Unterschreiben einer Lizenzvereinbarung für Mitarbeiter (CLA) erhalten, klicken Sie auf **[!UICONTROL Details]**, um die Lizenzvereinbarung zu öffnen. Unterschreiben Sie die Vereinbarung, falls akzeptabel. Schließen und öffnen Sie dann die Pull-Anfrage und fahren Sie fort.
 
-Das ist alles. Vielen Dank! Mitglieder des Dokumentationsteams überprüfen Ihre Pull-Anfrage und führen sie zusammen.
+Das ist alles. Mitglieder des Dokumentationsteams überprüfen Ihre Pull-Anfrage und führen sie zusammen. Vielen Dank!
 
 ## Problem protokollieren
 
-Eine weitere einfache Möglichkeit, uns über ein Problem mit einem Inhaltselement zu informieren, ist die Funktion „Problem protokollieren“.
+Eine weitere einfache Möglichkeit, uns über ein Problem mit einem Inhaltselement zu informieren, besteht darin, **[!UICONTROL Log an Issue]**.
 
-1. Wenn ein Problem mit einem Inhaltselement auftritt, klicken Sie auf das **`Log an Issue`**-Symbol in der rechten Spalte.
+1. Wenn ein Problem mit einem Inhaltselement auftritt, klicken Sie auf das **[!UICONTROL Log an Issue]**-Symbol in der rechten Spalte.
 
    ![](assets/git_log_issue.png)
 
    >[!NOTE]
    >
-   >Sie müssen sich bei Ihrem GitHub-Konto anmelden bzw. ein neues Konto erstellen, um ein Problem zu protokollieren.
+   >Um ein Problem zu protokollieren, müssen Sie sich bei Ihrem GitHub-Konto anmelden oder ein Konto erstellen.
 
-   Durch Klicken auf diesen Link können Sie mit der GitHub-Problemoberfläche ein kurzes Ticket bei uns protokollieren.
+   Wenn Sie auf diesen Link klicken, können Sie über die GitHub-Problemoberfläche ein kurzes Ticket mit Experience League protokollieren.
 
-1. Die URL der Seite mit dem Problem wird automatisch im Beschreibungsfeld eingetragen. Füllen Sie den Titel aus, schreiben Sie eine kurze Erläuterung des Problems und klicken Sie dann auf *Submit new issue*.
+   Die URL der Seite mit dem Problem wird automatisch in das Beschreibungsfeld eingetragen.
+
+1. Füllen Sie den Titel aus, schreiben Sie eine kurze Erläuterung des Problems und klicken Sie dann auf *Submit new issue*.
 
    ![](assets/git_issue_example.png)
 
-Durch das Melden eines Problems wird das Inhaltsteam direkt auf diese Seite hingewiesen und kann entsprechend handeln. Wenn wir den Inhalt aktualisiert haben, teilen wir Ihnen dies in der GitHub-Problemoberfläche mit und Sie werden bei Aktualisierung oder Schließung des Problems per E-Mail informiert.
+Durch die Übermittlung eines Problems wird das Inhaltsteam über diese Seite informiert, das Ihr Problem beheben kann. Wenn wir den Inhalt aktualisiert haben, teilen wir Ihnen dies in der GitHub-Problemoberfläche mit und Sie werden bei Aktualisierung oder Schließung des Problems per E-Mail informiert.
 
 ## GitHub-Berechtigungen verstehen
 
 Die GitHub-Bearbeitungsbenutzeroberfläche passt sich Ihren Repository-Berechtigungen an. Die vorherigen Bilder beziehen sich auf Mitarbeiter, die keine Schreibrechte für das Ziel-Repository besitzen. GitHub erstellt in Ihrem Konto automatisch eine Abspaltung des Ziel-Repositorys. Wenn Sie über Schreibzugriff für das Ziel-Repository verfügen, erstellt GitHub im Ziel-Repository eine neue Verzweigung.
 
-Adobe verwendet Pull-Anfragen für alle Änderungen, selbst für Mitarbeiter, die über Schreibzugriff verfügen. Für die meisten Repositorys ist die `master`-Verzweigung geschützt, sodass Aktualisierungen als Pull-Anfragen übermittelt werden müssen.
+Adobe verwendet Pull-Anfragen für alle Änderungen, selbst für Mitarbeiter, die über Schreibzugriff verfügen. Für die meisten Repositorys ist die `main`-Verzweigung geschützt, sodass Aktualisierungen als Pull-Anfragen übermittelt werden müssen.
 
 Die Bearbeitung im Browser eignet sich am besten für geringfügige oder selten durchgeführte Änderungen. Wenn Sie große Beiträge einbringen oder erweiterte Git-Funktionen verwenden, empfehlen wir Ihnen, das [Repository abzuspalten und lokal zu arbeiten](setup/full-workflow.md).
 
@@ -100,4 +106,4 @@ Die Bearbeitung im Browser eignet sich am besten für geringfügige oder selten 
 
 Bei einer Lösung, die so groß wie die von Adobe ist, wird die Dokumentation ständig bearbeitet. Wenn Sie Fehler finden, protokollieren Sie ein Problem, und wenn Sie Vorschläge zu Material haben, teilen Sie uns dies mit. Teilen Sie uns mit, wonach Sie gesucht haben. Lassen Sie uns wissen, wenn Sie nicht finden konnten, was Sie benötigen, oder wenn Sie Schwierigkeiten hatten, Ihre Aufgabe abzuschließen. Teilen Sie uns mit, wie wir Ihnen beim Erlernen unserer Lösungen helfen können.
 
-Das Team für die gemeinsame Dokumentation zur Zusammenarbeit und alle Autoren sowie Inhaltsinhaber der [!UICONTROL Adobe Experience Cloud] bedanken sich.
+Das Team für die gemeinsame Dokumentation und alle Autoren und Inhaltsinhaber der Experience League danken.
