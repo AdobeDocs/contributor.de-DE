@@ -1,10 +1,9 @@
 ---
 title: Beitragen
 description: Informationen darüber, wie Sie zur Dokumentation von AdobeDocs beitragen können.
-translation-type: ht
-source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
-workflow-type: ht
-source-wordcount: '303'
+source-git-commit: 99540be2c2310e2250a0ceb14fb133b630ec397e
+workflow-type: tm+mt
+source-wordcount: '301'
 ht-degree: 100%
 
 ---
@@ -21,7 +20,7 @@ Für dieses Projekt gilt der Adobe-[Verhaltenskodex](code-of-conduct.md). Durch 
 
 ## Dokumentation zum Mitarbeiter-Handbuch
 
-Weiterführende Informationen finden Sie im [Mitarbeiter-Handbuch](https://docs.adobe.com/content/help/de-DE/contributor/contributor-guide/introduction.html).
+Weiterführende Informationen finden Sie im [Mitarbeiter-Handbuch](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=de).
 
 ## Sie haben eine Frage?
 
@@ -33,7 +32,7 @@ Für alle Drittanbieterbeiträge zu diesem Projekt muss eine signierte Lizenzver
 
 ## Codeüberprüfungen
 
-Alle Übermittlungen sollten in Form von Pull-Anforderungen eingehen und müssen von den Projektverantwortlichen geprüft werden. In der [GitHub-Dokumentation zu Pull-Anforderungen](https://help.github.com/de/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+Alle Übermittlungen sollten in Form von Pull-Anforderungen eingehen und müssen von den Projektverantwortlichen geprüft werden. In der [GitHub-Dokumentation zu Pull-Anforderungen](https://help.github.com/de/articles/about-pull-requests/)
 finden Sie weitere Informationen zum Senden von Pull-Anforderungen.
 
 <!--
