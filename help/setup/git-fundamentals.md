@@ -3,9 +3,9 @@ title: Grundlagen der Git- und GitHub-Dokumentation
 description: In diesem Artikel werden eine Übersicht über Git, GitHub-Repository und die Art der Organisierung von Inhalten sowie Benennungskonventionen für die Adobe-Dokumentation erläutert.
 exl-id: 2b2ec764-4201-4bcd-802d-a034d6675793
 source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '660'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Git verfügt über einen eindeutigen Beitragsarbeitsablauf und eine Terminologie
 Git verwendet außerdem eine stufige Struktur zum Speichern und Verwalten von Inhalten für ein Projekt:
 
 - *Repository*: Wird auch als *Repo* bezeichnet und ist die höchste Speichereinheit. Ein Repository enthält mindestens eine Verzweigung.
-- *Verzweigung*: Alle Repositorys enthalten eine Standardverzweigung (die gewöhnlich den Namen &quot;main&quot;trägt) und mindestens eine Verzweigung, die zur erneuten Zusammenführung in die Hauptverzweigung vorgesehen ist. Die Hauptverzweigung dient als aktuelle Version und Quelle, aus der Inhalte veröffentlicht werden. Sie ist die übergeordnete Ebene, von der aus alle anderen Verzweigungen im Repository erstellt werden.
+- *Verzweigung*: Alle Repositorys enthalten eine Hauptverzweigung (die gewöhnlich den Namen „Main“ trägt) und mindestens eine weitere Verzweigung, die zur erneuten Zusammenführung mit der Hauptverzweigung vorgesehen ist. Die Hauptverzweigung ist die aktuelle Version und Quelle, aus der Inhalt veröffentlicht wird. Sie ist die übergeordnete Ebene, von der aus alle anderen Verzweigungen im Repository erstellt werden.
 
 Mitarbeiter interagieren mit Git, um Repositorys auf den lokalen und GitHub-Ebenen zu aktualisieren und zu manipulieren:
 
@@ -41,7 +41,7 @@ Alle Arbeitsabläufe beginnen und enden auf der GitHub-Ebene, wo das Haupt-Repos
 
 ### Verzeichnisorganisierung
 
-Die Standard-/Hauptverzweigung eines Projekts dient als aktuelle Version des Inhalts für das Projekt. Der Inhalt in der Hauptverzweigung - und daraus erstellte Verzweigungen - richten sich an die Organisation der Artikelthemen. Unterverzeichnisse werden zum Organisieren von Inhalts- und Bildassets verwendet.
+Die Standard-/Hauptverzweigung eines Projekts liefert die aktuelle Version eines Inhalts für das Projekt. Der Inhalt in der Hauptverzweigung – sowie der daraus erstellten Verzweigungen – ist ebenso angeordnet wie die Artikelthemen. Unterverzeichnisse werden zum Organisieren von Inhalts- und Bildassets verwendet.
 
 In der Regel befindet sich ein `help`-Hauptverzeichnis im Stamm des Repositorys. Das Artikelverzeichnis enthält eine Reihe von Unterverzeichnissen. Artikel in den Unterverzeichnissen werden als Markdown-Dateien formatiert, die eine *.md*-Erweiterung verwenden.
 
