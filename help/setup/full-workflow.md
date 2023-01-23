@@ -1,11 +1,11 @@
 ---
 title: GitHub-Beitragsarbeitsablauf für umfangreiche Änderungen
-description: Erfahren Sie, wie Sie Beiträge zur Adobe-Dokumentation zur Experience League leisten können.
+description: Erfahren Sie, wie Sie über Experience League Beiträge zur Adobe-Dokumentation leisten können.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
 source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '944'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -44,13 +44,13 @@ In diesem Arbeitsablauf treten Änderungen in einem sich wiederholenden Zyklus a
 
 ### GitHub-Fluss verwenden
 
-Erinnern von [Git- und GitHub-Grundlagen](git-fundamentals.md) dass ein Git-Repository eine Hauptverzweigung sowie alle weiteren laufenden Verzweigungen enthält, die nicht in die Hauptverzweigung integriert wurden. Wenn Sie eine Reihe logisch verwandter Änderungen einführen, empfiehlt es sich, eine *Arbeitsverzweigung* , um Ihre Änderungen über den Workflow zu verwalten. Wir bezeichnen es hier als Arbeitsverzweigung, da es sich um einen Arbeitsbereich handelt, um Änderungen zu iterieren/zu verfeinern, bis sie wieder in die Hauptverzweigung integriert werden können.
+Denken Sie an die [Git- und GitHub-Grundlagen](git-fundamentals.md): Ein Git-Repository enthält einen Hauptzweig sowie weitere Verzweigungen mit laufenden Arbeiten, die noch nicht in den Hauptzweig integriert wurden. Wann immer Sie logisch zusammenhängende Änderungen eingeben, ist es am besten, einen *Arbeitszweig* zu erstellen, um Ihre Änderungen über den Workflow zu verwalten. Wir nennen dies hier Arbeitszweig, da es sich um einen Arbeitsbereich zum Iterieren/Verfeinern von Änderungen handelt, bis er wieder in den Hauptzweig integriert werden kann.
 
 Durch Isolieren verwandter Änderungen gegenüber einer spezifischen Verzweigung können Sie diese Änderungen unabhängig voneinander steuern sowie einführen und auf einen bestimmten Zeitpunkt im Veröffentlichungszyklus ausrichten. Je nach Art der Arbeit können Sie in Ihrem Repository tatsächlich ganz einfach mehrere Arbeitsverzweigungen verwenden. Es ist nicht ungewöhnlich, gleichzeitig an mehreren Verzweigungen zu arbeiten, die jeweils ein anderes Projekt repräsentieren.
 
 >[!NOTE]
 >
->Änderungen in der Hauptverzweigung vornehmen *ist keine gute Praxis*. Stellen Sie sich vor, Sie verwenden die Hauptverzweigung, um eine Reihe von Änderungen für eine zeitgesteuerte Funktionsveröffentlichung einzuführen. Sie schließen die Änderungen ab und warten darauf, sie zu veröffentlichen. Dann haben Sie in der Zwischenzeit eine dringende Anfrage, etwas zu reparieren, sodass Sie die Änderung an einer Datei in der Hauptverzweigung vornehmen und dann die Änderung veröffentlichen. In diesem Beispiel veröffentlichen Sie versehentlich sowohl die Fehlerbehebung *als auch* die Änderungen, die Sie für die Veröffentlichung an einem bestimmten Datum vorbehalten haben.
+>Ihre Änderungen im Hauptzweig vorzunehmen *ist nicht empfehlenswert*. Nehmen wir an, Sie verwenden den Hauptzweig, um Änderungen an einer Funktion mit einer zeitlich geplanten Veröffentlichung vorzunehmen. Sie schließen die Änderungen ab und warten darauf, sie zu veröffentlichen. In der Zwischenzeit erhalten Sie eine dringende Anfrage, etwas zu beheben, weshalb Sie die entsprechende Änderung an einer Datei im Hauptzweig vornehmen und die Änderung dann veröffentlichen. In diesem Beispiel veröffentlichen Sie versehentlich sowohl die Fehlerbehebung *als auch* die Änderungen, die Sie für die Veröffentlichung an einem bestimmten Datum vorbehalten haben.
 
 Der nächste Schritt besteht darin, eine neue Arbeitsverzweigung in Ihrem lokalen Repository zu erstellen, um Ihre vorgeschlagenen Änderungen zu erfassen. Jeder Git-Client ist anders, wenden Sie sich also an die Hilfe für Ihren bevorzugten Client. Einen Überblick über den Prozess finden Sie im GitHub-Leitfaden zum [GitHub-Fluss](https://guides.github.com/introduction/flow/).
 
