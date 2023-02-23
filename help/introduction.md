@@ -1,17 +1,17 @@
 ---
-title: Mitarbeiter-Handbuch für die Dokumentation zur Adobe
+title: Handbuch für Mitwirkende an der Adobe-Dokumentation
 seo-title: Contributor guide overview for Adobe Experience Cloud technical documentation
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Dokumentations-Website von Adobe hinzufügen können.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
 source-git-commit: 8e7d5fb9dc5686df32f7d917ebfb290547d299be
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '800'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# Mitarbeiter-Handbuch für die Dokumentation zur Adobe
+# Handbuch für Mitwirkende an der Adobe-Dokumentation
 
 In diesem Handbuch wird beschrieben, wie Sie zur Adobe Enterprise-Hilfe auf Experience League beitragen können.
 
