@@ -2,9 +2,8 @@
 title: Git-Repository lokal einrichten
 description: Dieser Artikel enthält Anleitungen zum Erstellen Ihres lokalen Git-Repositorys und zum Beitrag zur Adobe-Dokumentation, einschließlich des Abspaltungs- und Klonvorgangs.
 exl-id: 679c07a2-030b-4a30-ba14-7780f88dae11
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 100%
 
@@ -71,7 +70,7 @@ Bei diesen Schritten wird vorausgesetzt, dass Sie GitHub Desktop verwenden. Wenn
 
 1. Klicken Sie auf **Clone or download** und wählen Sie dann **Open in Desktop**, um eine Kopie des Repositorys (Ihre Abspaltung) in das aktuelle Verzeichnis auf Ihrem Computer abzulegen.
 
-  ![Clone-Repo.](assets/clone-pulldown.png)
+   ![Klonen des Repository](assets/clone-pulldown.png)
 
 1. Verwenden Sie GitHub Desktop, damit lokale Dateien stets mit dem abgespalteten Repository synchronisiert sind.
 

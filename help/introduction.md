@@ -4,10 +4,10 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Dokumentations-Website von Adobe hinzufügen können.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 8e7d5fb9dc5686df32f7d917ebfb290547d299be
-workflow-type: ht
-source-wordcount: '800'
-ht-degree: 100%
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+workflow-type: tm+mt
+source-wordcount: '904'
+ht-degree: 69%
 
 ---
 
@@ -23,11 +23,15 @@ Dieses Open-Source-Modell verbessert die Qualität der Inhalte und die Kommunika
 
 ## Arbeiten mit kollaborativer Dokumentation
 
-Benutzende dieses Materials haben – unabhängig davon, ob sie Beschäftigte, Partner oder (potenzielle) Kunden oder Kundinnen sind – die Möglichkeit, auf unterschiedliche einfache Weise zu dieser Dokumentation beizutragen.
+Als Benutzer dieses Materials haben Sie - unabhängig davon, ob Sie Angestellter, Partner, Kunde oder potenzieller Kunde sind - die Wahl, auf verschiedene einfache Weise zu dieser Dokumentation beizutragen.
 
-* Bewerten Sie die Nützlichkeit der Seite
-* Melden Sie ein Problem mit einer bestimmten Seite
-* Bearbeiten Sie den Content – ob durch kleine Einfügungen oder das Verfassen ganzer Artikel – unter Verwendung von Kreativelementen und Code
+* Bewerten Sie die Nützlichkeit der ❶ und schreiben Sie einen optionalen Kommentar ❷
+* Melden Sie ein Problem mit einer bestimmten Seite (Git-Anmeldung erforderlich) ❸
+* Senden Sie eine schnelle Bearbeitung durch das Authoring ganzer Artikel, einschließlich Assets und Codebeispielen (Git-Anmeldung erforderlich) ❹
+
+![Feedback](assets/feedback-options.png)
+
+Diese Optionen werden einige Sekunden nach dem Öffnen unten auf der Seite angezeigt. Wenn Sie den Feedback-Bereich verwerfen, können Sie die Seite neu laden, um sie erneut zu laden.
 
 In diesem Handbuch wird alles beschrieben, was Sie für einen Beitrag zu diesem Materialsatz wissen müssen.
 
@@ -38,16 +42,23 @@ In diesem Handbuch wird alles beschrieben, was Sie für einen Beitrag zu diesem 
 > Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
 -->
 
+## Bewerten Sie die Nützlichkeit der Seite und schreiben Sie einen Kommentar
+
+Einige Sekunden nach dem Öffnen einer Seite wird unten auf der Seite ein Feedback-Bereich angezeigt. Klicken Sie auf &quot;Nach oben&quot;oder &quot;Nach unten&quot;, um anzugeben, ob die Seite hilfreich war.
+
+Sie können auch einen Kommentar hinterlassen, um zusätzliche Feedback zu geben.
+
 ## Vorhandene Dokumente schnell bearbeiten
 
-Das schnelle Bearbeiten ist eine gute Möglichkeit, kleine Fehler in Dokumenten zu beheben oder fehlenden Inhalt hinzuzufügen. Wenn ein Artikel wie unten gezeigt eine Schaltfläche zum Bearbeiten anzeigt, können Sie selbst eine schnelle Korrektur vornehmen. Wenn Sie das Dokument bearbeiten, übermitteln Sie eine Pull-Anfrage (PA) an uns, um die Korrektur/den Vorschlag an uns zu senden, und wir können den Vorschlag prüfen, genehmigen und veröffentlichen.
+Wenn Sie detaillierteres Feedback geben möchten, können Sie kleine Fehler und Auslassungen in Dokumenten durch schnelle Bearbeitungen beheben. Wenn Sie eine Bearbeitung vorschlagen, senden Sie eine Pull-Anfrage (PA), um die Korrektur/den Vorschlag an uns zu senden. Wir können den Vorschlag prüfen, genehmigen und veröffentlichen.
 
 1. Unterschreiben Sie die [Lizenzvereinbarung für Mitarbeiter (CLA)](http://opensource.adobe.com/cla.html), falls akzeptabel.
 
    Sie müssen nur einmal eine Adobe-Lizenzvereinbarung für Mitarbeiter übermitteln.
-1. Klicken Sie auf **[!UICONTROL Edit this page]** in der rechten Spalte, um zur Markdown-Quelldatei auf GitHub zu gelangen.
 
-   ![Bearbeiten Sie das Symbol für diese Seite](/help/assets/git_edit.png)
+1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detailed feedback options]** und klicken Sie anschließend auf **[!UICONTROL Suggest an edit]** , um zur Markdown-Quelldatei auf GitHub zu wechseln.
+
+   ![Bearbeiten Sie das Symbol für diese Seite](/help/assets/feedback-suggest-edit.png)
 
 1. Klicken Sie auf das Stiftsymbol, um den Artikel zu bearbeiten.
 
@@ -55,11 +66,12 @@ Das schnelle Bearbeiten ist eine gute Möglichkeit, kleine Fehler in Dokumenten 
    >
    >Wenn das Stiftsymbol ausgegraut ist, müssen Sie sich bei Ihrem GitHub-Konto anmelden oder ein neues Konto erstellen.
 
-   ![Position des Stiftsymbols](assets/edit-icon.png)
+   ![Position des Stiftsymbols](assets/git_edit.png)
 
 1. Nehmen Sie Ihre Änderungen im Web-Editor vor.
 
    Sie können auf die Registerkarte **[!UICONTROL Preview changes]** klicken, um die Formatierung Ihrer Änderung zu überprüfen.
+
 1. Nachdem Sie Ihre Änderungen vorgenommen haben, scrollen Sie zum Ende der Seite.
 
    Geben Sie einen Titel und eine Beschreibung für Ihren Pull Request ein und klicken Sie dann auf **[!UICONTROL Propose file change]**, wie in der folgenden Abbildung dargestellt:
@@ -72,13 +84,13 @@ Das schnelle Bearbeiten ist eine gute Möglichkeit, kleine Fehler in Dokumenten 
 
 Und das war&#39;s auch schon. Mitglieder des Dokumentations-Teams überprüfen Ihre Pull Request und fügen Sie zur Merge-Warteschlange hinzu. Vielen Dank!
 
-## Melden eines Problems
+## Problem melden
 
-Eine weitere einfache Möglichkeit, uns auf ein Problem mit einem Inhalt hinzuweisen, ist die Verwendung von **[!UICONTROL Log an Issue]**.
+Eine weitere einfache Möglichkeit, uns auf ein Problem mit einem Inhalt hinzuweisen, ist die Verwendung von **[!UICONTROL Report an issue]**.
 
-1. Wenn Sie problematischen Inhalt finden, klicken Sie auf das **[!UICONTROL Log an Issue]**-Symbol in der rechten Spalte.
+1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detailed feedback options]** und klicken Sie anschließend auf **[!UICONTROL Report an issue]** , um zur Markdown-Quelldatei auf GitHub zu wechseln.
 
-   ![](assets/git_log_issue.png)
+   ![Berichtsproblem](assets/feedback-report-issue.png)
 
    >[!NOTE]
    >
