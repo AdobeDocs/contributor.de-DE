@@ -2,8 +2,7 @@
 title: Bearbeitungswerkzeuge installieren
 description: Mithilfe dieses Artikels können Sie die Clientwerkzeuge herunterladen und installieren, die Sie für Git/GitHub und zum Bearbeiten von Markdown-Dateien benötigen.
 exl-id: 930185cf-fff5-485a-9824-70c32c55800d
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
 workflow-type: ht
 source-wordcount: '345'
 ht-degree: 100%
@@ -18,7 +17,7 @@ ht-degree: 100%
 >
 >Wenn Sie nur geringfügige Änderungen an einem Artikel vornehmen, müssen Sie die Schritte in diesem Artikel *nicht* ausführen. Sie können Änderungen einfach in Ihrem Webbrowser vornehmen.
 >
-> Für häufig arbeitende Mitarbeiter wird die Durchführung dieser Schritte empfohlen, die es Ihnen ermöglichen, den [Arbeitsablauf](local-repo.md) für umfangreiche Änderungen zu verwenden. Auch wenn Sie im Haupt-Repository über Schreibberechtigungen verfügen, empfehlen wir dringend (und in diesem Handbuch wird davon ausgegangen), dass Sie das Repository abspalten und klonen, sodass Sie über Lese-/Schreibberechtigungen verfügen, um Ihre vorgeschlagenen Änderungen in Ihrer Abspaltung zu speichern.
+>Für häufig arbeitende Mitarbeiter wird die Durchführung dieser Schritte empfohlen, die es Ihnen ermöglichen, den [Arbeitsablauf](local-repo.md) für umfangreiche Änderungen zu verwenden. Auch wenn Sie im Haupt-Repository über Schreibberechtigungen verfügen, empfehlen wir dringend (und in diesem Handbuch wird davon ausgegangen), dass Sie das Repository abspalten und klonen, sodass Sie über Lese-/Schreibberechtigungen verfügen, um Ihre vorgeschlagenen Änderungen in Ihrer Abspaltung zu speichern.
 
 ## Git-Clientwerkzeuge installieren
 
