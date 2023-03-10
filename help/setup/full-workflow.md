@@ -2,9 +2,9 @@
 title: GitHub-Beitragsarbeitsablauf für umfangreiche Änderungen
 description: Erfahren Sie, wie Sie über Experience League Beiträge zur Adobe-Dokumentation leisten können.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
-source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
 workflow-type: ht
-source-wordcount: '944'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -38,6 +38,7 @@ Wenn Sie nicht mit Git- und GitHub-Konzepten wie einem Repository oder einer Ver
 ## Arbeitsablauf
 
 >[!IMPORTANT]
+>
 > Falls noch nicht geschehen, müssen Sie die Schritte im Abschnitt [Einstellungen](github-signup.md) ausführen.
 
 In diesem Arbeitsablauf treten Änderungen in einem sich wiederholenden Zyklus auf. Ausgehend vom lokalen Repository Ihres Geräts fließen sie wieder in die GitHub-Abspaltung, in das GitHub-Haupt-Repository und wieder lokal zurück, während Sie Änderungen von anderen Mitarbeitern übernehmen.
