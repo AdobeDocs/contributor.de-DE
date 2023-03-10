@@ -3,8 +3,8 @@ title: GitHub-Beitragsarbeitsablauf für umfangreiche Änderungen
 description: Erfahren Sie, wie Sie über Experience League Beiträge zur Adobe-Dokumentation leisten können.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
 source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '944'
 ht-degree: 100%
 
 ---
