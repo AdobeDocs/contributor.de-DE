@@ -2,10 +2,10 @@
 title: Markdown zum Schreiben von Dokumentation verwenden
 description: Erfahren Sie mehr über die Grundlagen des Markdown-Authorings. Suchen Sie Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: e9cd46132a673d5acd1e3db2f05a9c3c8e5bc30b
-workflow-type: ht
-source-wordcount: '1500'
-ht-degree: 100%
+source-git-commit: 065e43d5251f80050deef02e9c18b3fb4e9c1204
+workflow-type: tm+mt
+source-wordcount: '1430'
+ht-degree: 97%
 
 ---
 
@@ -86,11 +86,13 @@ Sie können auch Listen in Listen einbetten und Inhalte zwischen Listenelementen
 1. Perform this step.
 
    ![screen](assets/no-localize/adobe_standard_logo.png)
+
 1. Make sure that your table looks like this: 
 
    | Hello | World |
    |---|---|
    | How | are you? |  
+
 1. This is the fourth step.
 
    >[!NOTE]
@@ -106,11 +108,13 @@ Angezeigt:
 1. Perform this step.
 
    ![Bildschirm](assets/no-localize/adobe_standard_logo.png)
+
 1. Make sure that your table looks like this:
 
    | Hello | World |
    |---|---|
    | How | are you? |
+
 1. This is the fourth step.
 
    >[!NOTE]
@@ -175,9 +179,7 @@ Weitere Informationen zur Verknüpfung finden Sie im Artikel [Links](linking.md)
 
 Angezeigt:
 
-![Adobe Logo ](assets/no-localize/adobe_standard_logo.png " Hover text ")
-
-**Hinweis:** Erstellen Sie für Bilder, die nicht lokalisiert werden sollen, einen separaten `do-not-localize` Ordner im Ordner „Assets“. Normalerweise werden dort Bilder ohne Text oder Bilder mit reinen Beispielinhalten abgelegt. Dadurch wird jegliches „Rauschen“ aus dem Ordner „Assets“ entfernt und die Anzahl der Fragen reduziert.
+![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
 
 ### Codeblöcke
 
@@ -208,10 +210,10 @@ Adobe-Artikel verwenden Standard-Markdown für die meisten Artikelformatierungen
 
 * Hinweisblöcke
 * Eingebettete Videos
-* Nicht lokalisieren
-* Komponenteneigenschaften, z. B. Zuweisen einer anderen Kopfzeilen-ID zu einer Kopfzeile
+* Übersetzungs-Tags
+* Komponenteneigenschaften, z. B. Zuweisen einer anderen Überschriften-ID zu einer Überschrift und Festlegen einer Bildgröße
 
-Verwenden Sie das Markdown-Blockanführungszeichen (>) am Anfang jeder Zeile, um eine erweiterte Komponente wie einen Hinweis anzubinden. Wenn Sie Unterkomponenten in Komponenten verwenden müssen, fügen Sie für diesen Unterkomponentenabschnitt eine zusätzliche Ebene von Blockanführungszeichen (>  >) hinzu. Beispielsweise sollte ein HINWEIS in einem DONOTLOCALIZE-Abschnitt mit >    > beginnen.
+Verwenden Sie das Markdown-Blockanführungszeichen (>) am Anfang jeder Zeile, um eine erweiterte Komponente wie einen Hinweis anzubinden.
 
 Einige gängige Markdown-Elemente wie Kopfzeilen und Codeblöcke umfassen erweiterte Eigenschaften. Wenn Sie die Standardeigenschaften ändern müssen, fügen Sie die Parameter in geschweiften Klammern /{ /} nach der Komponente hinzu. Erweiterte Eigenschaften werden im Kontext beschrieben.
 
@@ -229,7 +231,6 @@ Sie können aus vier Arten von Hinweisblöcken wählen, um die Aufmerksamkeit au
 * `[!PREREQUISITES]`
 
 Im Allgemeinen sollten Hinweise sparsam verwendet werden, da sie stören können. Obwohl sie auch Codeblöcke, Bilder, Listen und Links unterstützen, sollten Sie Ihre Hinweise einfach und geradlinig halten.
-
 
 ```markdown
 >[!NOTE]
@@ -273,6 +274,7 @@ Die Komponente „Mehr wie dieses“ in AEM wird am Ende eines Artikels angezeig
 
 ```markdown
 >[!MORELIKETHIS]
+>
 >* [Article 1](https://helpx.adobe.com/support/analytics.html)
 >* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
 ```
@@ -280,6 +282,7 @@ Die Komponente „Mehr wie dieses“ in AEM wird am Ende eines Artikels angezeig
 Angezeigt:
 
 >[!MORELIKETHIS]
+>
 >* [Article 1](https://helpx.adobe.com/de/support/analytics.html)
 >* [Article 2](https://helpx.adobe.com/de/support/audience-manager.html)
 
@@ -334,7 +337,7 @@ Alternativtext, der Unterstriche enthält, wird nicht richtig gerendert. Statt d
 ![Settings_Step_2](/assets/settings_step_2.png)
 ```
 
-Empfehlen wir die Verwendung von Bindestrichen (-) anstelle von Unterstrichen (_) in Dateinamen.
+Es empfiehlt sich, in Dateinamen Bindestriche (-) anstelle von Unterstrichen (_) zu verwenden.
 
 ```markdown
 ![Settings-Step-2](/assets/settings-step-2.png)
