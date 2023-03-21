@@ -1,11 +1,11 @@
 ---
 title: Sprachunterstützung für die Produktdokumentation von Adobe Experience Cloud
-description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Adobe-Dokumentationsseite hinzufügen können.
+description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Dokumentations-Website von Adobe hinzufügen können.
 exl-id: 6ba93c9f-15c3-47ba-aa41-d226f5d4e435
 source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '828'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -33,9 +33,9 @@ Die Produktdokumentation von Adobe Experience Cloud ist in den meisten Sprachen 
 
    ![Übersetzungsnachricht](assets/machine-translation-message.png)
 
-   Der Inhalt wird möglicherweise automatisch in Ihre Sprache übersetzt angezeigt. Alternativ können Sie auf einen Link klicken, um den Inhalt automatisch übersetzen zu lassen. (Dieser anklickbare Link wird dann angezeigt, wenn Sie über einen Link von der übersetzten Seite zum englischen Ausgangstext zurückgekehrt sind. Danach können Sie die bei Bedarf wieder durch Anklicken eines Links die übersetzte Seite anzeigen.) Sie können jederzeit zum englischen Ausgangstext zurückkehren.
+   Der Inhalt wird möglicherweise automatisch in Ihre Sprache übersetzt angezeigt. Alternativ können Sie auf einen Link klicken, um den Inhalt automatisch übersetzen zu lassen. (Dieses Szenario kann eintreten, wenn Sie auf den Hyperlink geklickt haben, um von der übersetzten Seite zur englischen Quelle zurückzukehren. Danach können Sie die bei Bedarf wieder durch Anklicken eines Links die übersetzte Seite anzeigen.) Sie können jederzeit zur englischen Quelle zurückkehren.
 
-   Gelegentlich kann es sein, dass der englische Ausgangstext kurz zuvor schon aktualisiert und veröffentlicht wurde, bevor die Übersetzungen abgeschlossen wurden. Wenn Sie im Dropdown-Menü auf Ihre Sprache klicken, wird Ihnen in der hellblauen horizontalen Leiste oben auf der Seite eine Benachrichtigung angezeigt, dass die Seite automatisch aus der vorherigen Version übersetzt wurde und demnächst aktualisierte Inhalte verfügbar sein werden. Wenn Sie möchten, können Sie den aktuellen englischen Ausgangstext in einem neuen Browser-Fenster anzeigen.
+   Gelegentlich kann es sein, dass der englische Ausgangstext kurz zuvor schon aktualisiert und veröffentlicht wurde, bevor die Übersetzungen abgeschlossen wurden. Wenn Sie im Dropdown-Menü auf Ihre Sprache klicken, erhalten Sie in der hellblauen horizontalen Leiste oben auf der Seite die Benachrichtigung, dass die Seite automatisch aus der vorherigen Version übersetzt wurde und demnächst aktualisierte Inhalte verfügbar sind. Sie haben die Möglichkeit, die neuesten englischen Quellinhalte in einem neuen Browser-Fenster anzuzeigen, wenn Sie dies wünschen.
 
 ## Warum die automatische Übersetzung nutzen?
 
@@ -57,7 +57,8 @@ Gelegentlich kann es bei automatisch generierten Übersetzungen zu Problemen kom
 
 ### Feedback
 
-Immer wenn Inhalte automatisch übersetzt werden, entweder standardmäßig oder durch den Benutzer, kann Feedback zur Übersetzung an Adobe übermittelt werden. In der hellblauen horizontalen Leiste oben auf der Seite können Sie die Frage &quot;War diese Übersetzung nützlich?&quot;mit &quot;Ja&quot;oder &quot;Nein&quot;beantworten. Adobe sammelt diese wichtigen
+Immer wenn Inhalte automatisch übersetzt werden, entweder standardmäßig oder durch den Benutzer, kann Feedback zur Übersetzung an Adobe übermittelt werden. In der
+hellblauen, horizontalen Leiste am oberen Seitenrand können Sie die Frage „War diese Übersetzung hilfreich?“ mit „Ja“ oder „Nein“ beantworten. Adobe sammelt diese wichtigen
 Metriken und analysiert die gesammelten Daten, um Entscheidungen über die Übersetzung von Inhalten zu treffen. Wir würden uns über Ihr Feedback freuen.
 
 ![Feedback](assets/machine-translation-feedback.png)
