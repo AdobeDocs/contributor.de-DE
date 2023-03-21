@@ -6,8 +6,8 @@ seo-description: The guide describes how you can contribute to the [!UICONTROL A
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
 source-git-commit: 2721a71924c46e1536394625c945bdd791e8ac70
 workflow-type: tm+mt
-source-wordcount: '904'
-ht-degree: 69%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,15 +23,15 @@ Dieses Open-Source-Modell verbessert die Qualität der Inhalte und die Kommunika
 
 ## Arbeiten mit kollaborativer Dokumentation
 
-Als Benutzer dieses Materials haben Sie - unabhängig davon, ob Sie Angestellter, Partner, Kunde oder potenzieller Kunde sind - die Wahl, auf verschiedene einfache Weise zu dieser Dokumentation beizutragen.
+Benutzende dieses Materials haben – unabhängig davon, ob sie Beschäftigte, Partner bzw. Partnerinnen oder (potenzielle) Kunden bzw. Kundinnen sind – die Möglichkeit, auf verschiedene einfache Weisen zu dieser Dokumentation beizutragen.
 
 * Bewerten Sie die Nützlichkeit der ❶ und schreiben Sie einen optionalen Kommentar ❷
 * Melden Sie ein Problem mit einer bestimmten Seite (Git-Anmeldung erforderlich) ❸
-* Senden Sie eine schnelle Bearbeitung durch das Authoring ganzer Artikel, einschließlich Assets und Codebeispielen (Git-Anmeldung erforderlich) ❹
+* Reichen Sie eine schnelle Bearbeitung bis hin zum Verfassen ganzer Artikel ein, komplett mit Assets und Code-Beispielen (Git-Anmeldung erforderlich) ❹
 
 ![Feedback](assets/feedback-options.png)
 
-Diese Optionen werden einige Sekunden nach dem Öffnen unten auf der Seite angezeigt. Wenn Sie den Feedback-Bereich verwerfen, können Sie die Seite neu laden, um sie erneut zu laden.
+Diese Optionen werden einige Sekunden nach dem Öffnen unten auf der Seite angezeigt. Wenn Sie den Feedback-Bereich verworfen haben, können Sie die Seite neu laden, um ihn erneut anzuzeigen.
 
 In diesem Handbuch wird alles beschrieben, was Sie für einen Beitrag zu diesem Materialsatz wissen müssen.
 
@@ -42,21 +42,21 @@ In diesem Handbuch wird alles beschrieben, was Sie für einen Beitrag zu diesem 
 > Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
 -->
 
-## Bewerten Sie die Nützlichkeit der Seite und schreiben Sie einen Kommentar
+## Bewerten der Nützlichkeit der Seite und Schreiben eines Kommentars
 
-Einige Sekunden nach dem Öffnen einer Seite wird unten auf der Seite ein Feedback-Bereich angezeigt. Klicken Sie auf &quot;Nach oben&quot;oder &quot;Nach unten&quot;, um anzugeben, ob die Seite hilfreich war.
+Einige Sekunden nach dem Öffnen einer Seite wird unten auf der Seite ein Feedback-Bereich angezeigt. Klicken Sie auf den Pfeil nach oben bzw. nach unten, um anzugeben, ob die Seite hilfreich war.
 
-Sie können auch einen Kommentar hinterlassen, um zusätzliche Feedback zu geben.
+Sie können auch einen Kommentar hinterlassen, um zusätzliches Feedback zu geben.
 
-## Vorhandene Dokumente schnell bearbeiten
+## Vornehmen von schnellen Bearbeitungen an bestehenden Dokumenten
 
-Wenn Sie detaillierteres Feedback geben möchten, können Sie kleine Fehler und Auslassungen in Dokumenten durch schnelle Bearbeitungen beheben. Wenn Sie eine Bearbeitung vorschlagen, senden Sie eine Pull-Anfrage (PA), um die Korrektur/den Vorschlag an uns zu senden. Wir können den Vorschlag prüfen, genehmigen und veröffentlichen.
+Wenn Sie detaillierteres Feedback geben möchten, können Sie kleine Fehler und Auslassungen in Dokumenten durch schnelle Bearbeitungen beheben. Wenn Sie eine Änderung vorschlagen, übermitteln Sie eine Pull-Anfrage (PR) an uns, um die Korrektur/den Vorschlag an uns zu senden, und wir können den Vorschlag prüfen, genehmigen und veröffentlichen.
 
 1. Unterschreiben Sie die [Lizenzvereinbarung für Mitarbeiter (CLA)](http://opensource.adobe.com/cla.html), falls akzeptabel.
 
    Sie müssen nur einmal eine Adobe-Lizenzvereinbarung für Mitarbeiter übermitteln.
 
-1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detailed feedback options]** und klicken Sie anschließend auf **[!UICONTROL Suggest an edit]** , um zur Markdown-Quelldatei auf GitHub zu wechseln.
+1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detailed feedback options]** und anschließend auf **[!UICONTROL Suggest an edit]**, um zur Markdown-Quelldatei auf GitHub zu wechseln.
 
    ![Bearbeiten Sie das Symbol für diese Seite](/help/assets/feedback-suggest-edit.png)
 
@@ -82,15 +82,15 @@ Wenn Sie detaillierteres Feedback geben möchten, können Sie kleine Fehler und 
    >
    >Wenn Sie eine Validierungsfehlermeldung erhalten, in der Sie zum Unterschreiben einer Lizenzvereinbarung für Mitwirkende (Contributor License Agreement, CLA) aufgefordert werden, klicken Sie auf **[!UICONTROL Details]**, um die Lizenzvereinbarung zu öffnen. Unterschreiben Sie die Vereinbarung, falls akzeptabel. Schließen und öffnen Sie dann die Pull-Anfrage und fahren Sie fort.
 
-Und das war&#39;s auch schon. Mitglieder des Dokumentations-Teams überprüfen Ihre Pull Request und fügen Sie zur Merge-Warteschlange hinzu. Vielen Dank!
+Und das war&#39;s auch schon. Die Mitglieder des Dokumentations-Teams werden Ihre Pull-Anfrage überprüfen und zusammenführen. Vielen Dank!
 
-## Problem melden
+## Melden eines Problems
 
 Eine weitere einfache Möglichkeit, uns auf ein Problem mit einem Inhalt hinzuweisen, ist die Verwendung von **[!UICONTROL Report an issue]**.
 
-1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detailed feedback options]** und klicken Sie anschließend auf **[!UICONTROL Report an issue]** , um zur Markdown-Quelldatei auf GitHub zu wechseln.
+1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detailed feedback options]** und anschließend auf **[!UICONTROL Report an issue]**, um zur Markdown-Quelldatei auf GitHub zu wechseln.
 
-   ![Berichtsproblem](assets/feedback-report-issue.png)
+   ![Melden eines Problems](assets/feedback-report-issue.png)
 
    >[!NOTE]
    >
