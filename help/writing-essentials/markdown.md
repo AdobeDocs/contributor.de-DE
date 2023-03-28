@@ -3,9 +3,9 @@ title: Markdown zum Schreiben von Dokumentation verwenden
 description: Erfahren Sie mehr über die Grundlagen des Markdown-Authorings. Suchen Sie Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 065e43d5251f80050deef02e9c18b3fb4e9c1204
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1430'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -125,7 +125,7 @@ Angezeigt:
 
 ### Tabellen
 
-Tabellen sind nicht Teil der Markdown-Kernspezifikation, doch Adobe unterstützt sie in einem gewissen Maße. Markdown unterstützt keine Listen mit mehreren Zeilen in Zellen. Es empfiehlt sich, mehrere Zeilen in Tabellen zu vermeiden. Sie können Tabellen mit dem Strichzeichen (|) erstellen, um Spalten und Zeilen abzutrennen. Mit Bindestrichen wird die Kopfzeile der einzelnen Spalten erstellt, während die Striche die Spalten trennen. Fügen Sie vor der Tabelle eine leere Zeile ein, damit sie korrekt angezeigt wird.
+Tabellen sind nicht Teil der Markdown-Kernspezifikation, doch Adobe unterstützt sie in einem gewissen Maße. Markdown unterstützt keine Listen mit mehreren Zeilen in Zellen. Best practice ist, mehrere Zeilen in Tabellen zu vermeiden. Sie können Tabellen mit dem Strichzeichen (|) erstellen, um Spalten und Zeilen abzutrennen. Mit Bindestrichen wird die Kopfzeile der einzelnen Spalten erstellt, während die Striche die Spalten trennen. Fügen Sie vor der Tabelle eine leere Zeile ein, damit sie korrekt angezeigt wird.
 
 ```markdown
 | Header | Another header | Yet another header |
@@ -337,7 +337,7 @@ Alternativtext, der Unterstriche enthält, wird nicht richtig gerendert. Statt d
 ![Settings_Step_2](/assets/settings_step_2.png)
 ```
 
-Es empfiehlt sich, in Dateinamen Bindestriche (-) anstelle von Unterstrichen (_) zu verwenden.
+Unsere Best practice ist es, Bindestrichen (-) anstelle von Unterstrichen (_) in Dateinamen zu verwenden.
 
 ```markdown
 ![Settings-Step-2](/assets/settings-step-2.png)
