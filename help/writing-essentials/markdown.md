@@ -2,10 +2,10 @@
 title: Markdown zum Schreiben von Dokumentation verwenden
 description: Erfahren Sie mehr über die Grundlagen des Markdown-Authorings. Suchen Sie Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 19ea281ffce60c91edd0a47449152fc1138031c5
+source-git-commit: aec38dde9195855f96e7469c91c28d50ad516ae6
 workflow-type: tm+mt
-source-wordcount: '1420'
-ht-degree: 99%
+source-wordcount: '1419'
+ht-degree: 97%
 
 ---
 
@@ -77,7 +77,7 @@ Angezeigt:
 
 * First item in an unordered list.
 * Another item.
-* Here we go again.
+* Hier gehen wir wieder hin.
 
 Sie können auch Listen in Listen einbetten und Inhalte zwischen Listenelementen hinzufügen.
 
@@ -119,7 +119,7 @@ Angezeigt:
 
    >[!NOTE]
    >
-   >This is note text.
+   >Dies ist Text für Anmerkungen.
 
 1. Do another step.
 
@@ -285,9 +285,8 @@ Die Komponente „Mehr wie dieses“ in AEM wird am Ende eines Artikels angezeig
 Angezeigt:
 
 >[!MORELIKETHIS]
->
->* [Article 1](https://helpx.adobe.com/de/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/de/support/audience-manager.html)
+* [Artikel 1](https://helpx.adobe.com/de/support/analytics.html)
+* [Artikel 2](https://helpx.adobe.com/de/support/audience-manager.html)
 
 
 ### UICONTROL und DNL
@@ -312,7 +311,8 @@ Während der maschinellen Übersetzung werden Elemente, die mit ``-Tags versehe
 1. The [!UICONTROL Processing Rules] dialog box appears.
 ```
 
-**Hinweis:** Von den drei Tagging-Optionen ist dies die wichtigste, um eine hohe Qualität zu erzielen, und sie ist obligatorisch.
+>[!NOTE]
+Von den drei Tagging-Optionen ist dies die wichtigste Voraussetzung für eine hohe Qualität und ist obligatorisch.
 
 **`[!DNL]`**
 
