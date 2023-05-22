@@ -3,9 +3,9 @@ title: Markdown zum Schreiben von Dokumentation verwenden
 description: Erfahren Sie mehr über die Grundlagen des Markdown-Authorings. Suchen Sie Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 73c2a6b0abb9b0c8e1febc4b7dc5d74a3753ebac
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1421'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -77,7 +77,7 @@ Angezeigt:
 
 * First item in an unordered list.
 * Another item.
-* Hier gehen wir wieder hin.
+* Und noch ein weiteres.
 
 Sie können auch Listen in Listen einbetten und Inhalte zwischen Listenelementen hinzufügen.
 
@@ -119,7 +119,7 @@ Angezeigt:
 
    >[!NOTE]
    >
-   >Dies ist Text für Anmerkungen.
+   >Dies ist Anmerkungstext.
 
 1. Do another step.
 
@@ -275,13 +275,13 @@ Angezeigt:
 
 Die Komponente „Mehr wie dieses“ in AEM wird am Ende eines Artikels angezeigt. Es werden zugehörige Links angezeigt. Wenn der Artikel gerendert wird, kann er wie Ebene-2-Kopfzeilen (##) formatiert werden, ohne dem Mini-Inhaltsverzeichnis hinzugefügt zu werden.
 
-![morelikethis Syntax](assets/more-like-this-syntax.png)
+![mehr wie diese Syntax](assets/more-like-this-syntax.png)
 
 Angezeigt:
 
 >[!MORELIKETHIS]
 * [Artikel 1](https://helpx.adobe.com/de/support/analytics.html)
-* [Artikel 2](https://helpx.adobe.com/de/support/audience-manager.html)
+* [Artikel 2](https://helpx.adobe.com/de/support/audience-manager.html)
 
 
 ### UICONTROL und DNL
@@ -307,7 +307,7 @@ Während der maschinellen Übersetzung werden Elemente, die mit ``-Tags versehe
 ```
 
 >[!NOTE]
-Von den drei Tagging-Optionen ist dies die wichtigste Voraussetzung für eine hohe Qualität und ist obligatorisch.
+Von den drei Tagging-Optionen ist diese die wichtigste, um eine hohe Qualität zu erzielen, und sie ist obligatorisch.
 
 **`[!DNL]`**
 
