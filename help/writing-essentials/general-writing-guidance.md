@@ -4,8 +4,8 @@ title: Authoring-Stilrichtlinien für externe Mitwirkende
 description: Erfahren Sie mehr über Authoring- und redaktionelle Richtlinien für externe Experience League-Mitwirkende.
 exl-id: 874f88d7-18ad-4ac8-bfa3-737255652bbc
 source-git-commit: 03d46c9ffb664824f9526f781d776069d486f271
-workflow-type: ht
-source-wordcount: '2227'
+workflow-type: tm+mt
+source-wordcount: '2224'
 ht-degree: 100%
 
 ---
@@ -162,7 +162,7 @@ Im Folgenden finden Sie einfache Möglichkeiten für eine bessere inhaltliche Ge
 | Ändern Sie _Klicken_ in _Navigieren Sie zu_ oder _Wählen Sie ... aus_ | _Klicken_ ist ein gerätespezifisches Wort (mit Problemen in Bezug auf die Barrierefreiheit), und der Trend besteht darin, von diesem abzurücken. Im Folgenden finden Sie Vorschläge zur Änderung:<ul><li>Navigation: _Gehen Sie zu Datei > Drucken_.</li><li>Klicken: _Wählen Sie „Datei“ > „Drucken“_ oder _Wählen Sie „OK“_. </li></ul>Weitere Ideen für die beste Wortwahl in verschiedenen Situationen finden Sie unter [Beschreibung von Interaktionen mit der Benutzeroberfläche](https://docs.microsoft.com/de-de/style-guide/procedures-instructions/describing-interactions-with-ui). |
 | Ausführen von Acrolinx in VSC | Acrolinx sucht nach Stil- und Grammatikproblemen. Er überprüft URLs, Terminologie, Rechtschreibung und mehr. Es hilft Ihnen, sich klarer auszudrücken und verbessert die Übersetzung von Experience League-Inhalten. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 Ein paar weitere bewährte Verfahren und Ressourcen:
 

@@ -1,14 +1,13 @@
 ---
 lastModified: 2018-06-28T00:00:00Z
 title: Links in der Dokumentation verwenden
-seo-title: Links in der Adobe Git-/Markdown-Dokumentation verwenden
+seo-title: Using links in Adobe Git/Markdown documentation
 description: Dieser Artikel enthält Anleitungen zum Erstellen von Links zu Inhalten und Bildern.
-seo-description: Dieser Artikel enthält Anleitungen zum Erstellen von Links zu Inhalten und Bildern für die Adobe-Dokumentation.
+seo-description: This article provides guidance on creating links to content and images for Adobe documentation.
 exl-id: f9d61aa9-931c-4654-ab21-c6e47936954e
-translation-type: ht
 source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
-source-wordcount: '340'
+workflow-type: tm+mt
+source-wordcount: '319'
 ht-degree: 100%
 
 ---
