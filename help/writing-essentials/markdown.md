@@ -2,10 +2,10 @@
 title: Markdown zum Schreiben von Dokumentation verwenden
 description: Erfahren Sie mehr über die Grundlagen des Markdown-Authorings. Suchen Sie Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: bd0a7b34320435e1cebae95bc267ddf05b06a0f9
+source-git-commit: d3d478f8745c14ee500a43021597eecfebc7b06b
 workflow-type: tm+mt
-source-wordcount: '1431'
-ht-degree: 96%
+source-wordcount: '1466'
+ht-degree: 92%
 
 ---
 
@@ -292,23 +292,25 @@ Alle unsere Markdown-Hilfeinhalte werden zunächst durch maschinelle Übersetzun
 
 Während der maschinellen Übersetzung werden Elemente, die mit ``-Tags versehen sind, für die entsprechende Übersetzung mit einer lokalen Anpassungsdatenbank abgeglichen. Für den Fall, dass die Benutzeroberfläche nicht lokalisiert ist, ermöglicht dieses Tag dem System, die Benutzeroberflächenreferenz in Englisch für die jeweilige Sprache zu belassen (z. B. Analytics-Referenzen in Italienisch).
 
-**Beispiel:**
+**Beispielquellinhalt:**
 
-1. Navigieren Sie zu **Prozess ausführen** angezeigt.
-1. Auswählen **Datei** > **Drucken** > **Alle drucken** um alle Dateien auf Ihrem Server zu drucken.
-1. Das Dialogfeld Verarbeitungsregeln wird angezeigt.
+1. Navigieren Sie zu **&amp;lbrack;!UICONTROL Run Process&amp;track;** angezeigt.
+1. Auswählen **&amp;lbrack;!UICONTROL File&amp;rbrack; > &amp;lbrack;!UICONTROL Print&amp;rbrack; > &amp;lbrack;!UICONTROL Print All&amp;rbrack;** um alle Dateien auf Ihrem Server zu drucken.
+1. Das Dialogfeld &amp;lbrack;!UICONTROL Verarbeitungsregeln und -klammer; wird angezeigt.
 
-**Quelle:**
+<!--
+**Source:**
 
 ```markdown
 1. Go to the **&lbrack;!UICONTROL Run Process&rbrack;** screen.
 1. Choose **&lbrack;!UICONTROL File&rbrack; > &lbrack;!UICONTROL Print&rbrack; > &lbrack;!UICONTROL Print All&rbrack;** to print all the files on your server.
 1. The &lbrack;!UICONTROL Processing Rules&rbrack; dialog box appears.
 ```
+-->
 
 >[!NOTE]
 >
-Von den drei Tagging-Optionen ist diese die wichtigste, um eine hohe Qualität zu erzielen, und sie ist obligatorisch.
+Von den beiden Tagging-Optionen ist dies die wichtigste Voraussetzung für eine hohe Qualität und ist obligatorisch.
 
 **`[!DNL]`**
 
@@ -316,15 +318,17 @@ In der Regel wird eine „Nicht übersetzen“-Liste verwendet, um den maschinel
 
 **Beispiel:**
 
-* Mit Target können Sie A/B-Tests erstellen, um die optimale
-* Adobe Analytics ist eine leistungsstarke Lösung zur Erfassung von Analysen auf Ihrer Website. Analytics kann Ihnen auch bei der Berichterstellung helfen, um diese Daten einfach zu verarbeiten.
+* Mit &amp;lbrack;!DNL Target&amp;rbrack; können Sie A/B-Tests erstellen, um die optimale
+* Adobe Analytics ist eine leistungsstarke Lösung zur Erfassung von Analysen auf Ihrer Website. &amp;lbrack;!DNL Analytics&amp;rbrack; kann Ihnen auch bei der Berichterstellung helfen, um diese Daten einfach zu verarbeiten.
 
-**Quelle:**
+<!--
+**Source:**
 
 ```markdown
 * With &lbrack;!DNL Target&rbrack;, you can create A/B tests to find the optimal 
 * Adobe Analytics is a powerful solution to collect analytics on your site. &lbrack;!DNL Analytics&rbrack; can also help you with reporting to easily digest that data.
 ```
+-->
 
 ## Gotchas und Fehlerbehebung
 
