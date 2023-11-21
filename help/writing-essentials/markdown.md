@@ -2,10 +2,10 @@
 title: Markdown zum Schreiben von Dokumentation verwenden
 description: Erfahren Sie mehr über die Grundlagen des Markdown-Authorings. Suchen Sie Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 109b2b72bd842a8d3f45bd5667690d8e71a6e329
+source-git-commit: fff920c9e98ca821a4180157174c2a2ee1b84cb8
 workflow-type: tm+mt
-source-wordcount: '1378'
-ht-degree: 97%
+source-wordcount: '1361'
+ht-degree: 99%
 
 ---
 
@@ -304,11 +304,11 @@ Während der maschinellen Übersetzung werden Elemente, die mit ``-Tags versehe
 1. Choose **[!UICONTROL File] > [!UICONTROL Print] > [!UICONTROL Print All]** to print all the files on your server.
 1. The [!UICONTROL Processing Rules] dialog box appears.
 ```
--->
 
 >[!NOTE]
 >
-Von den beiden Tagging-Optionen ist dies die wichtigste Voraussetzung für eine hohe Qualität und ist obligatorisch.
+>Of the two tagging options, this is the most crucial to deliver high quality and is mandatory.
+-->
 
 **`[!DNL]`**
 
