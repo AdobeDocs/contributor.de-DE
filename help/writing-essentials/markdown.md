@@ -3,9 +3,9 @@ title: Markdown zum Schreiben von Dokumentation verwenden
 description: Erfahren Sie mehr über die Grundlagen des Markdown-Authorings. Suchen Sie Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: fff920c9e98ca821a4180157174c2a2ee1b84cb8
-workflow-type: tm+mt
-source-wordcount: '1361'
-ht-degree: 99%
+workflow-type: ht
+source-wordcount: '1340'
+ht-degree: 100%
 
 ---
 
@@ -183,7 +183,7 @@ Angezeigt:
 
 ### Codeblöcke
 
-Markdown unterstützt die Platzierung von Codeblöcken sowohl in einem Satz als auch als separater „abgegrenzter“ Block zwischen Sätzen. Weitere Informationen finden Sie unter [Native Markdown-Unterstützung für Codeblöcke.](https://daringfireball.net/projects/markdown/syntax#precode)
+Markdown unterstützt die Platzierung von Codeblöcken sowohl in einem Satz als auch als separater „abgegrenzter“ Block zwischen Sätzen. Weitere Informationen finden Sie unter [Native Markdown-Unterstützung für Code-Blöcke](https://daringfireball.net/projects/markdown/syntax#precode)
 
 Verwenden Sie Backticks (`` ` ``), um Inline-Code-Stile innerhalb eines Absatzes zu erstellen. Um einen bestimmten mehrzeiligen Code-Block zu erstellen, fügen Sie drei Backticks (` ``` `) vor und nach dem Code-Block ein (in Markdown „umgrenzter Code-Block“ genannt und in AEM einfach eine „Code-Block“-Komponente). Fügen Sie bei abgegrenzten Code-Blöcken die Code-Sprache nach dem ersten Satz Backticks ein, sodass Markdown die Code-Syntax korrekt hervorhebt. Beispiel: ` ```javascript`
 
@@ -281,8 +281,8 @@ Angezeigt:
 
 >[!MORELIKETHIS]
 >
-* [Artikel 1](https://helpx.adobe.com/de/support/analytics.html)
-* [Artikel 2](https://helpx.adobe.com/de/support/audience-manager.html)
+>* [Artikel 1](https://helpx.adobe.com/de/support/analytics.html)
+>* [Artikel 2](https://helpx.adobe.com/de/support/audience-manager.html)
 
 ### UICONTROL und DNL
 
@@ -294,7 +294,7 @@ Während der maschinellen Übersetzung werden Elemente, die mit ``-Tags versehe
 
 **Beispielquellinhalt:**
 
-![Beispieluikontrolltext](assets/sample-uicontrol.png)
+![Beispiel-UICONTROL-Text](assets/sample-uicontrol.png)
 
 <!--
 **Source:**
@@ -316,7 +316,7 @@ In der Regel wird eine „Nicht übersetzen“-Liste verwendet, um den maschinel
 
 **Beispielquellinhalt:**
 
-![Beispiel-dnl-Text](assets/sample-dnl.png)
+![Beispiel-DNL-Text](assets/sample-dnl.png)
 
 <!--
 **Source:**
