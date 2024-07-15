@@ -4,8 +4,8 @@ description: Dieser Artikel enthält Anleitungen zum Erstellen Ihres lokalen Git
 exl-id: 679c07a2-030b-4a30-ba14-7780f88dae11
 source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
 workflow-type: tm+mt
-source-wordcount: '653'
-ht-degree: 100%
+source-wordcount: '652'
+ht-degree: 98%
 
 ---
 
@@ -28,7 +28,7 @@ Um zur Adobe-Dokumentation beizutragen, können Sie das entsprechende Repository
 
 ## Repository bestimmen
 
-Sie spalten das entsprechende Repository in Ihr eigenes GitHub-Konto ab, um dafür Lese-/Schreibberechtigungen zu erhalten und Ihre vorgeschlagenen Änderungen speichern zu können. Die Dokumentation von [!UICONTROL Adobe Experience Cloud] befindet sich in verschiedenen Repositorys unter [github.com](https://www.github.com/adobedocs).
+Sie spalten das entsprechende Repository in Ihr eigenes GitHub-Konto ab, um dafür Lese-/Schreibberechtigungen zu erhalten und Ihre vorgeschlagenen Änderungen speichern zu können. Die Dokumentation zu [!UICONTROL Adobe Experience Cloud] befindet sich in verschiedenen Repositorys unter [github.com](https://www.github.com/adobedocs).
 
 1. Wenn Sie sich nicht sicher sind, welches Repository zu verwenden ist, rufen Sie den Artikel mit Ihrem Webbrowser auf. Wählen Sie rechts oben im Artikel den Link **Bearbeiten** (Stiftsymbol). (Wenn Sie keinen Link zum Bearbeiten sehen, ist dieser Inhalt in GitHub noch nicht verfügbar.)
 

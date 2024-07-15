@@ -5,8 +5,8 @@ description: Erfahren Sie mehr über Authoring- und redaktionelle Richtlinien f�
 exl-id: 874f88d7-18ad-4ac8-bfa3-737255652bbc
 source-git-commit: 03d46c9ffb664824f9526f781d776069d486f271
 workflow-type: tm+mt
-source-wordcount: '2224'
-ht-degree: 100%
+source-wordcount: '2203'
+ht-degree: 99%
 
 ---
 
@@ -188,17 +188,17 @@ Sie müssen sich keine Gedanken darüber machen, ob Ihr Produkt lokalisiert ist 
 
 * `DNL`
 
-   DNL bedeutet _nicht lokalisieren_. Sie verwenden es nur für markenrechtlich geschützte Adobe-Produktnamen, die alle in englischer Sprache bleiben müssen.
+  DNL bedeutet _nicht lokalisieren_. Sie verwenden es nur für markenrechtlich geschützte Adobe-Produktnamen, die alle in englischer Sprache bleiben müssen.
 
-   Syntaxbeispiele: `[!DNL Adobe Campaign]` oder `[!DNL Workfront]`
+  Syntaxbeispiele: `[!DNL Adobe Campaign]` oder `[!DNL Workfront]`
 
-   DNL ist nicht für Dateinamen oder URLs vorgesehen.
+  DNL ist nicht für Dateinamen oder URLs vorgesehen.
 
 * `UICONTROL`
 
-   UICONTROL bezeichnet eine Schnittstellensteuerung (z. B. eine Option, ein Feld, eine Registerkarte, eine Seite, eine Gruppe von Optionen oder einen Funktionsnamen in der Benutzeroberfläche).
+  UICONTROL bezeichnet eine Schnittstellensteuerung (z. B. eine Option, ein Feld, eine Registerkarte, eine Seite, eine Gruppe von Optionen oder einen Funktionsnamen in der Benutzeroberfläche).
 
-   Syntaxbeispiel: `Select **[!UICONTROL Project]**, then select **[!UICONTROL Save]**.`
+  Syntaxbeispiel: `Select **[!UICONTROL Project]**, then select **[!UICONTROL Save]**.`
 
 >[!IMPORTANT]
 >

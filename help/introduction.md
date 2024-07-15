@@ -6,8 +6,8 @@ seo-description: The guide describes how you can contribute to the [!UICONTROL A
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
 source-git-commit: 2721a71924c46e1536394625c945bdd791e8ac70
 workflow-type: tm+mt
-source-wordcount: '904'
-ht-degree: 100%
+source-wordcount: '927'
+ht-degree: 88%
 
 ---
 
@@ -56,7 +56,7 @@ Wenn Sie detaillierteres Feedback geben möchten, können Sie kleine Fehler und 
 
    Sie müssen nur einmal eine Adobe-Lizenzvereinbarung für Mitarbeiter übermitteln.
 
-1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detailed feedback options]** und anschließend auf **[!UICONTROL Suggest an edit]**, um zur Markdown-Quelldatei auf GitHub zu wechseln.
+1. Klicken Sie im Feedback-Bereich, der unten im Artikel angezeigt wird, auf **[!UICONTROL Detaillierte Feedback-Optionen]** und klicken Sie dann auf **[!UICONTROL Bearbeiten vorschlagen]** , um zur Markdown-Quelldatei auf GitHub zu wechseln.
 
    ![Bearbeiten Sie das Symbol für diese Seite](/help/assets/feedback-suggest-edit.png)
 
@@ -74,21 +74,21 @@ Wenn Sie detaillierteres Feedback geben möchten, können Sie kleine Fehler und 
 
 1. Nachdem Sie Ihre Änderungen vorgenommen haben, scrollen Sie zum Ende der Seite.
 
-   Geben Sie einen Titel und eine Beschreibung für Ihren Pull Request ein und klicken Sie dann auf **[!UICONTROL Propose file change]**, wie in der folgenden Abbildung dargestellt:
+   Geben Sie einen Titel und eine Beschreibung für Ihre PA ein und klicken Sie dann auf **[!UICONTROL Änderung der Propose file]** , wie in der folgenden Abbildung dargestellt:
 
    ![Vorschlagen von Änderungen](assets/submit-pull-request.png)
 
    >[!NOTE]
    >
-   >Wenn Sie eine Validierungsfehlermeldung erhalten, in der Sie zum Unterschreiben einer Lizenzvereinbarung für Mitwirkende (Contributor License Agreement, CLA) aufgefordert werden, klicken Sie auf **[!UICONTROL Details]**, um die Lizenzvereinbarung zu öffnen. Unterschreiben Sie die Vereinbarung, falls akzeptabel. Schließen und öffnen Sie dann die Pull-Anfrage und fahren Sie fort.
+   >Wenn Sie eine Validierungsfehlermeldung zum Unterschreiben einer Lizenzvereinbarung für Mitarbeiter (CLA) erhalten, klicken Sie auf **[!UICONTROL Details]**, um die Lizenzvereinbarung zu öffnen. Unterschreiben Sie die Vereinbarung, falls akzeptabel. Schließen und öffnen Sie dann die Pull-Anfrage und fahren Sie fort.
 
 Und das war&#39;s auch schon. Die Mitglieder des Dokumentations-Teams werden Ihre Pull-Anfrage überprüfen und zusammenführen. Vielen Dank!
 
 ## Melden eines Problems
 
-Eine weitere einfache Möglichkeit, uns auf ein Problem mit einem Inhalt hinzuweisen, ist die Verwendung von **[!UICONTROL Report an issue]**.
+Eine weitere einfache Möglichkeit, uns über ein Problem mit einem Inhaltselement zu informieren, besteht darin, **[!UICONTROL Ein Problem melden]** zu verwenden.
 
-1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detailed feedback options]** und anschließend auf **[!UICONTROL Report an issue]**, um zur Markdown-Quelldatei auf GitHub zu wechseln.
+1. Klicken Sie im Feedback-Bereich, der unten im Artikel angezeigt wird, auf **[!UICONTROL Detaillierte Feedback-Optionen]** und klicken Sie dann auf **[!UICONTROL Ein Problem melden]** , um zur Markdown-Quelldatei auf GitHub zu wechseln.
 
    ![Melden eines Problems](assets/feedback-report-issue.png)
 

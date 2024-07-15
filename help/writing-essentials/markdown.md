@@ -3,7 +3,7 @@ title: Markdown zum Schreiben von Dokumentation verwenden
 description: Erfahren Sie mehr über die Grundlagen des Markdown-Authorings. Suchen Sie Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: fff920c9e98ca821a4180157174c2a2ee1b84cb8
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1340'
 ht-degree: 100%
 

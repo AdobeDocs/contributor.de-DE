@@ -4,7 +4,7 @@ description: In diesem Artikel werden eine Übersicht über Git, GitHub-Reposito
 exl-id: 2b2ec764-4201-4bcd-802d-a034d6675793
 source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '658'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,7 @@ Mitarbeiter interagieren mit Git, um Repositorys auf den lokalen und GitHub-Eben
 
 ## GitHub
 
-Alle Arbeitsabläufe beginnen und enden auf der GitHub-Ebene, wo das Haupt-Repository für ein Adobe-Dokumentationsprojekt gespeichert wird. Die Kopien, die Mitarbeiter für ihre eigene Verwendung erstellen, werden auf mehrere Computer verteilt. Diese Kopien werden schließlich wieder mit dem GitHub-Haupt-Repository des Projekts abgeglichen.
+Alle Arbeitsabläufe beginnen und enden auf der GitHub-Ebene, wo das Haupt-Repository für ein Adobe-Dokumentationsprojekt gespeichert wird. Die Kopien, die Mitarbeiter für ihre eigene Verwendung erstellen, werden auf mehrere Computer verteilt. Diese Kopien werden schließlich wieder mit dem GitHub-Haupt-Repository des Projekts abgestimmt.
 
 ### Verzeichnisorganisierung
 

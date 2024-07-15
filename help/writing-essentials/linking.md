@@ -35,27 +35,27 @@ Verwenden Sie die folgende Linksyntax, um einen Inline-Link von einem Artikel zu
 
 - Ein Artikel in einem Ordner verlinkt auf einen anderen Artikel im selben Verzeichnis:
 
-   `[link text](article-name.md)`
+  `[link text](article-name.md)`
 
 - Ein Artikel verlinkt aus einem Unterverzeichnis auf einen Artikel im Stammverzeichnis:
 
-   `[link text](../article-name.md)`
+  `[link text](../article-name.md)`
 
 - Ein Artikel verlinkt aus einem untergeordneten Unterverzeichnis auf einen Artikel im Stammverzeichnis:
 
-   `[link text](../../article-name.md)`
+  `[link text](../../article-name.md)`
 
 - Ein Artikel im Stammordner verlinkt auf einen Artikel in einem Unterverzeichnis:
 
-   `[link text](./directory/article-name.md)`
+  `[link text](./directory/article-name.md)`
 
 - Ein Artikel in einem Unterverzeichnis verlinkt auf einen Artikel in einem anderen Unterverzeichnis:
 
-   `[link text](../directory/article-name.md)`
+  `[link text](../directory/article-name.md)`
 
 - Ein Artikel in einem untergeordneten Unterverzeichnis verlinkt auf einen Artikel in einem anderen Unterverzeichnis:
 
-   `[link text](../../directory/article-name.md)`
+  `[link text](../../directory/article-name.md)`
 
 ## Link zu Ankern
 
@@ -63,21 +63,21 @@ Sie müssen keine Anker erstellen. Sie werden automatisch zum Veröffentlichungs
 
 - So verlinken Sie auf eine Überschrift im selben Artikel:
 
-   `[link](#the-text-of-the-level2-section-separated-by-hyphens)`
+  `[link](#the-text-of-the-level2-section-separated-by-hyphens)`
 
-   `[Link to anchors](#links-to-anchors)`
+  `[Link to anchors](#links-to-anchors)`
 
 - So verlinken Sie einen Anker in einem anderen Artikel im selben Unterverzeichnis:
 
-   `[link text](article-name.md#anchor-name)`
+  `[link text](article-name.md#anchor-name)`
 
-   `[Configure your profile](overview.md#getting-started)`
+  `[Configure your profile](overview.md#getting-started)`
 
 - So verlinken Sie einen Anker in einem anderen Dienstunterverzeichnis:
 
-   `[link text](../directory/article-name.md#anchor-name)`
+  `[link text](../directory/article-name.md#anchor-name)`
 
-   `[Configure your profile](../overview.md#configure-your-profile)`
+  `[Configure your profile](../overview.md#configure-your-profile)`
 
 ## Link zu Bildern
 
@@ -85,8 +85,8 @@ Es empfiehlt sich, Bilder und Dateien in einem `assets`-Verzeichnis auf derselbe
 
 - Ein Artikel verlinkt zu einem Bild im `assets`-Unterverzeichnis:
 
-   `![alt text](assets/image-name.png)`
+  `![alt text](assets/image-name.png)`
 
 - Ein Artikel verlinkt zu einem Bild im `assets/no-localize`-Unterverzeichnis:
 
-   `![alt text](assets/no-localize/image-name.png)`
+  `![alt text](assets/no-localize/image-name.png)`
