@@ -1,6 +1,6 @@
 ---
 title: Adobe-Verhaltenskodex
-description: Adobe-Verhaltenskodex für Reporting-Probleme und Senden von Bearbeitungsänderungen
+description: Adobe-Verhaltenskodex für die Meldung von Problemen und die Einreichung von Bearbeitungsänderungen
 exl-id: ff9c1cc5-8f65-40bb-8d5b-b7d42a5c08c2
 source-git-commit: 06b0a397f0612e5ecfca82fc7105a45ed167efc9
 workflow-type: tm+mt

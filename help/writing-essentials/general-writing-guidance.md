@@ -218,7 +218,7 @@ _Zielgruppen sind Sammlungen von Besuchern (eine Liste von Besucher-IDs). Der Zi
 
 Beispiel für ersten Absatz (Aufgabe):
 
-_Erstellen Sie die Kundenattributquelle (CSV- und FIN-Dateien) und laden Sie die Daten hoch. Sobald Sie dazu bereit sind, aktivieren Sie die Datenquelle. Geben Sie die Attributdaten nach Aktivierung der Datenquelle an Analytics und Target weiter._
+_Erstellen Sie die Kundenattributquelle (CSV- und FIN-Dateien) und laden Sie die Daten hoch. Sobald Sie dazu bereit sind, aktivieren Sie die Datenquelle. Nachdem die Datenquelle aktiv ist, geben Sie die Attributdaten für Analytics und Target frei._
 
 ### SEO-Tipps für erste Absätze {#seo}
 

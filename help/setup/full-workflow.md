@@ -5,7 +5,7 @@ exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
 source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
 workflow-type: tm+mt
 source-wordcount: '941'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -65,7 +65,7 @@ Bevor Ihre Pull-Anfrage in der Zielverzweigung zusammengeführt werden kann, mus
 
 ### Überprüfen und abmelden
 
-Nach Abschluss der PA-Verarbeitung sollten Sie die Ergebnisse überprüfen (PA-Kommentare, Vorschau-URLs usw.), um zu bestimmen, ob zusätzliche Änderungen an den Dateien erforderlich sind, bevor Sie die Zusammenführung abzeichnen. Wenn ein PA-Prüfer Ihre Pull-Anfrage überprüft hat, kann dieser auch Feedback über Kommentare geben, wenn vor der Zusammenführung Probleme/Fragen bestehen.
+Nachdem die gesamte PR-Verarbeitung abgeschlossen ist, sollten Sie die Ergebnisse (PR-Kommentare, Vorschau-URLs usw.) überprüfen, um festzustellen, ob zusätzliche Änderungen an den Dateien erforderlich sind, bevor Sie die Zusammenführung abzeichnen. Wenn ein PA-Prüfer Ihre Pull-Anfrage überprüft hat, kann dieser auch Feedback über Kommentare geben, wenn vor der Zusammenführung Probleme/Fragen bestehen.
 
 Wenn die Pull-Anfrage problemlos und abgezeichnet ist, werden Ihre Änderungen in der übergeordneten Verzweigung zusammengeführt und die Pull-Anfrage wird geschlossen.
 

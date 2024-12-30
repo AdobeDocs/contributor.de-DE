@@ -56,7 +56,7 @@ Wenn Sie detaillierteres Feedback geben möchten, können Sie kleine Fehler und 
 
    Sie müssen nur einmal eine Adobe-Lizenzvereinbarung für Mitarbeiter übermitteln.
 
-1. Klicken Sie im Feedback-Bereich, der unten im Artikel angezeigt wird, auf **[!UICONTROL Detaillierte Feedback-Optionen]** und klicken Sie dann auf **[!UICONTROL Bearbeiten vorschlagen]** , um zur Markdown-Quelldatei auf GitHub zu wechseln.
+1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detaillierte Feedback-Optionen]** und klicken Sie dann auf **[!UICONTROL Bearbeitung vorschlagen]** um zur Markdown-Quelldatei auf GitHub zu gelangen.
 
    ![Bearbeiten Sie das Symbol für diese Seite](/help/assets/feedback-suggest-edit.png)
 
@@ -74,7 +74,7 @@ Wenn Sie detaillierteres Feedback geben möchten, können Sie kleine Fehler und 
 
 1. Nachdem Sie Ihre Änderungen vorgenommen haben, scrollen Sie zum Ende der Seite.
 
-   Geben Sie einen Titel und eine Beschreibung für Ihre PA ein und klicken Sie dann auf **[!UICONTROL Änderung der Propose file]** , wie in der folgenden Abbildung dargestellt:
+   Geben Sie einen Titel und eine Beschreibung für Ihren Pull Request ein und klicken Sie dann **[!UICONTROL Dateiänderung vorschlagen]** wie in der folgenden Abbildung dargestellt:
 
    ![Vorschlagen von Änderungen](assets/submit-pull-request.png)
 
@@ -86,9 +86,9 @@ Und das war&#39;s auch schon. Die Mitglieder des Dokumentations-Teams werden Ihr
 
 ## Melden eines Problems
 
-Eine weitere einfache Möglichkeit, uns über ein Problem mit einem Inhaltselement zu informieren, besteht darin, **[!UICONTROL Ein Problem melden]** zu verwenden.
+Eine weitere einfache Möglichkeit, uns auf ein Problem mit einem Inhalt hinzuweisen, ist die Verwendung von **[!UICONTROL Problem melden]**.
 
-1. Klicken Sie im Feedback-Bereich, der unten im Artikel angezeigt wird, auf **[!UICONTROL Detaillierte Feedback-Optionen]** und klicken Sie dann auf **[!UICONTROL Ein Problem melden]** , um zur Markdown-Quelldatei auf GitHub zu wechseln.
+1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detaillierte Feedback-Optionen]** und klicken Sie dann auf **[!UICONTROL Problem melden]** um zur Markdown-Quelldatei auf GitHub zu gelangen.
 
    ![Melden eines Problems](assets/feedback-report-issue.png)
 

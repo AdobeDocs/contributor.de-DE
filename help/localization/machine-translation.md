@@ -5,7 +5,7 @@ exl-id: 6ba93c9f-15c3-47ba-aa41-d226f5d4e435
 source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
 workflow-type: tm+mt
 source-wordcount: '817'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -33,7 +33,7 @@ Die Produktdokumentation von Adobe Experience Cloud ist in den meisten Sprachen 
 
    ![Übersetzungsnachricht](assets/machine-translation-message.png)
 
-   Der Inhalt wird möglicherweise automatisch in Ihre Sprache übersetzt angezeigt. Alternativ können Sie auf einen Link klicken, um den Inhalt automatisch übersetzen zu lassen. (Dieses Szenario kann eintreten, wenn Sie auf den Hyperlink geklickt haben, um von der übersetzten Seite zur englischen Quelle zurückzukehren. Danach können Sie die bei Bedarf wieder durch Anklicken eines Links die übersetzte Seite anzeigen.) Sie können jederzeit zur englischen Quelle zurückkehren.
+   Der Inhalt wird möglicherweise automatisch in Ihre Sprache übersetzt angezeigt. Alternativ können Sie auf einen Link klicken, um den Inhalt automatisch übersetzen zu lassen. (Dieses Szenario kann eintreten, wenn Sie auf den Hyperlink geklickt haben, um von der übersetzten Seite zur englischen Quelle zurückzukehren. Sie haben die Möglichkeit, die übersetzte Seite bei Bedarf anzuzeigen.) Sie können jederzeit zur englischen Quelle zurückkehren.
 
    Gelegentlich kann es sein, dass der englische Ausgangstext kurz zuvor schon aktualisiert und veröffentlicht wurde, bevor die Übersetzungen abgeschlossen wurden. Wenn Sie im Dropdown-Menü auf Ihre Sprache klicken, erhalten Sie in der hellblauen horizontalen Leiste oben auf der Seite die Benachrichtigung, dass die Seite automatisch aus der vorherigen Version übersetzt wurde und demnächst aktualisierte Inhalte verfügbar sind. Sie haben die Möglichkeit, die neuesten englischen Quellinhalte in einem neuen Browser-Fenster anzuzeigen, wenn Sie dies wünschen.
 

@@ -28,7 +28,7 @@ Um zur Adobe-Dokumentation beizutragen, können Sie das entsprechende Repository
 
 ## Repository bestimmen
 
-Sie spalten das entsprechende Repository in Ihr eigenes GitHub-Konto ab, um dafür Lese-/Schreibberechtigungen zu erhalten und Ihre vorgeschlagenen Änderungen speichern zu können. Die Dokumentation zu [!UICONTROL Adobe Experience Cloud] befindet sich in verschiedenen Repositorys unter [github.com](https://www.github.com/adobedocs).
+Sie spalten das entsprechende Repository in Ihr eigenes GitHub-Konto ab, um dafür Lese-/Schreibberechtigungen zu erhalten und Ihre vorgeschlagenen Änderungen speichern zu können. Die [!UICONTROL Adobe Experience Cloud]-Dokumentation befindet sich in mehreren Repositorys unter &quot;[.com](https://www.github.com/adobedocs).
 
 1. Wenn Sie sich nicht sicher sind, welches Repository zu verwenden ist, rufen Sie den Artikel mit Ihrem Webbrowser auf. Wählen Sie rechts oben im Artikel den Link **Bearbeiten** (Stiftsymbol). (Wenn Sie keinen Link zum Bearbeiten sehen, ist dieser Inhalt in GitHub noch nicht verfügbar.)
 
