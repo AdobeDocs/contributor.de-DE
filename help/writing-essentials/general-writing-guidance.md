@@ -84,7 +84,7 @@ Das Schreiben eines Vorgangs (die _Aufgabe_ Content-Typ) ist kein Talent, das un
 **Anleitungen für Schritte**
 
 * Ein Vorgang ist eine Reihe von Schritten. Ein Schritt ist ein kurzer, nummerierter, aus _einem Satz_ bestehender Befehl.
-* Beginnen Sie jeden Schritt entweder mit einem Verb oder einem _erweiterten_ Infinitivsatz (zur Orientierung des Lesers in Richtung des Ziels, Beispiel: _Um angemeldet zu bleiben, aktivieren Sie **Angemeldet bleiben**_). Wenn ein Schritt innerhalb des gesamten Vorgangs ein bestimmtes Ziel hat, nennen Sie das Ziel vor der Aktion.
+* Beginnen Sie jeden Schritt entweder mit einem Verb oder einem _erweiterten_ Infinitivsatz (zur Orientierung des Lesers in Richtung des Ziels, Beispiel: _Um angemeldet zu bleiben, aktivieren Sie **Angemeldet bleiben**&#x200B;_). Wenn ein Schritt innerhalb des gesamten Vorgangs ein bestimmtes Ziel hat, nennen Sie das Ziel vor der Aktion.
 * Wenn Sie Informationen über den Schritt haben (einen Content-Typ namens _Schrittinfo_), fügen Sie sie nach dem Schritt (eingerückt mit dem Schritt) oder nach dem Asset (ein Screenshot, Video oder eine Liste mit Schnittstellenbeschreibungen) ein.
 * Wenn Ihr Schritt zwei Aktionen hat (z. B. _Wählen Sie dies und dann das aus_), schreiben Sie dies in einem einzigen, kurzen Satz.
 * Begrenzen Sie Ihre Aufgabe auf etwa sieben bis zehn Schritte. Wenn Sie mehr als zehn Schritte in einer Aufgabe erstellen, müssen Sie sie wahrscheinlich in zwei Aufgaben unterteilen. Entscheiden Sie hier nach eigenem Ermessen.
