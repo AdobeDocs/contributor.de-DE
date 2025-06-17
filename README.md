@@ -1,5 +1,5 @@
 ---
-source-git-commit: 2b359dd199979fbba8c0491490d9d071b0e5db50
+source-git-commit: 540aa4213e4fe4cb15d065262d88095c977b7b5f
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 99%
@@ -14,7 +14,6 @@ Wir freuen uns über Inhaltsbeiträge unserer Community und von Adobe-Mitarbeite
 Für dieses Projekt gilt der [Adobe Open Source-Verhaltenskodex](code-of-conduct.md) oder der [.NET Foundation-Verhaltenskodex](https://dotnetfoundation.org/code-of-conduct). Weitere Informationen finden Sie im Artikel [Beitragen](contributing.md).
 
 ## Informationen zu Ihren Beiträgen zu den Adobe-Inhalten
-
 
 Lesen Sie das [Adobe Docs-Mitarbeiter-Handbuch](https://docs.adobe.com/help/de-DE/contributor/contributor-guide/introduction.html).
 
