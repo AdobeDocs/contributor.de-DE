@@ -3,10 +3,10 @@ lastModified: 2018-06-28T00:00:00Z
 title: Authoring-Stilrichtlinien für externe Mitwirkende
 description: Erfahren Sie mehr über Authoring- und redaktionelle Richtlinien für externe Experience League-Mitwirkende.
 exl-id: 874f88d7-18ad-4ac8-bfa3-737255652bbc
-source-git-commit: 03d46c9ffb664824f9526f781d776069d486f271
+source-git-commit: 9b3e4e2a7a007d4e417a5bf156d2290ea60b64ec
 workflow-type: tm+mt
 source-wordcount: '2203'
-ht-degree: 99%
+ht-degree: 97%
 
 ---
 
@@ -30,7 +30,7 @@ Beachten Sie beim Schreiben der Dokumentation Folgendes.
 
 ## Best Practices für das technische Schreiben {#writing-tips}
 
-Technisches Schreiben, insbesondere für die Software-Dokumentation, ist ein spezielles Fachgebiet. Sogar der produktivste Romanautor wird beim Versuch des technischen Schreibens nervös – nicht weil die Materie komplex oder technisch ist, sondern weil es nicht leicht ist, komplexe, technische Informationen _einfach_ darzustellen. Um erfolgreich zu sein, muss der Inhalt strukturell konsistent, überschaubar und wiederverwendbar sein und ohne Struktur- und Syntaxfehler durch die Veröffentlichungs-Pipeline fließen.
+Technisches Schreiben, insbesondere für die Software-Dokumentation, ist ein spezielles Fachgebiet. Sogar der produktivste Romanautor wird beim Versuch des technischen Schreibens nervös – nicht weil die Materie komplex oder technisch ist, sondern weil es nicht leicht ist, komplexe, technische Informationen *einfach* darzustellen. Um erfolgreich zu sein, muss der Inhalt strukturell konsistent, überschaubar und wiederverwendbar sein und ohne Struktur- und Syntaxfehler durch die Veröffentlichungs-Pipeline fließen.
 
 In den folgenden Abschnitten werden häufig auftretende Probleme beschrieben, auf die neue Autoren achten müssen:
 
@@ -38,17 +38,17 @@ In den folgenden Abschnitten werden häufig auftretende Probleme beschrieben, au
 
 Fügen Sie bei zwei Überschriften, die nicht durch Text voneinander getrennt sind, fehlenden Text hinzu (um die zweite Themenüberschrift einzuführen). Sie können auch eine der Überschriften entfernen. Die zweite ist wahrscheinlich unnötig.
 
-Beispielweise erfült die Überschrift _Überblick_ hier keinen Zweck:
+Beispielweise erfült die Überschrift *Überblick* hier keinen Zweck:
 
 ![Doppelte Überschriften](assets/headings-double.png)
 
-* Auch wenn Ihre zweite Überschrift zufällig _Überblick_ lautet, ist sie wahrscheinlich unnötig. Die H1-Überschrift und der erste Absatz dienen als konzeptioneller Überblick über das Artikelthema.
+* Auch wenn Ihre zweite Überschrift zufällig *Überblick* lautet, ist sie wahrscheinlich unnötig. Die H1-Überschrift und der erste Absatz dienen als konzeptioneller Überblick über das Artikelthema.
 
-* Ähnlich gilt für SEO-Zwecke, dass eigenständige Überschriften wie _Überblick_ und _Einführung_ für sich selbst genommen nicht nützlich sind. Nennen Sie das Produkt oder die Funktion, die Sie vorstellen. (Beispiel: _Überblick über Fallout-Berichte_)
+* Ähnlich gilt für SEO-Zwecke, dass eigenständige Überschriften wie *Überblick* und *Einführung* für sich selbst genommen nicht nützlich sind. Nennen Sie das Produkt oder die Funktion, die Sie vorstellen. (Beispiel: *Überblick über Fallout-Berichte*)
 
 ### Inkonsistente Überschriften in Querverweisen {#maps}
 
-Verwenden Sie die Überschrift _Weitere Informationen_ für Querverweislisten (oder Karten). Beispiel:
+Verwenden Sie die Überschrift *Weitere Informationen* für Querverweislisten (oder Karten). Beispiel:
 
 ![Querverweisliste](assets/headings-more-info.png)
 
@@ -79,17 +79,17 @@ Es ist schwer, dem Hinzufügen von Anführungszeichen um ein Wort oder eine Wort
 
 ### Vorgänge {#steps}
 
-Das Schreiben eines Vorgangs (die _Aufgabe_ Content-Typ) ist kein Talent, das uns in die Wiege gelegt wurde. Die Erstellung eines lesbaren, verständlichen Vorgangs muss geübt werden.
+Das Schreiben eines Vorgangs (die *Aufgabe* Content-Typ) ist kein Talent, das uns in die Wiege gelegt wurde. Die Erstellung eines lesbaren, verständlichen Vorgangs muss geübt werden.
 
 **Anleitungen für Schritte**
 
-* Ein Vorgang ist eine Reihe von Schritten. Ein Schritt ist ein kurzer, nummerierter, aus _einem Satz_ bestehender Befehl.
-* Beginnen Sie jeden Schritt entweder mit einem Verb oder einem _erweiterten_ Infinitivsatz (zur Orientierung des Lesers in Richtung des Ziels, Beispiel: _Um angemeldet zu bleiben, aktivieren Sie **Angemeldet bleiben**&#x200B;_). Wenn ein Schritt innerhalb des gesamten Vorgangs ein bestimmtes Ziel hat, nennen Sie das Ziel vor der Aktion.
-* Wenn Sie Informationen über den Schritt haben (einen Content-Typ namens _Schrittinfo_), fügen Sie sie nach dem Schritt (eingerückt mit dem Schritt) oder nach dem Asset (ein Screenshot, Video oder eine Liste mit Schnittstellenbeschreibungen) ein.
-* Wenn Ihr Schritt zwei Aktionen hat (z. B. _Wählen Sie dies und dann das aus_), schreiben Sie dies in einem einzigen, kurzen Satz.
+* Ein Vorgang ist eine Reihe von Schritten. Ein Schritt ist ein kurzer, nummerierter, aus *einem Satz* bestehender Befehl.
+* Beginnen Sie jeden Schritt entweder mit einem Verb oder einem *erweiterten* Infinitivsatz (zur Orientierung des Lesers in Richtung des Ziels, Beispiel: *Um angemeldet zu bleiben, aktivieren Sie **Angemeldet bleiben***). Wenn ein Schritt innerhalb des gesamten Vorgangs ein bestimmtes Ziel hat, nennen Sie das Ziel vor der Aktion.
+* Wenn Sie Informationen über den Schritt haben (einen Content-Typ namens *Schrittinfo*), fügen Sie sie nach dem Schritt (eingerückt mit dem Schritt) oder nach dem Asset (ein Screenshot, Video oder eine Liste mit Schnittstellenbeschreibungen) ein.
+* Wenn Ihr Schritt zwei Aktionen hat (z. B. *Wählen Sie dies und dann das aus*), schreiben Sie dies in einem einzigen, kurzen Satz.
 * Begrenzen Sie Ihre Aufgabe auf etwa sieben bis zehn Schritte. Wenn Sie mehr als zehn Schritte in einer Aufgabe erstellen, müssen Sie sie wahrscheinlich in zwei Aufgaben unterteilen. Entscheiden Sie hier nach eigenem Ermessen.
 * Verwenden Sie in der Produktdokumentation keine Überschriften als Schritte. (Ausnahme unten für Tutorials.)
-* Bei mehrseitigen Tutorials können Überschriften als Schritte zulässig sein. Nummerieren Sie sie jedoch nicht. Schreiben Sie stattdessen _Schritt 1:_, _Schritt 2:_ usw.
+* Bei mehrseitigen Tutorials können Überschriften als Schritte zulässig sein. Nummerieren Sie sie jedoch nicht. Schreiben Sie stattdessen *Schritt 1:*, *Schritt 2:* usw.
 
 **Beispielvorgang**
 
@@ -120,29 +120,29 @@ Das vorherige Inhaltsverzeichnis ist aus folgenden Gründen ein gutes Beispiel:
 
 ## Metadaten zu Titel und Beschreibung {#metadata}
 
-Metadaten zu _Titel_ und _Beschreibung_ sind wichtig für SEO, das Auffinden von Inhalten und die Qualitätsbewertung von Inhalten bei Experience League.
+Metadaten zu *Titel* und *Beschreibung* sind wichtig für SEO, das Auffinden von Inhalten und die Qualitätsbewertung von Inhalten bei Experience League.
 
 Im Folgenden finden Sie Beispiele für Titel und Beschreibungen:
 
 **Beschreibungen für Konzeptartikel**
 
-* _Erfahren Sie mehr über Segmente in Adobe Analytics. Hier erhalten Sie Hilfe zum Konfigurieren des Bedienfelds „Segmentierung“ in einem Arbeitsbereich._
-* _Hier erhalten Sie Hilfe zur Verwendung von Segmenten in einem Seitenansichtsbericht in Adobe Analytics._
+* *Erfahren Sie mehr über Segmente in Adobe Analytics. Hier erhalten Sie Hilfe zum Konfigurieren des Bedienfelds „Segmentierung“ in einem Arbeitsbereich.*
+* *Hier erhalten Sie Hilfe zur Verwendung von Segmenten in einem Seitenansichtsbericht in Adobe Analytics.*
 
 **Beschreibungen für Artikel zu Vorgängen/Aufgaben**
 
-* _Erfahren Sie, wie Sie ein Segment in Adobe Analytics erstellen._
-* _Erstellen Sie ein Segment in Adobe Analytics. Erfahren Sie, wie Sie einen Bericht basierend auf dem erstellten Segment auswählen, konfigurieren und ausführen._
+* *Erfahren Sie, wie Sie ein Segment in Adobe Analytics erstellen.*
+* *Erstellen Sie ein Segment in Adobe Analytics. Erfahren Sie, wie Sie einen Bericht basierend auf dem erstellten Segment auswählen, konfigurieren und ausführen.*
 
 Welche Beschreibung Sie verwenden, hängt von der Größe und dem Umfang des Artikels ab.
 
 **Titel für Konzeptartikel**
 
-* _Segmente in Seitenansichtsberichten_
+* *Segmente in Seitenansichtsberichten*
 
 **Titel für Artikel zu Vorgängen/Aufgaben**
 
-* _Erstellen eines Segments für Seitenansichtsberichte_
+* *Erstellen eines Segments für Seitenansichtsberichte*
 
 (Denken Sie daran, dass Pipe- und Produktname automatisch zu den Titeln hinzugefügt werden.)
 
@@ -157,12 +157,10 @@ Im Folgenden finden Sie einfache Möglichkeiten für eine bessere inhaltliche Ge
 | Schwache, unnötige Adverbien vermeiden | *Sehr*, *extrem*, *unglaublich* … <p>Adverben sind zusätzliche Wörter, die keine wichtige Bedeutung hinzufügen, wenn Sie aussagekräftige und genaue Verben, Sätze und Adjektive verwenden. |
 | Aussagekräftige Verben für Titel und [Inhaltsverzeichniseinträge](#using-toc) verwenden | Beispiele:<p>**Schwach:** *Eigenschaftenerstellung und -verwaltung* <p>**Stark:** *Erstellen und Verwalten von Eigenschaften* |
 | Auf [Groß- und Kleinschreibung](https://docs.microsoft.com/de-de/style-guide/capitalization) achten | Achten Sie auf die Groß- und Kleinschreibung. Folgen Sie in Überschriften den deutschen Rechtschreibregeln. So werden Substantive und das erste Wort nach einem Punkt selbstverständlich großgeschrieben. Folgen Sie bei Vorgängen der in der Benutzeroberfläche verwendeten Schreibweise. |
-| Befogen Sie diese kleinen Tipps für mehr Klarheit | <ul><li>Vermeiden Sie *unter Verwendung von* (umständlich mit keiner zusätzlichen Bedeutung). Meistens reicht ein einfaches *mit*.</li><li>Vermeiden Sie das Wort *benutzen.* Es ist zu umgangssprachlich. Verwenden Sie besser die Verben *verwenden* oder je nach Kontext *nutzen*.</li><li>Vermeiden Sie Semikolons. Setzen Sie stattdessen einen Punkt und beginnen Sie einen neuen Satz. Semikolons führen zu unnötiger Komplexität.</li><li>Doppelpunkt: Verwenden Sie Doppelpunkte, um eine Liste einzuleiten. Gehen Sie innerhalb von Sätzen sparsam mit Doppelpunkten um. Folgt nach dem Doppelpunkt ein ganzer Satz, muss das erste Wort großgeschrieben werden.</li><li>Verwenden Sie kein Komma vor „und“ oder „oder“ in Aufzählungen.</li><li>Achten Sie auf eine Satzlänge von weniger als 39 Wörtern.</li><li>Navigation: Verwenden Sie _Gehen Sie zu_ oder _Navigieren Sie zu_.</li><li>Vermeiden Sie Rohdaten-URL-Text (verwenden Sie stattdessen einen benutzerfreundlichen Link-Text), es sei denn, die Anzeige des Pfads ist mit wichtigen Informationen verbunden.</li></ul> |
+| Befogen Sie diese kleinen Tipps für mehr Klarheit | <ul><li>Vermeiden Sie *unter Verwendung von* (umständlich mit keiner zusätzlichen Bedeutung). Meistens reicht ein einfaches *mit*.</li><li>Vermeiden Sie das Wort *benutzen.* Es ist zu umgangssprachlich. Verwenden Sie besser die Verben *verwenden* oder je nach Kontext *nutzen*.</li><li>Vermeiden Sie Semikolons. Setzen Sie stattdessen einen Punkt und beginnen Sie einen neuen Satz. Semikolons führen zu unnötiger Komplexität.</li><li>Doppelpunkt: Verwenden Sie Doppelpunkte, um eine Liste einzuleiten. Gehen Sie innerhalb von Sätzen sparsam mit Doppelpunkten um. Folgt nach dem Doppelpunkt ein ganzer Satz, muss das erste Wort großgeschrieben werden.</li><li>Verwenden Sie kein Komma vor „und“ oder „oder“ in Aufzählungen.</li><li>Achten Sie auf eine Satzlänge von weniger als 39 Wörtern.</li><li>Navigation: Verwenden Sie *Gehen Sie zu* oder *Navigieren Sie zu*.</li><li>Vermeiden Sie Rohdaten-URL-Text (verwenden Sie stattdessen einen benutzerfreundlichen Link-Text), es sei denn, die Anzeige des Pfads ist mit wichtigen Informationen verbunden.</li></ul> |
 | Rechtschreibprüfung in VSC verwenden | Installieren Sie die Code-Rechtschreibprüfung (Erweiterung) in Visual Studio Code. |
-| Ändern Sie _Klicken_ in _Navigieren Sie zu_ oder _Wählen Sie ... aus_ | _Klicken_ ist ein gerätespezifisches Wort (mit Problemen in Bezug auf die Barrierefreiheit), und der Trend besteht darin, von diesem abzurücken. Im Folgenden finden Sie Vorschläge zur Änderung:<ul><li>Navigation: _Gehen Sie zu Datei > Drucken_.</li><li>Klicken: _Wählen Sie „Datei“ > „Drucken“_ oder _Wählen Sie „OK“_. </li></ul>Weitere Ideen für die beste Wortwahl in verschiedenen Situationen finden Sie unter [Beschreibung von Interaktionen mit der Benutzeroberfläche](https://docs.microsoft.com/de-de/style-guide/procedures-instructions/describing-interactions-with-ui). |
+| Ändern Sie *Klicken* in *Navigieren Sie zu* oder *Wählen Sie ... aus* | *Klicken* ist ein gerätespezifisches Wort (mit Problemen in Bezug auf die Barrierefreiheit), und der Trend besteht darin, von diesem abzurücken. Im Folgenden finden Sie Vorschläge zur Änderung:<ul><li>Navigation: *Gehen Sie zu Datei > Drucken*.</li><li>Klicken: *Wählen Sie „Datei“ > „Drucken“* oder *Wählen Sie „OK“*. </li></ul>Weitere Ideen für die beste Wortwahl in verschiedenen Situationen finden Sie unter [Beschreibung von Interaktionen mit der Benutzeroberfläche](https://docs.microsoft.com/de-de/style-guide/procedures-instructions/describing-interactions-with-ui). |
 | Ausführen von Acrolinx in VSC | Acrolinx sucht nach Stil- und Grammatikproblemen. Er überprüft URLs, Terminologie, Rechtschreibung und mehr. Es hilft Ihnen, sich klarer auszudrücken und verbessert die Übersetzung von Experience League-Inhalten. |
-
-{style="table-layout:auto"}
 
 Ein paar weitere bewährte Verfahren und Ressourcen:
 
@@ -188,7 +186,7 @@ Sie müssen sich keine Gedanken darüber machen, ob Ihr Produkt lokalisiert ist 
 
 * `DNL`
 
-  DNL bedeutet _nicht lokalisieren_. Sie verwenden es nur für markenrechtlich geschützte Adobe-Produktnamen, die alle in englischer Sprache bleiben müssen.
+  DNL bedeutet *nicht lokalisieren*. Sie verwenden es nur für markenrechtlich geschützte Adobe-Produktnamen, die alle in englischer Sprache bleiben müssen.
 
   Syntaxbeispiele: `[!DNL Adobe Campaign]` oder `[!DNL Workfront]`
 
@@ -206,7 +204,7 @@ Sie müssen sich keine Gedanken darüber machen, ob Ihr Produkt lokalisiert ist 
 
 ### Verwenden von Adobe in Produktnamen {#product-names}
 
-Für die Unternehmensidentität fügen wir in der Regel _Adobe_ bei der ersten Erwähnung eines Produkts auf der Ebene des Handbuchs ein. Aus Platzgründen können Sie „Adobe“ in der Überschrift weglassen, aber dann sollte die erste Erwähnung im Text den vollständigen Namen enthalten. Bestimmte Produkte, wie _Adobe Audition_ und _Adobe Premiere Pro_, erfordern die Verwendung von „Adobe“ bei der ersten oder markantesten Erwähnung in jedem Begleitmaterial, da es Teil des legalen, markengeschützten Namens ist.
+Für die Unternehmensidentität fügen wir in der Regel *Adobe* bei der ersten Erwähnung eines Produkts auf der Ebene des Handbuchs ein. Aus Platzgründen können Sie „Adobe“ in der Überschrift weglassen, aber dann sollte die erste Erwähnung im Text den vollständigen Namen enthalten. Bestimmte Produkte, wie *Adobe Audition* und *Adobe Premiere Pro*, erfordern die Verwendung von „Adobe“ bei der ersten oder markantesten Erwähnung in jedem Begleitmaterial, da es Teil des legalen, markengeschützten Namens ist.
 
 ## Erste Absätze {#firstparas}
 
@@ -214,17 +212,17 @@ Ihr erster Absatz sollte das Thema definieren und beschreiben, was der Leser dur
 
 Beispiel für ersten Absatz (Konzept):
 
-_Zielgruppen sind Sammlungen von Besuchern (eine Liste von Besucher-IDs). Der Zielgruppen-Service von Adobe verwaltet die Übersetzung von Besucherdaten in Zielgruppensegmentierung. Auf diese Weise erfolgt das Erstellen und Verwalten von Zielgruppen so ähnlich wie das Erstellen und Verwalten von Segmenten, mit dem zusätzlichen Vorteil, dass die Zielgruppensegmente für Experience Cloud freigegeben werden können._
+*Zielgruppen sind Sammlungen von Besuchern (eine Liste von Besucher-IDs). Der Zielgruppen-Service von Adobe verwaltet die Übersetzung von Besucherdaten in Zielgruppensegmentierung. Auf diese Weise erfolgt das Erstellen und Verwalten von Zielgruppen so ähnlich wie das Erstellen und Verwalten von Segmenten, mit dem zusätzlichen Vorteil, dass die Zielgruppensegmente für Experience Cloud freigegeben werden können.*
 
 Beispiel für ersten Absatz (Aufgabe):
 
-_Erstellen Sie die Kundenattributquelle (CSV- und FIN-Dateien) und laden Sie die Daten hoch. Sobald Sie dazu bereit sind, aktivieren Sie die Datenquelle. Nachdem die Datenquelle aktiv ist, geben Sie die Attributdaten für Analytics und Target frei._
+*Erstellen Sie die Kundenattributquelle (CSV- und FIN-Dateien) und laden Sie die Daten hoch. Sobald Sie dazu bereit sind, aktivieren Sie die Datenquelle. Nachdem die Datenquelle aktiv ist, geben Sie die Attributdaten für Analytics und Target frei.*
 
 ### SEO-Tipps für erste Absätze {#seo}
 
 * Nehmen Sie Suchbegriffe in erste Absätze auf.
 * Verwenden Sie Begriffe, die Leser verwenden.
-* Geben Sie Synonyme und, falls erforderlich, die frühere Verwendung von Begriffen an. Zum Beispiel: „Der Experience Cloud ID Service (ECID), früher bekannt als _Besucher-ID_ oder als Akronyme wie MID, MCVID, bietet eine universelle, dauerhafte ID, die Besucher identifiziert.“
+* Geben Sie Synonyme und, falls erforderlich, die frühere Verwendung von Begriffen an. Zum Beispiel: „Der Experience Cloud ID Service (ECID), früher bekannt als *Besucher-ID* oder als Akronyme wie MID, MCVID, bietet eine universelle, dauerhafte ID, die Besucher identifiziert.“
 * Schließen Sie SEO-Begriffe in Links ein.
 * Vermeiden Sie es, wichtige Begriffe in komplexen Tabellen zu platzieren. Komplexe Tabellen liefern keine zuverlässigen Suchergebnisse. Text in Bildern wird nicht durchsucht, aber Untertitel.
 
