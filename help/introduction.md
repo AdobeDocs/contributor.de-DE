@@ -4,10 +4,10 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Dokumentations-Website von Adobe hinzufügen können.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 2721a71924c46e1536394625c945bdd791e8ac70
+source-git-commit: 355ed3b7e1873272dd4c0626b51a48f37a026680
 workflow-type: tm+mt
 source-wordcount: '927'
-ht-degree: 88%
+ht-degree: 82%
 
 ---
 
@@ -25,9 +25,9 @@ Dieses Open-Source-Modell verbessert die Qualität der Inhalte und die Kommunika
 
 Benutzende dieses Materials haben – unabhängig davon, ob sie Beschäftigte, Partner bzw. Partnerinnen oder (potenzielle) Kunden bzw. Kundinnen sind – die Möglichkeit, auf verschiedene einfache Weisen zu dieser Dokumentation beizutragen.
 
-* Bewerten Sie, wie hilfreich die Seite ist, ❶ und schreiben Sie optional einen Kommentar ❷
-* Melden Sie ein Problem mit einer bestimmten Seite (Git-Anmeldung erforderlich) ❸
-* Reichen Sie eine schnelle Bearbeitung bis hin zum Verfassen ganzer Artikel ein, komplett mit Assets und Code-Beispielen (Git-Anmeldung erforderlich) ❹
+* Bewerten Sie die Nützlichkeit der ❶ und schreiben Sie einen optionalen Kommentar ❷
+* Melden eines Problems mit einer bestimmten Seite (Git-Anmeldung erforderlich) ❸
+* Einreichen einer schnellen Bearbeitung bis zum Verfassen ganzer Artikel, komplett mit Assets und Code-Beispielen (Git-Anmeldung erforderlich) ❹
 
 ![Feedback](assets/feedback-options.png)
 
@@ -118,4 +118,4 @@ Die Bearbeitung im Browser eignet sich am besten für geringfügige oder selten 
 
 Bei einer Lösung, die so groß wie die von Adobe ist, wird die Dokumentation ständig bearbeitet. Wenn Sie Fehler finden, protokollieren Sie ein Problem, und wenn Sie Vorschläge zu Material haben, teilen Sie uns dies mit. Teilen Sie uns mit, wonach Sie gesucht haben. Lassen Sie uns wissen, wenn Sie nicht finden konnten, was Sie benötigen, oder wenn Sie Schwierigkeiten hatten, Ihre Aufgabe abzuschließen. Teilen Sie uns mit, wie wir Ihnen beim Erlernen unserer Lösungen helfen können.
 
-Das Team für kollaborative Dokumentation bedankt sich herzlich bei allen Autorinnen und Autoren und Inhaltsproduzierenden in Experience League.
+Vielen Dank vom Team für kollaborative Dokumentation und allen Autorinnen und Autoren sowie Inhaltsproduzenten in Experience League. Wir danken Ihnen für Ihre Hilfe.
