@@ -4,10 +4,10 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Dokumentations-Website von Adobe hinzufügen können.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 355ed3b7e1873272dd4c0626b51a48f37a026680
+source-git-commit: 077555cf4e2c5559f19b8e38ba140ecdad9e5c29
 workflow-type: tm+mt
-source-wordcount: '927'
-ht-degree: 82%
+source-wordcount: '906'
+ht-degree: 93%
 
 ---
 
@@ -56,7 +56,7 @@ Wenn Sie detaillierteres Feedback geben möchten, können Sie kleine Fehler und 
 
    Sie müssen nur einmal eine Adobe-Lizenzvereinbarung für Mitarbeiter übermitteln.
 
-1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detaillierte Feedback-Optionen]** und klicken Sie dann auf **[!UICONTROL Bearbeitung vorschlagen]** um zur Markdown-Quelldatei auf GitHub zu gelangen.
+1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detailed feedback options]** und anschließend auf **[!UICONTROL Suggest an edit]**, um zur Markdown-Quelldatei auf GitHub zu wechseln.
 
    ![Bearbeiten Sie das Symbol für diese Seite](/help/assets/feedback-suggest-edit.png)
 
@@ -74,21 +74,21 @@ Wenn Sie detaillierteres Feedback geben möchten, können Sie kleine Fehler und 
 
 1. Nachdem Sie Ihre Änderungen vorgenommen haben, scrollen Sie zum Ende der Seite.
 
-   Geben Sie einen Titel und eine Beschreibung für Ihren Pull Request ein und klicken Sie dann **[!UICONTROL Dateiänderung vorschlagen]** wie in der folgenden Abbildung dargestellt:
+   Geben Sie einen Titel und eine Beschreibung für Ihren Pull Request ein und klicken Sie dann auf **[!UICONTROL Propose file change]**, wie in der folgenden Abbildung dargestellt:
 
    ![Vorschlagen von Änderungen](assets/submit-pull-request.png)
 
    >[!NOTE]
    >
-   >Wenn Sie eine Validierungsfehlermeldung zum Unterschreiben einer Lizenzvereinbarung für Mitarbeiter (CLA) erhalten, klicken Sie auf **[!UICONTROL Details]**, um die Lizenzvereinbarung zu öffnen. Unterschreiben Sie die Vereinbarung, falls akzeptabel. Schließen und öffnen Sie dann die Pull-Anfrage und fahren Sie fort.
+   >Wenn Sie eine Validierungsfehlermeldung erhalten, in der Sie zum Unterschreiben einer Lizenzvereinbarung für Mitwirkende (Contributor License Agreement, CLA) aufgefordert werden, klicken Sie auf **[!UICONTROL Details]**, um die Lizenzvereinbarung zu öffnen. Unterschreiben Sie die Vereinbarung, falls akzeptabel. Schließen und öffnen Sie dann die Pull-Anfrage und fahren Sie fort.
 
 Und das war&#39;s auch schon. Die Mitglieder des Dokumentations-Teams werden Ihre Pull-Anfrage überprüfen und zusammenführen. Vielen Dank!
 
 ## Melden eines Problems
 
-Eine weitere einfache Möglichkeit, uns auf ein Problem mit einem Inhalt hinzuweisen, ist die Verwendung von **[!UICONTROL Problem melden]**.
+Eine weitere einfache Möglichkeit, uns auf ein Problem mit einem Inhalt hinzuweisen, ist die Verwendung von **[!UICONTROL Report an issue]**.
 
-1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detaillierte Feedback-Optionen]** und klicken Sie dann auf **[!UICONTROL Problem melden]** um zur Markdown-Quelldatei auf GitHub zu gelangen.
+1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detailed feedback options]** und anschließend auf **[!UICONTROL Report an issue]**, um zur Markdown-Quelldatei auf GitHub zu wechseln.
 
    ![Melden eines Problems](assets/feedback-report-issue.png)
 
@@ -118,4 +118,4 @@ Die Bearbeitung im Browser eignet sich am besten für geringfügige oder selten 
 
 Bei einer Lösung, die so groß wie die von Adobe ist, wird die Dokumentation ständig bearbeitet. Wenn Sie Fehler finden, protokollieren Sie ein Problem, und wenn Sie Vorschläge zu Material haben, teilen Sie uns dies mit. Teilen Sie uns mit, wonach Sie gesucht haben. Lassen Sie uns wissen, wenn Sie nicht finden konnten, was Sie benötigen, oder wenn Sie Schwierigkeiten hatten, Ihre Aufgabe abzuschließen. Teilen Sie uns mit, wie wir Ihnen beim Erlernen unserer Lösungen helfen können.
 
-Vielen Dank vom Team für kollaborative Dokumentation und allen Autorinnen und Autoren sowie Inhaltsproduzenten in Experience League. Wir danken Ihnen für Ihre Hilfe.
+Vielen Dank vom Team für kollaborative Dokumentation und allen Autorinnen und Autoren sowie Inhaltsproduzenten in Experience League. Danke für deine Hilfe!
