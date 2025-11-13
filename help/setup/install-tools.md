@@ -2,9 +2,9 @@
 title: Bearbeitungswerkzeuge installieren
 description: Mithilfe dieses Artikels können Sie die Clientwerkzeuge herunterladen und installieren, die Sie für Git/GitHub und zum Bearbeiten von Markdown-Dateien benötigen.
 exl-id: 930185cf-fff5-485a-9824-70c32c55800d
-source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+source-git-commit: 2ea5ddf33ae857dd9a5a764cac1fde8dcc4bc7d4
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '319'
 ht-degree: 100%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 100%
 >
 >Wenn Sie nur geringfügige Änderungen an einem Artikel vornehmen, müssen Sie die Schritte in diesem Artikel *nicht* ausführen. Sie können Änderungen einfach in Ihrem Webbrowser vornehmen.
 >
->Für häufig arbeitende Mitarbeiter wird die Durchführung dieser Schritte empfohlen, die es Ihnen ermöglichen, den [Arbeitsablauf](local-repo.md) für umfangreiche Änderungen zu verwenden. Auch wenn Sie im Haupt-Repository über Schreibberechtigungen verfügen, empfehlen wir dringend (und in diesem Handbuch wird davon ausgegangen), dass Sie das Repository abspalten und klonen, sodass Sie über Lese-/Schreibberechtigungen verfügen, um Ihre vorgeschlagenen Änderungen in Ihrer Abspaltung zu speichern.
+>Für häufig arbeitende Mitarbeiter wird die Durchführung dieser Schritte empfohlen, die es Ihnen ermöglichen, den [Workflow](local-repo.md) für umfangreiche Änderungen zu verwenden. Auch wenn Sie im Haupt-Repository über Schreibberechtigungen verfügen, empfehlen wir dringend (und in diesem Handbuch wird davon ausgegangen), dass Sie das Repository abspalten und klonen, sodass Sie über Lese-/Schreibberechtigungen verfügen, um Ihre vorgeschlagenen Änderungen in Ihrer Abspaltung zu speichern.
 
 ## Git-Clientwerkzeuge installieren
 
@@ -27,7 +27,6 @@ Wenn Sie eine Befehlszeilenschnittstelle (CLI) einer grafischen Benutzeroberflä
 
 Git-Lernressourcen sind hier verfügbar:
 
-* [Git-Grundlagen](https://git-scm.com/book/de/v2/Getting-Started-Git-Basics)
 * [Umgang mit Git und GitHub erlernen](https://docs.github.com/de/github/getting-started-with-github/git-and-github-learning-resources)
 * [Git-Terminologie](https://docs.github.com/de/github/getting-started-with-github/github-glossary)
 
