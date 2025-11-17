@@ -33,5 +33,5 @@ ht-degree: 77%
    + [Verhaltenskodex](conduct/code-of-conduct.md)
    + [Beitragsübersicht](conduct/contributing.md)
 + Tests ignorieren {#testing}
-   + [Analytics mit ID](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/overview)
+   + [Analytics mit ID](https://experienceleague.adobe.com/de/docs/analytics/implementation/id/overview)
    + [Authentifizierungshandbuch](https://experienceleague.adobe.com/en/docs/authoring-guide/using/release-notes)
