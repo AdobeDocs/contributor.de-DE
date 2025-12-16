@@ -2,9 +2,9 @@
 title: Markdown zum Schreiben von Dokumentation verwenden
 description: Erfahren Sie mehr über die Grundlagen des Markdown-Authorings. Suchen Sie Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: fff920c9e98ca821a4180157174c2a2ee1b84cb8
+source-git-commit: 7a14bde440f011f94b9eded63512362146336a9d
 workflow-type: tm+mt
-source-wordcount: '1340'
+source-wordcount: '1333'
 ht-degree: 100%
 
 ---
@@ -146,7 +146,6 @@ Einfache Tabellen funktionieren in Markdown angemessen. Tabellen, die mehrere Ab
 Weitere Informationen zum Erstellen von Tabellen finden Sie unter:
 
 * GitHub – [Informationen mit Tabellen organisieren](https://docs.github.com/de/github/writing-on-github/organizing-information-with-tables)
-* Webapp [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 * [HTML-Tabellen in Markdown konvertieren](https://jmalarcon.github.io/markdowntables/)
 
 ### Links
@@ -290,7 +289,7 @@ Alle unsere Markdown-Hilfeinhalte werden zunächst durch maschinelle Übersetzun
 
 **``**
 
-Während der maschinellen Übersetzung werden Elemente, die mit ``-Tags versehen sind, für die entsprechende Übersetzung mit einer lokalen Anpassungsdatenbank abgeglichen. Für den Fall, dass die Benutzeroberfläche nicht lokalisiert ist, ermöglicht dieses Tag dem System, die Benutzeroberflächenreferenz in Englisch für die jeweilige Sprache zu belassen (z. B. Analytics-Referenzen in Italienisch).
+Während der maschinellen Übersetzung werden Elemente, die mit ``-Tags versehen sind, für die entsprechende Übersetzung mit einer lokalen Anpassungsdatenbank abgeglichen. Für den Fall, dass die Benutzeroberfläche nicht lokalisiert ist, ermöglicht dieses Tag dem System, die Benutzeroberflächenreferenz in Englisch für die jeweilige Sprache zu belassen (z. B. Analytics-Verweise in Italienisch).
 
 **Beispielquellinhalt:**
 
