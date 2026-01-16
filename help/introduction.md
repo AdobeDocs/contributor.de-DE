@@ -4,7 +4,7 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Dokumentations-Website von Adobe hinzufügen können.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 077555cf4e2c5559f19b8e38ba140ecdad9e5c29
+source-git-commit: f0552fbba1aac1b8ffd4116bd66f6c06afab0d39
 workflow-type: tm+mt
 source-wordcount: '906'
 ht-degree: 93%
@@ -119,3 +119,4 @@ Die Bearbeitung im Browser eignet sich am besten für geringfügige oder selten 
 Bei einer Lösung, die so groß wie die von Adobe ist, wird die Dokumentation ständig bearbeitet. Wenn Sie Fehler finden, protokollieren Sie ein Problem, und wenn Sie Vorschläge zu Material haben, teilen Sie uns dies mit. Teilen Sie uns mit, wonach Sie gesucht haben. Lassen Sie uns wissen, wenn Sie nicht finden konnten, was Sie benötigen, oder wenn Sie Schwierigkeiten hatten, Ihre Aufgabe abzuschließen. Teilen Sie uns mit, wie wir Ihnen beim Erlernen unserer Lösungen helfen können.
 
 Vielen Dank vom Team für kollaborative Dokumentation und allen Autorinnen und Autoren sowie Inhaltsproduzenten in Experience League. Danke für deine Hilfe!
+

@@ -5,7 +5,7 @@ cloud: Experience Cloud
 user-guide-title: Handbuch für Mitwirkende
 user-guide-description: Anleitungen für Mitwirkende an der Dokumentation zu Adobe
 index: true
-source-git-commit: 64268158ee78464e49ae3409255850015dd2b6e2
+source-git-commit: f0552fbba1aac1b8ffd4116bd66f6c06afab0d39
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 77%
@@ -15,7 +15,7 @@ ht-degree: 77%
 
 # Mitarbeiter-Handbuch für Adobe-Dokumentation{#contributor-guide}
 
-+ [Einführung](introduction.md)
++ [Einführung](/help/introduction.md)
 + GitHub einrichten {#setup}
    + [GitHub-Konto einrichten](setup/github-signup.md)
    + [Git- und Markdown-Bearbeitungswerkzeuge installieren](setup/install-tools.md)
@@ -33,5 +33,5 @@ ht-degree: 77%
    + [Verhaltenskodex](conduct/code-of-conduct.md)
    + [Beitragsübersicht](conduct/contributing.md)
 + Tests ignorieren {#testing}
-   + [Analytics mit IDs](https://experienceleague.adobe.com/de/docs/analytics/implementation/id/overview)
+   + [Analytics mit IDs](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/overview)
    + [Authentifizierungshandbuch](https://experienceleague.adobe.com/en/docs/authoring-guide/using/release-notes)
