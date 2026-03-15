@@ -2,10 +2,10 @@
 title: Git-Repository lokal einrichten
 description: Dieser Artikel enthält Anleitungen zum Erstellen Ihres lokalen Git-Repositorys und zum Beitrag zur Adobe-Dokumentation, einschließlich des Abspaltungs- und Klonvorgangs.
 exl-id: 679c07a2-030b-4a30-ba14-7780f88dae11
-source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+source-git-commit: df75e37ceec55476cc8b558e3bcccb474d329586
 workflow-type: tm+mt
-source-wordcount: '652'
-ht-degree: 98%
+source-wordcount: '656'
+ht-degree: 95%
 
 ---
 
@@ -28,13 +28,13 @@ Um zur Adobe-Dokumentation beizutragen, können Sie das entsprechende Repository
 
 ## Repository bestimmen
 
-Sie spalten das entsprechende Repository in Ihr eigenes GitHub-Konto ab, um dafür Lese-/Schreibberechtigungen zu erhalten und Ihre vorgeschlagenen Änderungen speichern zu können. Die [!UICONTROL Adobe Experience Cloud]-Dokumentation befindet sich in mehreren Repositorys unter &quot;[.com](https://www.github.com/adobedocs).
+Sie übergeben das entsprechende Repository in Ihr eigenes GitHub-Konto, damit Sie dort Lese-/Schreibberechtigungen zum Speichern Ihrer vorgeschlagenen Änderungen haben. [!UICONTROL Adobe Experience Cloud] Die Dokumentation befindet sich in mehreren Repositorys unter [github.com](https://www.github.com/adobedocs).
 
 1. Wenn Sie sich nicht sicher sind, welches Repository zu verwenden ist, rufen Sie den Artikel mit Ihrem Webbrowser auf. Wählen Sie rechts oben im Artikel den Link **Bearbeiten** (Stiftsymbol). (Wenn Sie keinen Link zum Bearbeiten sehen, ist dieser Inhalt in GitHub noch nicht verfügbar.)
 
 Um zur Adobe-Dokumentation beizutragen, können Sie Markdown-Dateien lokal erstellen und bearbeiten, indem Sie das entsprechende Dokumentations-Repository klonen. Danach verwenden Sie Pull-Anfragen zum Zusammenführen von Änderungen in das schreibgeschützte zentral freigegebene Repository.
 
-<!---
+<!--
 ![GitHub Triangle](/assets/git-and-github-initial-setup.png)
 
 If you're new to GitHub, watch the following video for a conceptual overview of the forking and cloning process:
