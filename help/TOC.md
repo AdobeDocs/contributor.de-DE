@@ -1,13 +1,12 @@
 ---
-git-repo: https://github.com/AdobeDocs/contributor.de-DE
+git-repo: https://github.com/AdobeDocs/contributor.en
 solution: Experience Cloud
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 cloud: Experience Cloud
 user-guide-title: Handbuch für Mitwirkende
 user-guide-description: Anleitungen für Mitwirkende an der Dokumentation zu Adobe
 index: true
-source-git-commit: 68728714de2ef9acf198b5ce14599e7b5ae647be
+source-git-commit: dad6d9b7633f6dea1786504c9e741c1aed5754a1
 workflow-type: tm+mt
 source-wordcount: 101
 ht-degree: 66%
@@ -35,5 +34,5 @@ ht-degree: 66%
    + [Verhaltenskodex](conduct/code-of-conduct.md)
    + [Beitragsübersicht](conduct/contributing.md)
 + Tests ignorieren {#testing}
-   + [Analytics mit IDs](https://experienceleague.adobe.com/de/docs/analytics/implementation/id/overview)
+   + [Analytics mit IDs](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/overview)
    + [Authentifizierungs-Handbuch](https://experienceleague.adobe.com/en/docs/authoring-guide/using/release-notes)
