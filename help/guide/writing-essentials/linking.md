@@ -25,7 +25,7 @@ Die Wörter, die Sie in den Linktext einschließen, sollten dem Titel der Seite 
 
 **Beispiele:**
 
-- `For more information, see the [overview article](https://github.com/AdobeDocs/target.en/help/overview.md).`
+- `For more information, see the [overview article](https://github.com/AdobeDocs/target.de-DE/help/overview.md).`
 
 - `For more details, see [Adobe Legal Concerns](https://www.adobe.com/legal).`
 
