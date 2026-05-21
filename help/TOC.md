@@ -1,5 +1,5 @@
 ---
-git-repo: https://github.com/AdobeDocs/contributor.en
+git-repo: https://github.com/AdobeDocs/contributor.de-DE
 solution: Experience Cloud
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
@@ -36,5 +36,5 @@ ht-degree: 66%
    + [Verhaltenskodex](conduct/code-of-conduct.md)
    + [Beitragsübersicht](conduct/contributing.md)
 + Tests ignorieren {#testing}
-   + [Analytics mit IDs](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/overview)
+   + [Analytics mit IDs](https://experienceleague.adobe.com/de/docs/analytics/implementation/id/overview)
    + [Authentifizierungs-Handbuch](https://experienceleague.adobe.com/en/docs/authoring-guide/using/release-notes)
