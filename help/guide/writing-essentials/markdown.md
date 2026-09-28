@@ -287,13 +287,13 @@ Angezeigt:
 
 Alle unsere Markdown-Hilfeinhalte werden zunächst durch maschinelle Übersetzung lokalisiert. Wenn die Hilfe noch nie lokalisiert wurde, behalten wir die maschinelle Übersetzung bei. Wenn der Hilfeinhalt jedoch in der Vergangenheit lokalisiert wurde, fungiert der maschinell übersetzte Inhalt als Platzhalter, während der Inhalt manuell übersetzt wird.
 
-**``**
+**&grave;&grave;**
 
-Während der maschinellen Übersetzung werden Elemente, die mit ``-Tags versehen sind, für die entsprechende Übersetzung mit einer lokalen Anpassungsdatenbank abgeglichen. Für den Fall, dass die Benutzeroberfläche nicht lokalisiert ist, ermöglicht dieses Tag dem System, die Benutzeroberflächenreferenz in Englisch für diese bestimmte Sprache zu belassen (d. h. Analytics-Verweise in Italienisch).
+Während der maschinellen Übersetzung werden Elemente, die mit &grave;&grave;-Tags versehen sind, für die entsprechende Übersetzung mit einer lokalen Anpassungsdatenbank abgeglichen. Für den Fall, dass die Benutzeroberfläche nicht lokalisiert ist, ermöglicht dieses Tag dem System, die Benutzeroberflächenreferenz in Englisch für diese bestimmte Sprache zu belassen (d. h. Analytics-Verweise in Italienisch).
 
 **Beispielquellinhalt:**
 
-![Beispiel-UICONTROL-Text](assets/sample-uicontrol.png)
+![[!UICONTROL Beispiel--Text]](assets/sample-uicontrol.png)
 
 <!--
 **Source:**
@@ -315,7 +315,7 @@ In der Regel wird eine „Nicht übersetzen“-Liste verwendet, um den maschinel
 
 **Beispielquellinhalt:**
 
-![Beispiel-DNL-Text](assets/sample-dnl.png)
+![[!DNL Beispiel--Text]](assets/sample-dnl.png)
 
 <!--
 **Source:**
