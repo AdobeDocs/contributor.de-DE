@@ -2,13 +2,11 @@
 title: Markdown zum Schreiben von Dokumentation verwenden
 description: Erfahren Sie mehr über die Grundlagen des Markdown-Authorings. Suchen Sie Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 6510db0d89ac9224df8a73ab50776e65068b7e08
+source-git-commit: 67075e2ca1ac4f63c0bdc30507dbb0444a922afd
 workflow-type: tm+mt
-source-wordcount: '1376'
-ht-degree: 93%
-
+source-wordcount: '1309'
+ht-degree: 92%
 ---
-
 # Markdown zum Schreiben von technischer Dokumentation verwenden
 
 Die technischen Adobe-Dokumentationsartikel werden in einer einfachen Markup-Sprache namens [Markdown](https://daringfireball.net/projects/markdown/) geschrieben, die einfach zu lesen und zu lernen ist.
@@ -184,7 +182,9 @@ Angezeigt:
 
 Markdown unterstützt die Platzierung von Codeblöcken sowohl in einem Satz als auch als separater „abgegrenzter“ Block zwischen Sätzen. Weitere Informationen finden Sie unter [Native Markdown-Unterstützung für Code-Blöcke](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Verwenden Sie Backticks (`` ` ``), um Inline-Code-Stile innerhalb eines Absatzes zu erstellen. Um einen bestimmten mehrzeiligen Code-Block zu erstellen, fügen Sie drei Backticks (` ` `` `) vor und nach dem Code-Block ein (in Markdown „umgrenzter Code-Block“ genannt und in AEM einfach eine „Code-Block“-Komponente). Fügen Sie bei abgegrenzten Code-Blöcken die Code-Sprache nach dem ersten Satz Backticks ein, sodass Markdown die Code-Syntax korrekt hervorhebt. Beispiel: ` `` `javascript`
+<!--
+Use back ticks (`` ` ``) to create inline code styles within a paragraph. To create a specific multi-line code block, add three back ticks (` ``` `) before and after the code block (called a "fenced code block" in Markdown and just a "code block" component in AEM). For fenced code blocks, add the code language after the first set of back ticks so that Markdown correctly highlights code syntax. Example: ` ```javascript`
+-->
 
 Beispiele:
 
@@ -225,11 +225,11 @@ Sie können aus vier Arten von Hinweisblöcken wählen, um die Aufmerksamkeit au
 * `[!IMPORTANT]`
 * `[!CAUTION]`
 * `[!WARNING]`
-* `[ !ADMINISTRATION]`
+* `[!ADMINISTRATION]`
 * `[!AVAILABILITY]`
 * `[!PREREQUISITES]`
 * `[!ERROR]`
-* `[ !ADMINISTRATION]`
+* `[!ADMINISTRATION]`
 * `[!INFO]`
 * `[!SUCCESS]`
 
@@ -309,7 +309,7 @@ Während der maschinellen Übersetzung werden Elemente, die mit &grave;&grave;-
 >Of the two tagging options, this is the most crucial to deliver high quality and is mandatory.
 -->
 
-**``**
+**`[!DNL]`**
 
 In der Regel wird eine „Nicht übersetzen“-Liste verwendet, um den maschinellen Übersetzungsprogrammen mitzuteilen, was auf Englisch bleiben soll. Zu den häufigsten Begriffen gehören lange Lösungsnamen wie „Adobe Analytics“, „Adobe Campaign“ und „Adobe Target“. Es kann jedoch vorkommen, dass zwingend Englisch genutzt werden muss, weil der betreffende Begriff auf eine bestimmte oder allgemeine Weise verwendet werden kann. Am naheliegendsten sind Kurznamen für die Lösungen wie „Analytics“, „Campaign“, „Target“ usw. Es wäre für eine Maschine schwierig zu verstehen, dass es sich um Lösungsnamen und nicht um allgemeine Begriffe handelt. Das Tag kann auch für Namen/Funktionen von Drittanbietern verwendet werden, die immer in Englisch bleiben, oder für kürzere Textabschnitte wie eine Wortgruppe oder einen Satz, die in Englisch bleiben müssen.
 
