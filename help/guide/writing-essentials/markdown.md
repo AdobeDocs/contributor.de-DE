@@ -153,12 +153,12 @@ Die Markdown-Syntax für einen Inline-Link besteht aus dem `[link text]`-Teil, d
 `[link text](file-name.md)`
 
 ```markdown
-[Adobe](https://www.adobe.com)
+[Adobe](https://www.adobe.com/de)
 ```
 
 Angezeigt:
 
-[Adobe](https://www.adobe.com)
+[Adobe](https://www.adobe.com/de)
 
 Verwenden Sie relative Links für Verknüpfungen zu Artikeln (Querverweise) im Repository. Sie können alle relativen Link-Operanden verwenden, z. B. ./ (aktueller Ordner), ../ (ein Ordner zurück) und ../../ (zwei Ordner zurück).
 
