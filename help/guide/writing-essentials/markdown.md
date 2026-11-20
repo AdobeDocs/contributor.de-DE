@@ -2,16 +2,16 @@
 title: Markdown zum Schreiben von Dokumentation verwenden
 description: Erfahren Sie mehr über die Grundlagen des Markdown-Authorings. Suchen Sie Referenzinformationen für die Markdown-Sprache, die zum Schreiben von Artikeln verwendet wird.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 67075e2ca1ac4f63c0bdc30507dbb0444a922afd
+source-git-commit: a1466cb4bcbef51689c659e25d56d5cb0d4843a6
 workflow-type: tm+mt
-source-wordcount: '1309'
-ht-degree: 92%
+source-wordcount: '1310'
+ht-degree: 88%
 ---
 # Markdown zum Schreiben von technischer Dokumentation verwenden
 
 Die technischen Adobe-Dokumentationsartikel werden in einer einfachen Markup-Sprache namens [Markdown](https://daringfireball.net/projects/markdown/) geschrieben, die einfach zu lesen und zu lernen ist.
 
-Wenn wir Adobe Docs-Inhalt in GitHub speichern, kann eine Version von Markdown mit dem Namen [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) verwendet werden, die zusätzliche Funktionen für allgemeine Formatierungsanforderungen bietet. Außerdem erweiterte Adobe Markdown auf verschiedene Arten, um bestimmte Hilfefunktionen wie Anmerkungen, Tipps und eingebettete Videos zu unterstützen.
+Da wir Adobe Docs-Inhalte in GitHub speichern, basiert er auf einer Markdown-Version namens [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/), die zusätzliche Funktionen für gängige Formatierungsanforderungen bietet. Darüber hinaus erweitert Adobe Markdown auf einige Weise, um bestimmte Hilfefunktionen wie Notizen, Tipps und eingebettete Videos zu unterstützen.
 
 ## Markdown-Grundlagen
 
@@ -49,7 +49,7 @@ This is not \*italicized\* type.
 
 ### Nummerierte Listen und Aufzählungslisten
 
-Um nummerierte Listen zu erstellen, beginnen Sie eine Zeile mit `1.` oder `1)`, aber mischen Sie die Formate nicht in derselben Liste. Sie müssen die Zahlen nicht speziell angeben. GitHub erledigt das für Sie.
+Um nummerierte Listen zu erstellen, beginnen Sie eine Zeile mit `1.` oder `1)`, aber mischen Sie die Formate nicht in derselben Liste. Sie müssen die Zahlen nicht angeben. GitHub erledigt das für Sie.
 
 ```markdown
 1. This is step 1.
@@ -60,8 +60,8 @@ Um nummerierte Listen zu erstellen, beginnen Sie eine Zeile mit `1.` oder `1)`, 
 Angezeigt:
 
 1. This is step 1.
-1. This is the next step.
-1. This is yet another step, the third.
+1. Dies ist der nächste Schritt.
+1. Dies ist ein weiterer Schritt, der dritte.
 
 Um Listen mit Aufzählungszeichen zu erstellen, beginnen Sie eine Zeile mit „\*“, „-“ oder „+“, aber mischen Sie die Formate nicht in derselben Liste. (Mischen Sie Aufzählungsformate wie \* und \+ nicht innerhalb desselben Dokuments.)
 
@@ -73,9 +73,9 @@ Um Listen mit Aufzählungszeichen zu erstellen, beginnen Sie eine Zeile mit „\
 
 Angezeigt:
 
-* First item in an unordered list.
+* Erstes Element in einer ungeordneten Liste.
 * Another item.
-* Und noch ein weiteres.
+* Hier geht es wieder los.
 
 Sie können auch Listen in Listen einbetten und Inhalte zwischen Listenelementen hinzufügen.
 
@@ -103,23 +103,23 @@ Sie können auch Listen in Listen einbetten und Inhalte zwischen Listenelementen
 Angezeigt:
 
 1. Set up your table and code blocks.
-1. Perform this step.
+1. Führen Sie diesen Schritt aus.
 
    ![Bildschirm](assets/no-localize/adobe_standard_logo.png)
 
-1. Make sure that your table looks like this:
+1. Stellen Sie sicher, dass Ihre Tabelle wie folgt aussieht:
 
    | Hello | World |
    |---|---|
    | How | are you? |
 
-1. This is the fourth step.
+1. Dies ist der vierte Schritt.
 
    >[!NOTE]
    >
    >Dies ist Anmerkungstext.
 
-1. Do another step.
+1. Führen Sie einen weiteren Schritt aus.
 
 ### Tabellen
 
@@ -139,7 +139,7 @@ Angezeigt:
 | row 1 | column 2 | column 3 |
 | row 2 | row 2 column 2 | row 2 column 3 |
 
-Einfache Tabellen funktionieren in Markdown angemessen. Tabellen, die mehrere Absätze oder Listen in einer Zelle enthalten, sind jedoch schwer zu bearbeiten. Für solche Inhalte empfehlen wir ein anderes Format, z. B. Überschriften und Text.
+Einfache Tabellen funktionieren in Markdown gut. Tabellen, die mehrere Absätze oder Listen in einer Zelle enthalten, sind jedoch schwer zu bearbeiten. Für solche Inhalte empfehlen wir ein anderes Format, z. B. Überschriften und Text.
 
 Weitere Informationen zum Erstellen von Tabellen finden Sie unter:
 
@@ -203,7 +203,7 @@ function test() {
  console.log("notice the blank line before this function?");
 ```
 
-## Benutzerspezifische Markdown-Erweiterungen
+## Benutzerdefinierte Markdown-Erweiterungen
 
 Adobe-Artikel verwenden Standard-Markdown für die meisten Artikelformatierungen wie Absätze, Links, Listen und Überschriften. Für eine reichhaltigere Formatierung können Artikel erweiterte Markdown-Funktionen verwenden, z. B.:
 
@@ -212,9 +212,9 @@ Adobe-Artikel verwenden Standard-Markdown für die meisten Artikelformatierungen
 * Übersetzungs-Tags
 * Komponenteneigenschaften, z. B. Zuweisen einer anderen Überschriften-ID zu einer Überschrift und Festlegen einer Bildgröße
 
-Verwenden Sie das Markdown-Blockanführungszeichen (>) am Anfang jeder Zeile, um eine erweiterte Komponente wie einen Hinweis anzubinden.
+Verwenden Sie das Markdown-Blockzitat ( > ) am Anfang jeder Zeile, um eine erweiterte Komponente wie einen Hinweis anzubinden.
 
-Einige gängige Markdown-Elemente wie Kopfzeilen und Codeblöcke umfassen erweiterte Eigenschaften. Wenn Sie die Standardeigenschaften ändern müssen, fügen Sie die Parameter in geschweiften Klammern /{ /} nach der Komponente hinzu. Erweiterte Eigenschaften werden im Kontext beschrieben.
+Einige gängige Markdown-Elemente wie Überschriften und Codeblöcke umfassen erweiterte Eigenschaften. Wenn Sie die Standardeigenschaften ändern müssen, fügen Sie die Parameter in geschweiften Klammern /{ /} nach der Komponente hinzu. Erweiterte Eigenschaften werden im Kontext beschrieben.
 
 ### Hinweisblöcke
 
@@ -233,7 +233,7 @@ Sie können aus vier Arten von Hinweisblöcken wählen, um die Aufmerksamkeit au
 * `[!INFO]`
 * `[!SUCCESS]`
 
-Im Allgemeinen sollten Hinweise sparsam verwendet werden, da sie stören können. Obwohl sie auch Codeblöcke, Bilder, Listen und Links unterstützen, sollten Sie Ihre Hinweise einfach und geradlinig halten.
+Im Allgemeinen sollten Hinweisblöcke sparsam verwendet werden, da sie stören können. Obwohl sie auch Codeblöcke, Bilder, Listen und Links unterstützen, sollten Sie Ihre Hinweisblöcke einfach und geradlinig halten.
 
 
 ```markdown
@@ -272,7 +272,7 @@ Angezeigt:
 
 ### Mehr wie dieses
 
-Die Komponente „Mehr wie dieses“ in AEM wird am Ende eines Artikels angezeigt. Es werden zugehörige Links angezeigt. Wenn der Artikel gerendert wird, kann er wie Ebene-2-Kopfzeilen (##) formatiert werden, ohne dem Mini-Inhaltsverzeichnis hinzugefügt zu werden.
+Die Komponente „Mehr wie dieses“ in AEM wird am Ende eines Artikels angezeigt. Es werden zugehörige Links angezeigt. Wenn der Artikel gerendert wird, kann er wie Ebene-2-Überschriften (##) formatiert werden, ohne dem Mini-Inhaltsverzeichnis hinzugefügt zu werden.
 
 ![mehr wie diese Syntax](assets/more-like-this-syntax.png)
 
@@ -344,9 +344,9 @@ Unsere Best practice ist es, Bindestrichen (-) anstelle von Unterstrichen (_) in
 
 ### Apostrophe und Anführungszeichen
 
-Wenn Sie Text in einen Markdown-Bearbeiter kopieren, kann der Text „smarte“ (geschweifte) Apostrophe oder Anführungszeichen enthalten. Diese müssen kodiert oder in einfache Apostrophe oder Anführungszeichen geändert werden. Andernfalls erhalten Sie korrupte Zeichen wie die folgenden, wenn die Datei veröffentlicht wird: Itâ€™s
+Wenn Sie Text in einen Markdown-Editor kopieren, kann der Text „smarte“ (geschweifte) Apostrophe oder Anführungszeichen enthalten. Diese müssen kodiert oder in einfache Apostrophe oder Anführungszeichen geändert werden. Andernfalls erhalten Sie korrupte Zeichen wie die folgenden, wenn die Datei veröffentlicht wird: Itâ€™s
 
-Im Folgenden finden Sie die Kodierungen für die „smarten“ Versionen dieser Interpunktionszeichen:
+Im Folgenden finden Sie die Kodierungen für die „smarten“ Versionen dieser Satzzeichen:
 
 * Anführungszeichen links (öffnend): `&#8220;`
 * Anführungszeichen rechts (schließend): `&#8221;`
@@ -355,7 +355,7 @@ Im Folgenden finden Sie die Kodierungen für die „smarten“ Versionen dieser 
 
 ### Spitze Klammern
 
-Wenn Sie spitze Klammern im Text (nicht im Code) in Ihrer Datei verwenden, zum Beispiel, um einen Platzhalter anzugeben, müssen Sie die spitzen Klammern manuell kodieren. Andernfalls wird in Markdown davon ausgegangen, dass sie ein HTML-Tag sein sollen.
+Wenn Sie spitze Klammern im Text (nicht im Code) in Ihrer Datei verwenden, zum Beispiel, um einen Platzhalter anzugeben, müssen Sie die spitzen Klammern manuell kodieren. Andernfalls wird in Markdown davon ausgegangen, dass sie ein HTML Tag sein sollen.
 
 Kodieren Sie beispielsweise `<script name>` als `&lt;script name&gt;`
 
