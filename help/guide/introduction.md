@@ -4,40 +4,38 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: In diesem Handbuch wird beschrieben, wie Sie Vorschläge und Ergänzungen zur Dokumentations-Website von Adobe hinzufügen können.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 6474661d6b2494cff3dd02b507f407181143d4a0
+source-git-commit: a1466cb4bcbef51689c659e25d56d5cb0d4843a6
 workflow-type: tm+mt
-source-wordcount: '910'
-ht-degree: 91%
-
+source-wordcount: '899'
+ht-degree: 78%
 ---
-
 # Handbuch für Mitwirkende an der Adobe-Dokumentation
 
 In diesem Handbuch wird beschrieben, wie Sie zur Adobe Enterprise-Hilfe auf Experience League beitragen können.
 
 ## Was ist eine kollaborative Dokumentation?
 
-Die technische Dokumentation und die Aktivierungsinhalte für Adobe Experience Cloud und andere Adobe Enterprise-Produkte basieren auf Open-Source-Prinzipien, die GitHub, Markdown und Adobe Experience Cloud-Lösungen nutzen.
+Die technische Dokumentation und die Aktivierungsinhalte für Adobe CX Enterprise und andere Adobe Enterprise-Produkte basieren auf Open-Source-Prinzipien, die GitHub-, Markdown- und Adobe CX Enterprise-Lösungen verwenden.
 
 Dieses Open-Source-Modell verbessert die Qualität der Inhalte und die Kommunikation zwischen Kunden sowie Dokumentations- und Produkt-Teams. Auf jeder Seite können Sie jetzt Nutzbarkeit von Inhalten, Protokollprobleme und sogar Inhaltsvorschläge als Git-Pull-Anfragen (PRs) bewerten. Die Adobe-Dokumentationsteams überwachen die Beiträge und Probleme täglich und nehmen nach Bedarf Aktualisierungen und Anpassungen vor.
 
 ## Arbeiten mit kollaborativer Dokumentation
 
-Benutzende dieses Materials haben – unabhängig davon, ob sie Beschäftigte, Partner bzw. Partnerinnen oder (potenzielle) Kunden bzw. Kundinnen sind – die Möglichkeit, auf verschiedene einfache Weisen zu dieser Dokumentation beizutragen.
+Benutzende dieses Materials haben – unabhängig davon, ob sie Beschäftigte, Partner bzw. Partnerinnen, Kunden bzw. Kundinnen oder sogar potenzielle Kunden bzw. Kundinnen sind – die Möglichkeit, auf verschiedene einfache Weisen zu dieser Dokumentation beizutragen.
 
 * Bewerten Sie die Nützlichkeit der ❶ und schreiben Sie einen optionalen Kommentar ❷
 * Melden eines Problems mit einer bestimmten Seite (Git-Anmeldung erforderlich) ❸
 * Einreichen einer schnellen Bearbeitung bis zum Verfassen ganzer Artikel, komplett mit Assets und Code-Beispielen (Git-Anmeldung erforderlich) ❹
 
-![Feedback](assets/feedback-options.png)
+![Feedback](assets/feedback-options-2026.png)
 
-Diese Optionen werden einige Sekunden nach dem Öffnen unten auf der Seite angezeigt. Wenn Sie den Feedback-Bereich verworfen haben, können Sie die Seite neu laden, um ihn erneut anzuzeigen.
+Diese Optionen werden einige Sekunden nach dem Öffnen auf der rechten Seite der Seite angezeigt.
 
 In diesem Handbuch wird beschrieben, was Sie wissen müssen, um mit diesem Materialsatz zu interagieren und zu ihm beizutragen.
 
-## Bewerten der Nützlichkeit der Seite und Schreiben eines Kommentars
+## Bewerten Sie die Nützlichkeit der Seite und schreiben Sie einen Kommentar
 
-Einige Sekunden nach dem Öffnen einer Seite wird unten auf der Seite ein Feedback-Bereich angezeigt. Klicken Sie auf den Pfeil nach oben bzw. nach unten, um anzugeben, ob die Seite hilfreich war.
+Einige Sekunden nach dem Öffnen einer Seite wird rechts auf der Seite ein Feedback-Bereich angezeigt. Klicken Sie auf den Pfeil nach oben bzw. nach unten, um anzugeben, ob die Seite hilfreich war.
 
 Sie können auch einen Kommentar hinterlassen, um zusätzliches Feedback zu geben.
 
@@ -49,7 +47,7 @@ Wenn Sie detaillierteres Feedback geben möchten, können Sie kleine Fehler und 
 
    Sie müssen nur einmal eine Adobe-Lizenzvereinbarung für Mitarbeiter übermitteln.
 
-1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detailed feedback options]** und anschließend auf **[!UICONTROL Suggest an edit]**, um zur Markdown-Quelldatei auf GitHub zu wechseln.
+1. Klicken Sie im Feedback-Bereich auf der rechten Seite des Artikels auf **[!UICONTROL Detailed feedback options]** und anschließend auf **[!UICONTROL Suggest an edit]** , um zur Markdown-Quelldatei auf GitHub zu gelangen.
 
    ![Bearbeiten Sie das Symbol für diese Seite](/help/guide/assets/feedback-suggest-edit.png)
 
@@ -73,7 +71,7 @@ Wenn Sie detaillierteres Feedback geben möchten, können Sie kleine Fehler und 
 
    >[!NOTE]
    >
-   >Wenn Sie eine Validierungsfehlermeldung erhalten, in der Sie zum Unterschreiben einer Lizenzvereinbarung für Mitwirkende (Contributor License Agreement, CLA) aufgefordert werden, klicken Sie auf **[!UICONTROL Details]**, um die Lizenzvereinbarung zu öffnen. Unterschreiben Sie die Vereinbarung, falls akzeptabel. Schließen und öffnen Sie dann die Pull-Anfrage und fahren Sie fort.
+   >Wenn Sie eine Validierungsfehlermeldung erhalten, in der Sie zum Unterschreiben einer Lizenzvereinbarung für Mitwirkende (Contributor License Agreement, CLA) aufgefordert werden, klicken Sie auf **[!UICONTROL Details]**, um die Lizenzvereinbarung zu öffnen. Unterschreiben Sie die Vereinbarung, wenn Sie damit einverstanden sind. Schließen Sie dann die Pull-Anfrage, öffnen Sie sie erneut und fahren Sie fort.
 
 Und das war&#39;s auch schon. Die Mitglieder des Dokumentations-Teams werden Ihre Pull-Anfrage überprüfen und zusammenführen. Vielen Dank!
 
@@ -81,7 +79,7 @@ Und das war&#39;s auch schon. Die Mitglieder des Dokumentations-Teams werden Ihr
 
 Eine weitere einfache Möglichkeit, uns auf ein Problem mit einem Inhalt hinzuweisen, ist die Verwendung von **[!UICONTROL Report an issue]**.
 
-1. Klicken Sie im Feedback-Bereich unten im Artikel auf **[!UICONTROL Detailed feedback options]** und anschließend auf **[!UICONTROL Report an issue]**, um zur Markdown-Quelldatei auf GitHub zu wechseln.
+1. Klicken Sie im Feedback-Bereich auf der rechten Seite des Artikels auf **[!UICONTROL Detailed feedback options]** und anschließend auf **[!UICONTROL Report an issue]** , um zur Markdown-Quelldatei auf GitHub zu gelangen.
 
    ![Melden eines Problems](assets/feedback-report-issue.png)
 
@@ -109,7 +107,6 @@ Die Bearbeitung im Browser eignet sich am besten für geringfügige oder selten 
 
 ## Feedback geben
 
-Bei einer Lösung, die so groß wie die von Adobe ist, wird die Dokumentation ständig bearbeitet. Wenn Sie Fehler finden, protokollieren Sie ein Problem, und wenn Sie Vorschläge zu Material haben, teilen Sie uns dies mit. Teilen Sie uns mit, wonach Sie gesucht haben. Lassen Sie uns wissen, wenn Sie nicht finden konnten, was Sie benötigen, oder wenn Sie Schwierigkeiten hatten, Ihre Aufgabe abzuschließen. Teilen Sie uns mit, wie wir Ihnen beim Erlernen unserer Lösungen helfen können.
+Bei einer Lösung, die so groß wie die von Adobe ist, wird die Dokumentation ständig bearbeitet. Wenn Sie Fehler finden, protokollieren Sie ein Problem, und wenn Sie Vorschläge zu Material haben, teilen Sie uns dies mit. Teilen Sie uns mit, wonach Sie gesucht haben. Lassen Sie uns wissen, wenn Sie nicht finden konnten, was Sie brauchten, oder wenn Sie Schwierigkeiten hatten, Ihre Aufgabe abzuschließen. Teilen Sie uns mit, wie wir Ihnen beim Erlernen unserer Lösungen helfen können.
 
 Vielen Dank vom Team für kollaborative Dokumentation und allen Autorinnen und Autoren sowie Inhaltsproduzenten in Experience League. Danke für deine Hilfe!
-

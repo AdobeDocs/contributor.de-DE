@@ -2,14 +2,12 @@
 title: Schritte zur GitHub-Kontoeinrichtung
 description: Führen Sie die Schritte zum Einrichten von Konten für GitHub durch, um Inhalt zur Adobe-Dokumentation beizutragen.
 exl-id: 62be9e5a-bbbc-4a78-82e9-24cf658e6d35
-source-git-commit: 6510db0d89ac9224df8a73ab50776e65068b7e08
+source-git-commit: a1466cb4bcbef51689c659e25d56d5cb0d4843a6
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 100%
-
+source-wordcount: '215'
+ht-degree: 85%
 ---
-
-# GitHub-Konto einrichten
+# Einrichten eines GitHub-Kontos
 
 ## Einrichten eines GitHub-Kontos
 
@@ -31,6 +29,6 @@ Für alle Drittanbieterbeiträge zu diesem Projekt muss eine signierte Lizenzver
 
 >[!NOTE]
 >
->Wenn Sie ein Adobe-Mitarbeiter sind, empfehlen wir Ihnen, `https://git.corp.adobe.com/adobedocs` zu besuchen, sich mit Ihrem LDAP-Konto zu registrieren und den Inhalt zu finden, den Sie bearbeiten möchten.
+>Wenn Sie Mitarbeiter von Adobe sind, empfehlen wir Ihnen, zu `https://github.com/Adobe-Enterprise-Docs` zu gehen, sich mit Ihrem Enterprise LDAP-Konto (nicht mit Ihrem öffentlichen Github.com-Konto) anzumelden und die Inhalte zu suchen, die Sie bearbeiten möchten.
 >
 >Sie können dann entweder den Ansatz für kleinere (im Browser) oder für umfangreiche Änderungen (Abspaltung und lokales Klonen) zur Bearbeitung von Artikeln und zum Senden von Pull-Anfragen verwenden.

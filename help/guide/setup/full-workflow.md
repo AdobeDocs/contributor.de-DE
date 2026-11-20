@@ -2,20 +2,18 @@
 title: GitHub-Beitrags-Workflow für umfangreiche Änderungen
 description: Erfahren Sie, wie Sie über Experience League Beiträge zur Adobe-Dokumentation leisten können.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
-source-git-commit: 6510db0d89ac9224df8a73ab50776e65068b7e08
+source-git-commit: a1466cb4bcbef51689c659e25d56d5cb0d4843a6
 workflow-type: tm+mt
-source-wordcount: '951'
+source-wordcount: '860'
 ht-degree: 96%
-
 ---
-
 # GitHub-Beitrags-Workflow für umfangreiche Änderungen
 
 <!--
 >[!IMPORTANT]
 >All repositories that publish to docs.adobe.com have adopted the [Adobe Open Source Code of Conduct](../../code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](../../contributing.md) article.
 >
-> Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/de/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
+> Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
 -->
 
 ## Überblick
@@ -41,7 +39,7 @@ Wenn Sie nicht mit Git- und GitHub-Konzepten wie einem Repository oder einer Ver
 >
 > Falls noch nicht geschehen, müssen Sie die Schritte im Abschnitt [Einstellungen](github-signup.md) ausführen.
 
-In diesem Workflow treten Änderungen in einem sich wiederholenden Zyklus auf. Ausgehend vom lokalen Repository Ihres Geräts fließen sie wieder in die GitHub-Abspaltung, in das GitHub-Haupt-Repository und wieder lokal zurück, während Sie Änderungen von anderen Mitarbeitern übernehmen.
+In diesem Workflow treten Änderungen in einem sich wiederholenden Zyklus auf. Ausgehend vom lokalen Repository Ihres Geräts fließen sie wieder in Ihren GitHub-Fork, in das GitHub-Haupt-Repository und wieder lokal zurück, während Sie Änderungen von anderen Mitarbeitern übernehmen.
 
 ### GitHub-Fluss verwenden
 
@@ -49,11 +47,13 @@ Denken Sie an die [Git- und GitHub-Grundlagen](git-fundamentals.md): Ein Git-Rep
 
 Durch Isolieren verwandter Änderungen gegenüber einer spezifischen Verzweigung können Sie diese Änderungen unabhängig voneinander steuern sowie einführen und auf einen bestimmten Zeitpunkt im Veröffentlichungszyklus ausrichten. Je nach Art der Arbeit können Sie in Ihrem Repository tatsächlich ganz einfach mehrere Arbeitsverzweigungen verwenden. Es ist nicht ungewöhnlich, gleichzeitig an mehreren Verzweigungen zu arbeiten, die jeweils ein anderes Projekt repräsentieren.
 
+<!--
 >[!NOTE]
 >
->Ihre Änderungen im Hauptzweig vorzunehmen *ist nicht empfehlenswert*. Nehmen wir an, Sie verwenden den Hauptzweig, um Änderungen an einer Funktion mit einer zeitlich geplanten Veröffentlichung vorzunehmen. Sie schließen die Änderungen ab und warten darauf, sie zu veröffentlichen. In der Zwischenzeit erhalten Sie eine dringende Anfrage, etwas zu beheben, weshalb Sie die entsprechende Änderung an einer Datei im Hauptzweig vornehmen und die Änderung dann veröffentlichen. In diesem Beispiel veröffentlichen Sie versehentlich sowohl die Fehlerbehebung *als auch* die Änderungen, die Sie für die Veröffentlichung an einem bestimmten Datum vorbehalten haben.
+>Making your changes in the main branch *is not a good practice*. Imagine that you use the main branch to introduce a set of changes for a timed feature release. You finish the changes and are waiting to release them. Then in the interim, you have an urgent request to fix something, so you make the change to a file in the main branch and then publish the change. In this example, you inadvertently publish both the fix *and* the changes that you were holding for release on a specific date.
+-->
 
-Der nächste Schritt besteht darin, eine neue Arbeitsverzweigung in Ihrem lokalen Repository zu erstellen, um Ihre vorgeschlagenen Änderungen zu erfassen. Jeder Git-Client ist anders, wenden Sie sich also an die Hilfe für Ihren bevorzugten Client. Einen Überblick über den Prozess finden Sie im GitHub-Leitfaden zum [GitHub-Fluss](https://guides.github.com/introduction/flow/).
+Der nächste Schritt besteht darin, eine neue Arbeitsverzweigung in Ihrem lokalen Repository zu erstellen, um Ihre vorgeschlagenen Änderungen zu erfassen. Jeder Git-Client ist anders, sehen Sie also in der Hilfe für Ihren bevorzugten Client nach. Einen Überblick über den Prozess finden Sie im GitHub-Leitfaden zum [GitHub-Fluss](https://guides.github.com/introduction/flow/).
 
 ## Verarbeitung von Pull-Anfragen
 
@@ -61,7 +61,7 @@ Sie senden vorgeschlagene Änderungen, indem Sie sie in einer neuen Pull-Anfrage
 
 ### Validierung
 
-Bevor Ihre Pull-Anfrage in der Zielverzweigung zusammengeführt werden kann, muss sie möglicherweise mindestens einen PA-Validierungsprozess durchlaufen. Validierungsprozesse können je nach Umfang der vorgeschlagenen Änderungen und den Regeln des Ziel-Repositorys variieren. Nachdem Ihre Pull-Anfrage gesendet wurde, können Sie erwarten, dass der Inhalt überprüft und gegebenenfalls im Haupt-Repository zusammengeführt wird.
+Bevor Ihre Pull-Anfrage in der Zielverzweigung zusammengeführt werden kann, muss sie möglicherweise einen oder mehrere PR-Validierungsprozesse durchlaufen. Validierungsprozesse können je nach Umfang der vorgeschlagenen Änderungen und den Regeln des Ziel-Repositorys variieren. Nachdem Ihre Pull-Anfrage gesendet wurde, können Sie erwarten, dass der Inhalt überprüft und gegebenenfalls im Haupt-Repository zusammengeführt wird.
 
 ### Überprüfen und abmelden
 
@@ -71,4 +71,4 @@ Wenn die Pull-Anfrage problemlos und abgezeichnet ist, werden Ihre Änderungen i
 
 ### Veröffentlichung läuft
 
-Denken Sie daran, dass Ihre Pull-Anfrage von einem PA-Prüfer zusammengeführt werden muss, bevor die Änderungen in die nächste geplante Veröffentlichung aufgenommen werden können. Pull-Anfragen werden normalerweise in der Reihenfolge der Übermittlung geprüft/zusammengeführt. Wenn Ihre Pull-Anfrage für eine bestimmte Veröffentlichung zusammengeführt werden muss, müssen Sie mit Ihrem PA-Prüfer zusammenarbeiten, um sicherzustellen, dass die Zusammenführung vor der Veröffentlichung erfolgt.
+Denken Sie daran, dass Ihre Pull-Anfrage von einem PR-Prüfer zusammengeführt werden muss, bevor die Änderungen in die nächste geplante Veröffentlichung aufgenommen werden können. Pull-Anfragen werden normalerweise in der Reihenfolge der Übermittlung geprüft/zusammengeführt. Wenn Ihre Pull-Anfrage für eine bestimmte Veröffentlichung zusammengeführt werden muss, müssen Sie mit Ihrem PA-Prüfer zusammenarbeiten, um sicherzustellen, dass die Zusammenführung vor der Veröffentlichung erfolgt.
