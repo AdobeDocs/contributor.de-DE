@@ -263,12 +263,12 @@ Angezeigt:
 Eingebettete Videos werden nicht nativ in Markdown gerendert, Sie können aber diese Markdown-Erweiterung verwenden.
 
 ```markdown
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507560/?captions=ger&quality=12)
 ```
 
 Angezeigt:
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507560/?captions=ger&quality=12)
 
 ### Mehr wie dieses
 
